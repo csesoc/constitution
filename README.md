@@ -50,6 +50,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         society membership fee. 
         2.3.1 The duration of full membership shall be until the end of the calendar year, 
               after the member is no longer enrolled in an agreed program under section 2.3 
+        2.3.2 As soon as a member no longer meets the requirements of a full member defined in section 2.3 
+              their membership shall be terminated.
     2.4 Associate membership shall be open to all persons who are not full members subject to 
         affiliation requirements of Arc, provided that they pay a membership fee that is set by the club 
         Executive, and they complete a membership form prepared by the club Executive. 
