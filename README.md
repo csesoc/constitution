@@ -5,7 +5,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
  
 # 1 INTRODUCTION 
 
-    1.1 The official name of the society shall be CSE Society. 
+    1.1 The official name of the society shall be CSE Society.
+        1.1.1 The unofficial name of the society shall be CSESoc.
     1.2 The society shall be affiliated to the Arc. 
     1.3 The aims and objectives of the society are: 
         1.3.1 To fulfil the specific social needs of CSE students; 
