@@ -58,8 +58,9 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         Executive, and they complete a membership form prepared by the club Executive. 
         2.4.1 The duration of associate membership shall be until the end of the calendar year. 
     2.5 Notwithstanding sections 2.3.1 and 2.4.1, membership shall be terminated when: 
-        2.5.1 The member dies; or 
-        2.5.2 Their membership is terminated under section 2.7 
+        2.5.1 The member dies;
+        2.5.2 The member notifies the executive in writing to request their membership be terminated; or
+        2.5.3 Their membership is terminated under section 2.7.
     2.6 The society shall comply with the Anti-Discrimination Act (1977) in all of its activities or 
         procedures, including the granting of society membership. 
     2.7 A member of the society may have their membership terminated after the following 
