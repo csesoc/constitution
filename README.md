@@ -48,8 +48,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         Computer Engineering, Software Engineering, Bioinformatics Engineering, or a post-graduate 
         program administered by CSE (research or coursework). They shall not be required to pay any 
         society membership fee. 
-        2.3.1 Enrolments shall be defined as enrolled in a CSE program and undertaking a load of more than 
-              0 UOC for the current or next semester.
+        2.3.1 Enrolments shall be defined as current enrolment in an agreed program under section 2.3.
     2.4 Associate membership shall be open to all persons who are not full members subject to 
         affiliation requirements of Arc, provided that they pay a membership fee that is set by the club 
         Executive, and they complete a membership form prepared by the club Executive. 
