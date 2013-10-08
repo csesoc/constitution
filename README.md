@@ -201,11 +201,10 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     5.1 ANNUAL GENERAL MEETINGS 
         5.1.1 There shall be one Annual General meeting every calendar year. 
         5.1.2 The Annual General Meeting shall be held on an academic day. 
-        5.1.3 Notice in the form of an agenda for the Annual General Meeting shall be no less than five (5) academic days, and is to be: 
-            5.1.3.1 Advertised in Tharunka and/or Blitz and/or the Arc website; 
-            5.1.3.2 Given in writing, through the CSE email system, to all society members, or upon 
-                    approval by the Arc, displayed in a way that will guarantee an acceptable level of 
-                    exposure among society members. 
+        5.1.3 Notice in the form of an agenda for the Annual General Meeting shall be no less than five (5) academic days,
+              and is to be given in writing, through the CSE email system, to all society members, or upon 
+              approval by the Arc, displayed in a way that will guarantee an acceptable level of 
+              exposure among society members. 
         5.1.4 Quorum for the Annual General Meeting shall be fifteen members or one half of the 
               society membership, whichever is the lesser. 
         5.1.5 At an Annual General Meeting: 
