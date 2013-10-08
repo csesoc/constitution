@@ -39,9 +39,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
 # 2 MEMBERSHIP 
 
-    2.1 The list of automatic full members of CSE Society is maintained by the school of CSE.
-        All modifications to this list will remain with the Executive, updated semesterly and upon granting 
-        or removal of either full or associate membership. Society lists are not to be given or sold to any other 
+    2.1 The list of full members of CSE Society is maintained by the school of CSE.
+        All modifications to this list will remain with the Executive. Society lists are not to be given or sold to any other 
         person; Arc and the Executive shall have sole access.
     2.2 The society will be a Constituent society since it has an agreed association with School of 
         Computer Science and Engineering, which is ratified by the Arc. 
