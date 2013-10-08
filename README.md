@@ -140,8 +140,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         3.7.3 DUTIES OF THE TREASURER 
             a) To keep and maintain all society financial records; 
             b) To hold cheque books, petty cash tins etc; 
-            c) To keep the society executive informed of its financial position (at meetings, through
-               regular e-mail reports, or regular newsletter);
+            c) To keep the society informed of its financial position;
             d) To carry out financial transactions as directed by the society management; 
             e) To not lend money of the society under any circumstances; 
             f) To always ensure that the records are up to date and in good order so that if they 
