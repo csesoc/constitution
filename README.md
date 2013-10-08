@@ -309,8 +309,10 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               other position, and at least five (5) unique nominees for the positions in total. 
     8.3 Nominations must be entered and seconded by two (2) full members, one of whom must be 
         the nominee. 
-    8.4 The secretary shall maintain the official list of nominees during the nomination period, and 
-        upon its closure, forward the list to the School of CSE, who shall run the official election. 
+    8.4 The Co-Presidents shall maintain the official list of nominees during the nomination period,
+        and upon its closure, forward the list to the School of CSE, who shall run the official election. 
+        The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary
+        on this same day.
         8.4.1 Only elections run by the School of CSE shall be recognised. 
         8.4.2 The Exec may choose that the list be made publicly available during the nomination 
               period. If they choose to do so, it must be on the Society website. 
