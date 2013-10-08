@@ -320,7 +320,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         one (1) business day. 
     8.7 Only full members are entitled to vote for the Executive. Full members may vote for two 
         (2) candidates for Co-president, and one (1) candidate for each other position. 
-    8.8 Voting is to be confidential and anonymous whenever possible;
+    8.8 Voting is to be confidential and anonymous with the exception of,
         8.8.1 In the event of a full member being prevented by the School of CSE from accessing the voting site,
         votes shall be submitted to the first executive member not running in the election in the following list; 
         the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate.
