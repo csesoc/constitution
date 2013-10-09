@@ -7,7 +7,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
     1.1 The official name of the society shall be CSE Society.
         1.1.1 The acronym of the society shall be CSESoc.
-    1.2 The society shall be affiliated to the Arc. 
+    1.2 The society shall be affiliated to Arc. 
     1.3 The aims and objectives of the society are: 
         1.3.1 To fulfil the specific social needs of CSE students; 
         1.3.2 To promote computing through technical and nontechnical oriented events to all students of UNSW; and 
@@ -20,9 +20,9 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
     1.6 For the purposes of this Constitution: 
         1.6.1  The University shall mean the University of New South Wales; 
-        1.6.2  The Arc shall mean the Arc @ UNSW Limited; 
-        1.6.3  Tharunka and Blitz shall mean the official publications of the Arc; 
-        1.6.4  Re-affiliation shall mean re-affiliation with the Arc; 
+        1.6.2  Arc shall mean Arc @ UNSW Limited; 
+        1.6.3  Tharunka and Blitz shall mean the official publications of Arc; 
+        1.6.4  Re-affiliation shall mean re-affiliation with Arc; 
         1.6.5  Full members shall mean full members of the CSE Society; 
         1.6.6  Associate members shall mean associate members of the CSE Society; 
         1.6.7  The Executive shall mean the Executive of the CSE Society; 
@@ -44,7 +44,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         All modifications to this list will remain with the Executive. Society lists are not to be given or sold to any other 
         person; Arc and the Executive shall have sole access.
     2.2 The society will be a Constituent society since it has an agreed association with School of 
-        Computer Science and Engineering, which is ratified by the Arc. 
+        Computer Science and Engineering, which is ratified by Arc. 
     2.3 Full membership shall be conferred upon students who are enrolled in Computer Science, 
         Computer Engineering, Software Engineering, Bioinformatics Engineering, or a post-graduate 
         program administered by CSE (research or coursework). They shall not be required to pay any 
@@ -75,7 +75,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               Extraordinary General Meeting; and 
         2.7.5 The motion is carried by the Extraordinary General Meeting. 
     2.8 Any member of the society who believes they have been wrongly expelled may appeal to 
-        the Arc, who will arrive at the final resolution of the matter. 
+        Arc, who will arrive at the final resolution of the matter. 
 
 # 3 EXECUTIVE
 
@@ -126,11 +126,11 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             k) To liaise with the Arc where necessary; 
             l) To ensure that an “Application for Affiliation” form accompanied by the minutes 
                of the most recent Annual General Meeting and an updated membership list is 
-               submitted to the Arc; 
+               submitted to Arc; 
             m) To ensure that the Treasurer submits a Financial Report to the society at the 
-               AGM and to the Arc and that they have the society’s finances in good order in 
-               preparation for Spot Audits by the Arc; 
-            n) To ensure that the Arc is informed of changes to the Executive; 
+               AGM and to Arc and that they have the society’s finances in good order in 
+               preparation for Spot Audits by Arc; 
+            n) To ensure that Arc is informed of changes to the Executive; 
             o) To pass on their knowledge to their successor; and 
             p) Other duties as in accordance with the constitution of the society’s guidelines. 
         3.7.2 DUTIES OF THE SECRETARY 
@@ -168,7 +168,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
                possibilities for the society. 
             b) To communicate with the Executive before and after the each Arc meeting to 
                pass on information (about grants etc); 
-            c) To liaise with the Arc and the society’s Executive; 
+            c) To liaise with Arc and the society’s Executive; 
             d) To have a good working knowledge of Arc forms; 
             e) To clear out the society’s pigeonhole in the Arc Resource Room at least every 
                two weeks; 
@@ -214,7 +214,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
                     voted upon; and 
             5.1.5.4 Nominations for the Executive elections shall open, pursuant to section 8.1. 
         5.1.6 Full minutes of this meeting, including a list of the new Executive, written financial 
-              reports, and constitutional amendments, shall be forwarded to the Arc within ten (10) business 
+              reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business 
               days of the Handover Meeting. 
     5.2 EXTRAORDINARY GENERAL MEETINGS 
         5.2.1 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned 
@@ -255,7 +255,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             5.5.1.5 Constitutional changes must be in the form of a motion on notice to an Annual or 
                     Extraordinary General Meeting; and 
             5.5.1.6 Constitutional changes passed at an Annual or Extraordinary General Meeting 
-                    will not take effect until ratified by the Arc. 
+                    will not take effect until ratified by Arc. 
             5.5.1.7 The Secretary shall send the agenda for the meeting, to all those required to 
                     attend, no later than two (2) business days prior to the meeting. 
  
@@ -267,14 +267,14 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         society Treasurer. 
         6.3.1 In the case of EFT, the required signatures shall be digital. 
     6.4 The Co-presidents and the Treasurer shall be the signatories to the society’s account(s). 
-    6.5 The financial records of the society shall be open for inspection by the Arc at all times. 
+    6.5 The financial records of the society shall be open for inspection by Arc at all times. 
  
 # 7 DISSOLUTION 
 
     7.1 Dissolution of the CSE Society will occur after the following conditions have been met: 
         7.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 4.11; 
         7.1.2 Procedures for notification as set out in 4.1.3 are followed, and the reasons for the 
-              proposed dissolution are included with the notification to the Arc; 
+              proposed dissolution are included with the notification to Arc; 
         7.1.3 Quorum for the meeting to dissolve the society shall be twenty (20) members or 
               three-quarters of the society membership, whichever is the lesser; 
         7.1.4 No other business may be conducted at the meeting to dissolve the society; 
@@ -282,7 +282,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               opportunity to reply, with at least ten minutes set aside for this purpose; 
         7.1.6 A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more 
               members of the society; and 
-        7.1.7 If the motion to dissolve is carried, the Arc must be notified within ten (10) 
+        7.1.7 If the motion to dissolve is carried, Arc must be notified within ten (10) 
               academic days. 
     7.2 Dissolution of the society will also occur if the society has been financially AND 
         administratively inactive for a period of eighteen (18) months. Financial inactivity shall mean 
@@ -290,13 +290,13 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         Administrative inactivity shall mean no recorded and official publicity to the School of 
         Computer Science and Engineering student body through methods/medium such as email, 
         posters. 
-    7.3 The Arc must give twenty (20) academic days notice in Tharunka and/or Blitz and/or the 
+    7.3 Arc must give twenty (20) academic days notice in Tharunka and/or Blitz and/or the 
         Arc website, and in writing to the last known Co-Presidents before dissolving the society in this 
         way. 
     7.4 On dissolution of the society, the society is not to distribute assets to members. All assets 
         are to be distributed to an organisation with similar goals or objectives that also prohibits the 
         distribution of assets to members. This organisation may be nominated at the dissolution 
-        meeting of the society. If no other legitimate organisation is nominated, the Arc will begin 
+        meeting of the society. If no other legitimate organisation is nominated, Arc will begin 
         procedures to recover any property, monies or records belonging to the society which it 
         perceives would be useful to other Arc-affiliated clubs. 
 
