@@ -12,7 +12,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         1.3.1 To fulfil the specific social needs of CSE students; 
         1.3.2 To promote computing through technical and nontechnical oriented events to all students of UNSW; and 
     1.3.3 To establish rapport with external organisations/groups that are enthusiastic about computing. 
-    1.4 During the course of affiliation, the society shall comply with any requirements of the Arc. 
+    1.4 During the course of affiliation, the society shall comply with any requirements of Arc. 
     1.5 In all matters not specifically dealt with herein, the procedures set out in Guide for 
         Meetings and Organizations by N.E.R. Renton (5th Edition) shall apply. 
 
@@ -123,7 +123,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             i) To liaise with fellow office bearers; 
             j) To acquaint each Executive member with their function, responsibility, duties and 
                maintain personal contact with them; 
-            k) To liaise with the Arc where necessary; 
+            k) To liaise with Arc where necessary; 
             l) To ensure that an “Application for Affiliation” form accompanied by the minutes 
                of the most recent Annual General Meeting and an updated membership list is 
                submitted to Arc; 
@@ -203,7 +203,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         5.1.2 The Annual General Meeting shall be held on an academic day. 
         5.1.3 Notice in the form of an agenda for the Annual General Meeting shall be no less than five (5) academic days,
               and is to be given in writing, through the CSE email system, to all society members, or upon 
-              approval by the Arc, displayed in a way that will guarantee an acceptable level of 
+              approval by Arc, displayed in a way that will guarantee an acceptable level of 
               exposure among society members. 
         5.1.4 Quorum for the Annual General Meeting shall be fifteen members or one half of the 
               society membership, whichever is the lesser. 
