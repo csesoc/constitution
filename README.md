@@ -328,3 +328,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         votes shall be submitted to the first executive member not running in the election in the following list; 
         the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate.
         The executive member will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
+    8.9 Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
+        8.9.1 Each candidate must reach the quota of votes as determined by the Droop quota for that position.
+        8.9.2 When electing Co-presidents, all first and second preferences shall be counted as first preferences.
+
