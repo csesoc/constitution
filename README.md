@@ -249,7 +249,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     5.5 GENERAL MEETINGS 
         5.5.1 General meeting requirements for all meetings are as follows: 
             5.5.1.1 All voting at meetings shall be with a simple majority required for a resolution to be passed; 
-            5.5.1.2 Each member is entitled to one vote; 
+            5.5.1.2 Each full member is entitled to one vote; 
             5.5.1.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
             5.5.1.4 In the case of equality of voting, the motion shall be defeated. 
             5.5.1.5 Constitutional changes must be in the form of a motion on notice to an Annual or 
