@@ -152,7 +152,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             j) To always enter the payee's name, the amount and a brief explanation of the 
                payment on the cheque butt or EFT transaction description; 
             k) To always provide a receipt to a person who gives money to the society for any 
-               reason immediately; 
+               reason as soon as possible; 
             l) To ensure petty cash is banked within three (3) business days once it exceeds 
                $500; 
             m) To ensure you have at least two and not more than three signatories who are 
