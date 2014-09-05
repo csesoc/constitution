@@ -182,7 +182,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     4.1 The Executive shall establish working groups as they see fit. 
     4.2 A working group shall be a subset of members that have certain tasks of the society 
         delegated to them by the Executive. 
-    4.3 Working groups shall have a head appointed by the Executive, who must be a member of 
+    4.3 Working groups shall have either one or two heads appointed by the Executive, who must be a member of 
         the society. 
     4.4 The head of a working group shall at all times report and be responsible to the Executive, 
         and be responsible for leading their working group. 
