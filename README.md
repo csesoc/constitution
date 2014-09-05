@@ -56,7 +56,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         upon students enrolled in a course administered by the school of CSE. Associate membership is open
         to all other persons subject to affiliation requirements of Arc, provided that they pay a membership fee
         that is set by the club Executive, and they complete a membership form prepared by the club Executive.
-        2.4.1 The duration of associate membership shall be until the end of the calendar year. 
+        2.4.1 The duration of associate membership shall be until the end of the semester.
     2.5 Notwithstanding sections 2.3.1 and 2.4.1, membership shall be terminated when: 
         2.5.1 The member dies;
         2.5.2 The member notifies the executive in writing to request their membership be terminated; or
@@ -124,15 +124,12 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             j) To acquaint each Executive member with their function, responsibility, duties and 
                maintain personal contact with them; 
             k) To liaise with Arc where necessary; 
-            l) To ensure that an “Application for Affiliation” form accompanied by the minutes 
-               of the most recent Annual General Meeting and an updated membership list is 
-               submitted to Arc; 
-            m) To ensure that the Treasurer submits a Financial Report to the society at the 
+            l) To ensure that the Treasurer submits a Financial Report to the society at the 
                AGM and to Arc and that they have the society’s finances in good order in 
                preparation for Spot Audits by Arc; 
-            n) To ensure that Arc is informed of changes to the Executive; 
-            o) To pass on their knowledge to their successor; and 
-            p) Other duties as in accordance with the constitution of the society’s guidelines. 
+            m) To ensure that Arc is informed of changes to the Executive; 
+            n) To pass on their knowledge to their successor; and 
+            o) Other duties as in accordance with the constitution of the society’s guidelines. 
         3.7.2 DUTIES OF THE SECRETARY 
             a) To be responsible for receiving and replying to all correspondence on behalf of 
                the society; 
@@ -155,7 +152,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             j) To always enter the payee's name, the amount and a brief explanation of the 
                payment on the cheque butt or EFT transaction description; 
             k) To always provide a receipt to a person who gives money to the society for any 
-               reason immediately; 
+               reason as soon as possible; 
             l) To ensure petty cash is banked within three (3) business days once it exceeds 
                $500; 
             m) To ensure you have at least two and not more than three signatories who are 
@@ -170,11 +167,14 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
                pass on information (about grants etc); 
             c) To liaise with Arc and the society’s Executive; 
             d) To have a good working knowledge of Arc forms; 
-            e) To clear out the society’s pigeonhole in the Arc Resource Room at least every 
+            e) To ensure that an “Application for Affiliation” form accompanied by the minutes 
+               of the most recent Annual General Meeting and an updated membership list is 
+               submitted to Arc; 
+            f) To clear out the society’s pigeonhole in the Arc Resource Room at least every 
                two weeks; 
-            f) To attend Arc clubs general meetings or get someone to stand in, or send advance 
+            g) To attend Arc clubs general meetings or get someone to stand in, or send advance 
                apologies; and 
-            g) To ensure that grants are filed properly, in particular, within the time period 
+            h) To ensure that grants are filed properly, in particular, within the time period 
                specified by Arc. 
  
 # 4 WORKING GROUPS 
@@ -182,7 +182,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     4.1 The Executive shall establish working groups as they see fit. 
     4.2 A working group shall be a subset of members that have certain tasks of the society 
         delegated to them by the Executive. 
-    4.3 Working groups shall have a head appointed by the Executive, who must be a member of 
+    4.3 Working groups shall have either one or two heads appointed by the Executive, who must be a member of 
         the society. 
     4.4 The head of a working group shall at all times report and be responsible to the Executive, 
         and be responsible for leading their working group. 
