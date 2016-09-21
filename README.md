@@ -193,8 +193,6 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     4.7 Working groups shall dissolve: 
         4.7.1 Upon the election of a new Executive; 
         4.7.2 Otherwise at the discretion of the Executive. 
-    4.8 Unless otherwise fulfilled by the Executive, working groups will be established within ten 
-        (10) business days of the Executive's election to fulfil the aims and objectives of the society. 
  
 # 5 MEETINGS 
 
