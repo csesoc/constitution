@@ -146,7 +146,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             b) To hold cheque books, petty cash tins etc; 
             c) To keep the society informed of its financial position (at meetings, through regular
                e-mail reports, or regular newsletter);
-            d) To carry out financial transactions as directed by club management;
+            d) To carry out financial transactions as directed by the Executive;
             e) To not lend money of the society under any circumstances; 
             f) To always ensure that the records are up to date and in good order so that if they 
                are otherwise unable to continue in that capacity someone else can easily take over; 
