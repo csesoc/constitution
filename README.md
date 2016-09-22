@@ -53,7 +53,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         2.3.2 As soon as a member no longer meets the requirements of a full member defined in section 2.3 
               their membership shall be terminated.
     2.4 Associate membership is applicable only to non-full members and shall be automatically conferred with no fee
-        upon students enrolled in a course administered by the school of CSE. Associate membership is open
+        upon students enrolled in a course administered by the school of CSE or employed by the school of CSE to help adminster a CSE course. Associate membership is open
         to all other persons subject to affiliation requirements of Arc, provided that they pay a membership fee
         that is set by the club Executive, and they complete a membership form prepared by the club Executive.
         2.4.1 The duration of associate membership shall be until the expiration of their enrollment in that course.
@@ -217,6 +217,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business 
               days of the Handover Meeting; and
         5.1.7 Each full member is entitled to one vote.
+        5.1.8 Use BitBucket instead of GitHub for constitution changes
     5.2 EXTRAORDINARY GENERAL MEETINGS 
         5.2.1 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned 
               under section 5.2.4. 
