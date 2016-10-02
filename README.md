@@ -50,7 +50,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         program administered by CSE (research or coursework). They shall not be required to pay any 
         society memership fee. 
         2.3.1 Enrolments shall be defined as current enrolment in an agreed program under section 2.3.  
-        2.3.2 As soon as a member no longer meets the requirements of a full member defined in section 2.3 
+        2.3.2 As soon as a memer no longer meets the requirements of a full memer defined in section 2.3 
               their memership shall be terminated.
     2.4 Associate memership is applicable only to non-full memers and shall be automatically conferred with no fee
         upon students enrolled in a course administered by the school of CSE. Associate memership is open
@@ -59,23 +59,23 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         2.4.1 The duration of associate memership shall be until the expiration of their enrollment in that course.
         2.4.2 The duration of associate memership for students paying the club memership fee shall be until the end of the calendar year.
     2.5 Notwithstanding sections 2.3.1 and 2.4.1, memership shall be terminated when: 
-        2.5.1 The member dies;
-        2.5.2 The member notifies the executive in writing to request their memership be terminated; or
+        2.5.1 The memer dies;
+        2.5.2 The memer notifies the executive in writing to request their memership be terminated; or
         2.5.3 Their memership is terminated under section 2.7.
     2.6 The society shall comply with the Anti-Discrimination Act (1977) in all of its activities or 
         procedures, including the granting of society memership. 
-    2.7 A member of the society may have their memership terminated after the following 
+    2.7 A memer of the society may have their memership terminated after the following 
         procedure is followed: 
         2.7.1 A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) 
               memers to instigate impeachment proceedings; 
         2.7.2 The memers of the society are notified of the proceedings formally as a motion on 
               notice to an Extraordinary General Meeting under Section 4.2; 
-        2.7.3 The member concerned is notified in writing of the procedures and reasons for 
+        2.7.3 The memer concerned is notified in writing of the procedures and reasons for 
               proceedings at least five (5) academic days prior to the meeting; 
-        2.7.4 The member concerned is given five (5) minutes to speak against the motion at the 
+        2.7.4 The memer concerned is given five (5) minutes to speak against the motion at the 
               Extraordinary General Meeting; and 
         2.7.5 The motion is carried by the Extraordinary General Meeting. 
-    2.8 Any member of the society who believes they have been wrongly expelled may appeal to 
+    2.8 Any memer of the society who believes they have been wrongly expelled may appeal to 
         Arc, who will arrive at the final resolution of the matter. 
 
 # 3 EXECUTIVE
@@ -86,7 +86,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         3.1.2 One (1) Secretary; 
         3.1.3 One (1) Treasurer; and 
         3.1.4 One (1) Arc Delegate; 
-    3.2 A member is permitted to hold no more than one (1) Executive position. 
+    3.2 A memer is permitted to hold no more than one (1) Executive position. 
     3.3 The Executive shall be responsible for the following duties: 
         3.3.1 Ensuring that through the activities of the Society’s working groups, its aims are 
               being fulfilled; and 
@@ -94,9 +94,9 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         3.3.3 Communicating with the memership of the Society. 
     3.4 The Executive is at all times bound by the decisions of all CSE Society Annual or 
         Extraordinary General Meetings. 
-    3.5 Any member of the Executive shall have their position declared vacant if they: 
+    3.5 Any memer of the Executive shall have their position declared vacant if they: 
         3.5.1 Submit a signed resignation letter to all the other memers of the Executive. 
-        3.5.2 Cease to be a full member of the society; or 
+        3.5.2 Cease to be a full memer of the society; or 
         3.5.3 Are removed from the Executive by a two thirds majority vote of the executive, following an 
               absence from any three (3) Executive Meetings without prior leave or following a failure 
               to abide by the Society's Constitution. 
@@ -122,7 +122,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             g) To act as official spokesperson for the society; 
             h) To arrive at an associate memership fee; 
             i) To liaise with fellow office bearers; 
-            j) To acquaint each Executive member with their function, responsibility, duties and 
+            j) To acquaint each Executive memer with their function, responsibility, duties and 
                maintain personal contact with them; 
             k) To liaise with Arc where necessary; 
             l) To ensure that an “Application for Affiliation” form accompanied by the minutes 
@@ -182,7 +182,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     4.1 The Executive shall establish working groups as they see fit. 
     4.2 A working group shall be a subset of memers that have certain tasks of the society 
         delegated to them by the Executive. 
-    4.3 Working groups shall have a head appointed by the Executive, who must be a member of 
+    4.3 Working groups shall have a head appointed by the Executive, who must be a memer of 
         the society. 
     4.4 The head of a working group shall at all times report and be responsible to the Executive, 
         and be responsible for leading their working group. 
@@ -216,7 +216,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         5.1.6 Full minutes of this meeting, including a list of the new Executive, written financial 
               reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business 
               days of the Handover Meeting; and
-        5.1.7 Each full member is entitled to one vote.
+        5.1.7 Each full memer is entitled to one vote.
     5.2 EXTRAORDINARY GENERAL MEETINGS 
         5.2.1 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned 
               under section 5.2.4. 
@@ -228,7 +228,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               memership, whichever is the lesser, must petition the Executive in writing. 
         5.2.5 Such a petitioned meeting must be held within twenty-one (21) academic days, but no 
               sooner than five (5) academic days; and
-        5.2.6 Each full member is entitled to one vote.
+        5.2.6 Each full memer is entitled to one vote.
     5.3 EXECUTIVE MEETINGS 
         5.3.1 There shall be Executive Meetings as the Executive sees fit. 
         5.3.2 All memers of the Executive are required to attend Executive Meetings. 
@@ -251,7 +251,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     5.5 GENERAL MEETINGS 
         5.5.1 General meeting requirements for all meetings are as follows: 
             5.5.1.1 All voting at meetings shall be with a simple majority required for a resolution to be passed; 
-            5.5.1.2 Notwithstanding sections 5.1.7 and 5.2.6 each member is entitled to one vote;
+            5.5.1.2 Notwithstanding sections 5.1.7 and 5.2.6 each memer is entitled to one vote;
             5.5.1.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
             5.5.1.4 In the case of equality of voting, the motion shall be defeated. 
             5.5.1.5 Constitutional changes must be in the form of a motion on notice to an Annual or 
@@ -326,11 +326,11 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     8.7 Only full memers are entitled to vote for the Executive. Full memers may vote for two 
         (2) candidates for Co-president, and one (1) candidate for each other position. 
     8.8 Voting is to be confidential and anonymous with the exception of,
-        8.8.1 In the event of a full member being prevented by the School of CSE from accessing the voting site,
-        votes shall be submitted to the first executive member not running in the election in the following list; 
+        8.8.1 In the event of a full memer being prevented by the School of CSE from accessing the voting site,
+        votes shall be submitted to the first executive memer not running in the election in the following list; 
         the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate. If all of the above are running in the election
         the vote should be submitted to the Student Development Office.
-        The executive member will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
+        The executive memer will then submit the anonymised vote to the memer in charge of maintaing the list of nominees.
     8.9 Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
         8.9.1 Each candidate must reach the quota of votes as determined by the Droop quota for that position.
         8.9.2 When electing Co-presidents, all first and second preferences shall be counted as first preferences.
