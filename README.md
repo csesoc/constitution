@@ -42,7 +42,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
     2.1 The list of full members of CSE Society is maintained by the school of CSE.
         All modifications to this list will remain with the Executive. Society lists are not to be given or sold to any other 
-        person; Arc and the Executive shall have sole access.
+        third party; Arc and the Executive shall have sole access.
     2.2 The society will be a Constituent society since it has an agreed association with School of 
         Computer Science and Engineering, which is ratified by Arc. 
     2.3 Full membership shall be conferred upon students who are enrolled in Computer Science, 
@@ -145,7 +145,9 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         3.7.3 DUTIES OF THE TREASURER 
             a) To keep and maintain all society financial records; 
             b) To hold cheque books, petty cash tins etc; 
-            c) To keep the society informed of its financial position;ppiety management; 
+            c) To keep the society informed of its financial position (at meetings, through regular
+               e-mail reports, or regular newsletter);
+            d) To carry out financial transactions as directed by the Executive;
             e) To not lend money of the society under any circumstances; 
             f) To always ensure that the records are up to date and in good order so that if they 
                are otherwise unable to continue in that capacity someone else can easily take over; 
