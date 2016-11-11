@@ -53,7 +53,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         2.3.2 As soon as a member no longer meets the requirements of a full member defined in section 2.3 
               their membership shall be terminated.
     2.4 Associate membership is applicable only to non-full members and shall be automatically conferred with no fee
-        upon students enrolled in a course administered by the school of CSE. Associate membership is open
+        upon students enrolled in a course administered by the school of CSE or employed by the school of CSE as a member of academic staff. Associate membership is open
         to all other persons subject to affiliation requirements of Arc, provided that they pay a membership fee
         that is set by the club Executive, and they complete a membership form prepared by the club Executive.
         2.4.1 The duration of associate membership shall be until the expiration of their enrollment in that course.
