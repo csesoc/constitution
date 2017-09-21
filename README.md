@@ -35,7 +35,10 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         1.6.11 The School of CSE or any references to the acronym CSE shall mean Computer 
                Science and Engineering; and 
         1.6.12 Subjects shall mean units of study offered by the University in progression to the 
-              award of a degree. 
+               award of a degree.
+        1.6.13 A motion of no confidence is a vote which states that a person is deemed unfit or inadequate to hold a
+               position, whereby they may make decisions that the Executive feel are detrimental to the society and 
+               its future as set out in 1.3
     1.7 The society shall be bound by all the clauses in Section 2 to Section 8 of this Constitution. 
 
 # 2 MEMBERSHIP 
@@ -334,4 +337,16 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     8.9 Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
         8.9.1 Each candidate must reach the quota of votes as determined by the Droop quota for that position.
         8.9.2 When electing Co-presidents, all first and second preferences shall be counted as first preferences.
-
+    8.10 Upon pronouncement of the election results, but before the Handover Meeting, the outgoing Executives may choose
+         to hold a motion of no confidence against any Executive-elects whereby a two thirds majority vote by the outgoing
+         Executives will overrule the election results.
+         8.10.1 For such a motion to be held:
+                8.10.1.1 The motion must be declared publicly to the society
+                8.10.1.2 The reasons for the motion must abide to the definition of the motion of no confidence.
+                8.10.1.3	The outgoing executives must produce a publicly available document to the Society website, 
+                         giving reasons for the motion.
+         8.10.2 If an overruling occurs:
+                8.10.2.1 The election is treated as if the Executive-elect was never nominated. 
+                8.10.2.2 If the Executive-elect was the only nominee for the position, then another election for 
+                         that position must be held.
+ 
