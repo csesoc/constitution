@@ -75,6 +75,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         2.7.4 The member concerned is given five (5) minutes to speak against the motion at the 
               Extraordinary General Meeting; and 
         2.7.5 The motion is carried by the Extraordinary General Meeting. 
+        2.7.6 Members may only petition for one other member's membership termination at any one time.
     2.8 Any member of the society who believes they have been wrongly expelled may appeal to 
         Arc, who will arrive at the final resolution of the matter. 
 
