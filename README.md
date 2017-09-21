@@ -56,7 +56,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         upon students enrolled in a course administered by the school of CSE. Associate membership is open
         to all other persons subject to affiliation requirements of Arc, provided that they pay a membership fee
         that is set by the club Executive, and they complete a membership form prepared by the club Executive.
-        2.4.1 The duration of associate membership shall be until the end of the calendar year. 
+        2.4.1 The duration of associate membership shall be until the expiration of their enrollment in that course.
+        2.4.2 The duration of associate membership for students paying the club membership fee shall be until the end of the calendar year.
     2.5 Notwithstanding sections 2.3.1 and 2.4.1, membership shall be terminated when: 
         2.5.1 The member dies;
         2.5.2 The member notifies the executive in writing to request their membership be terminated; or
@@ -96,7 +97,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     3.5 Any member of the Executive shall have their position declared vacant if they: 
         3.5.1 Submit a signed resignation letter to all the other members of the Executive. 
         3.5.2 Cease to be a full member of the society; or 
-        3.5.3 Are removed from the Executive by a two thirds majority vote, following an 
+        3.5.3 Are removed from the Executive by a two thirds majority vote of the executive, following an 
               absence from any three (3) Executive Meetings without prior leave or following a failure 
               to abide by the Society's Constitution. 
     3.6 Any vacancy on the society Executive must be filled by a candidate selected by the 
@@ -156,8 +157,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
             i) To pay all accounts by cheque or EFT 
             j) To always enter the payee's name, the amount and a brief explanation of the 
                payment on the cheque butt or EFT transaction description; 
-            k) To always provide a receipt to a person who gives money to the society for any 
-               reason immediately; 
+            k) To always provide a receipt to a person who gives money to the society upon the person's request immediately; 
             l) To ensure petty cash is banked within three (3) business days once it exceeds 
                $500; 
             m) To ensure you have at least two and not more than three signatories who are 
@@ -195,8 +195,6 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     4.7 Working groups shall dissolve: 
         4.7.1 Upon the election of a new Executive; 
         4.7.2 Otherwise at the discretion of the Executive. 
-    4.8 Unless otherwise fulfilled by the Executive, working groups will be established within ten 
-        (10) business days of the Executive's election to fulfil the aims and objectives of the society. 
  
 # 5 MEETINGS 
 
@@ -330,7 +328,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     8.8 Voting is to be confidential and anonymous with the exception of,
         8.8.1 In the event of a full member being prevented by the School of CSE from accessing the voting site,
         votes shall be submitted to the first executive member not running in the election in the following list; 
-        the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate.
+        the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate. If all of the above are running in the election
+        the vote should be submitted to the Student Development Office.
         The executive member will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
     8.9 Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
         8.9.1 Each candidate must reach the quota of votes as determined by the Droop quota for that position.
