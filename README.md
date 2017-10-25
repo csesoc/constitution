@@ -11,7 +11,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     1.3 The aims and objectives of the society are: 
         1.3.1 To fulfil the specific social needs of CSE students; 
         1.3.2 To promote computing through technical and nontechnical oriented events to all students of UNSW; and 
-    1.3.3 To establish rapport with external organisations/groups that are enthusiastic about computing. 
+        1.3.3 To establish rapport with external organisations/groups that are enthusiastic about computing. 
     1.4 During the course of affiliation, the society shall comply with any requirements of Arc. 
     1.5 In all matters not specifically dealt with herein, the procedures set out in Guide for 
         Meetings and Organizations by N.E.R. Renton (5th Edition) shall apply. 
@@ -35,7 +35,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         1.6.11 The School of CSE or any references to the acronym CSE shall mean Computer 
                Science and Engineering; and 
         1.6.12 Subjects shall mean units of study offered by the University in progression to the 
-              award of a degree. 
+               award of a degree. 
     1.7 The society shall be bound by all the clauses in Section 2 to Section 8 of this Constitution. 
 
 # 2 MEMBERSHIP 
@@ -108,76 +108,76 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         3.6.3 Any vacancy on the society Executive must be filled within ten (10) business days. 
     3.7 Duties 
         3.7.1 DUTIES OF THE CO-PRESIDENTS 
-            a) To chair all society General, Executive, Annual and Extraordinary General 
-               Meetings of the society; 
-            b) To oversee and coordinate the activities and administration of the society; 
-            c) To ensure that the elected officers of the society and head of working groups 
-               perform duties as laid down by the society’s constitution, through regular e-mail 
-               updates, regularly advertised meetings, reports and notices and/or regular 
-               newsletters; 
-            d) To ensure that all other tasks necessary for the running of the activities of the 
-               society are performed properly, either by doing them or delegating the duties; 
-            e) To have a thorough knowledge of the society’s constitution; 
-            f) To plan the coming year’s activities; 
-            g) To act as official spokesperson for the society; 
-            h) To arrive at an associate membership fee; 
-            i) To liaise with fellow office bearers; 
-            j) To acquaint each Executive member with their function, responsibility, duties and 
-               maintain personal contact with them; 
-            k) To liaise with Arc where necessary; 
-            l) To ensure that an “Application for Affiliation” form accompanied by the minutes 
-               of the most recent Annual General Meeting and an updated membership list is 
-               submitted to Arc; 
-            m) To ensure that the Treasurer submits a Financial Report to the society at the 
-               AGM and to Arc and that they have the society’s finances in good order in 
-               preparation for Spot Audits by Arc; 
-            n) To ensure that Arc is informed of changes to the Executive; 
-            o) To pass on their knowledge to their successor; and 
-            p) Other duties as in accordance with the constitution of the society’s guidelines. 
+           a) To chair all society General, Executive, Annual and Extraordinary General 
+              Meetings of the society; 
+           b) To oversee and coordinate the activities and administration of the society; 
+           c) To ensure that the elected officers of the society and head of working groups 
+              perform duties as laid down by the society’s constitution, through regular e-mail 
+              updates, regularly advertised meetings, reports and notices and/or regular 
+              newsletters; 
+           d) To ensure that all other tasks necessary for the running of the activities of the 
+              society are performed properly, either by doing them or delegating the duties; 
+           e) To have a thorough knowledge of the society’s constitution; 
+           f) To plan the coming year’s activities; 
+           g) To act as official spokesperson for the society; 
+           h) To arrive at an associate membership fee; 
+           i) To liaise with fellow office bearers; 
+           j) To acquaint each Executive member with their function, responsibility, duties and 
+              maintain personal contact with them; 
+           k) To liaise with Arc where necessary; 
+           l) To ensure that an “Application for Affiliation” form accompanied by the minutes 
+              of the most recent Annual General Meeting and an updated membership list is 
+              submitted to Arc; 
+           m) To ensure that the Treasurer submits a Financial Report to the society at the 
+              AGM and to Arc and that they have the society’s finances in good order in 
+              preparation for Spot Audits by Arc; 
+           n) To ensure that Arc is informed of changes to the Executive; 
+           o) To pass on their knowledge to their successor; and 
+           p) Other duties as in accordance with the constitution of the society’s guidelines. 
         3.7.2 DUTIES OF THE SECRETARY 
-            a) To be responsible for receiving and replying to all correspondence on behalf of 
-               the society; 
-            b) To organise meetings, agendas (with consultation with the Co-Presidents), and 
-               minutes; 
-            c) To keep relevant society papers in order; 
-            d) To coordinate elections; and 
-            e) To maintain up-to-date membership lists. 
+           a) To be responsible for receiving and replying to all correspondence on behalf of 
+              the society; 
+           b) To organise meetings, agendas (with consultation with the Co-Presidents), and 
+              minutes; 
+           c) To keep relevant society papers in order; 
+           d) To coordinate elections; and 
+           e) To maintain up-to-date membership lists. 
         3.7.3 DUTIES OF THE TREASURER 
-            a) To keep and maintain all society financial records; 
-            b) To hold cheque books, petty cash tins etc; 
-            c) To keep the society informed of its financial position (at meetings, through regular
-               e-mail reports, or regular newsletter);
-            d) To carry out financial transactions as directed by the Executive;
-            e) To not lend money of the society under any circumstances; 
-            f) To always ensure that the records are up to date and in good order so that if they 
-               are otherwise unable to continue in that capacity someone else can easily take over; 
-            g) To not put the society in debt that cannot be repaid, but endeavour to match costs 
-               and income as closely as possible; 
-            h) To always insist on a receipt or docket to validate any expenditure by the society;
-            i) To pay all accounts by cheque or EFT 
-            j) To always enter the payee's name, the amount and a brief explanation of the 
-               payment on the cheque butt or EFT transaction description; 
-            k) To always provide a receipt to a person who gives money to the society upon the person's request immediately; 
-            l) To ensure petty cash is banked within three (3) business days once it exceeds 
-               $500; 
-            m) To ensure you have at least two and not more than three signatories who are 
-               Executive members to the cheque account; 
-            n) To ensure that society funds are not misused at any time; and 
-            o) To ensure that when smaller amounts of money are spent, (petty cash) a receipt 
-               or docket must be obtained. UNDER NO CIRCUMSTANCES ARE ANY EXPENSES TO BE MET WITHOUT DOCUMENTATION. 
+           a) To keep and maintain all society financial records; 
+           b) To hold cheque books, petty cash tins etc; 
+           c) To keep the society informed of its financial position (at meetings, through regular
+              e-mail reports, or regular newsletter);
+           d) To carry out financial transactions as directed by the Executive;
+           e) To not lend money of the society under any circumstances; 
+           f) To always ensure that the records are up to date and in good order so that if they 
+              are otherwise unable to continue in that capacity someone else can easily take over; 
+           g) To not put the society in debt that cannot be repaid, but endeavour to match costs 
+              and income as closely as possible; 
+           h) To always insist on a receipt or docket to validate any expenditure by the society;
+           i) To pay all accounts by cheque or EFT 
+           j) To always enter the payee's name, the amount and a brief explanation of the 
+              payment on the cheque butt or EFT transaction description; 
+           k) To always provide a receipt to a person who gives money to the society upon the person's request immediately; 
+           l) To ensure petty cash is banked within three (3) business days once it exceeds 
+              $500; 
+           m) To ensure you have at least two and not more than three signatories who are 
+              Executive members to the cheque account; 
+           n) To ensure that society funds are not misused at any time; and 
+           o) To ensure that when smaller amounts of money are spent, (petty cash) a receipt 
+              or docket must be obtained. UNDER NO CIRCUMSTANCES ARE ANY EXPENSES TO BE MET WITHOUT DOCUMENTATION. 
         3.7.4 DUTIES OF THE ARC DELEGATE 
-            a) To be aware of Arc rules and regulations, in particular its funding system and the 
-               possibilities for the society. 
-            b) To communicate with the Executive before and after the each Arc meeting to 
-               pass on information (about grants etc); 
-            c) To liaise with Arc and the society’s Executive; 
-            d) To have a good working knowledge of Arc forms; 
-            e) To clear out the society’s pigeonhole in the Arc Resource Room at least every 
-               two weeks; 
-            f) To attend Arc clubs general meetings or get someone to stand in, or send advance 
-               apologies; and 
-            g) To ensure that grants are filed properly, in particular, within the time period 
-               specified by Arc. 
+           a) To be aware of Arc rules and regulations, in particular its funding system and the 
+              possibilities for the society. 
+           b) To communicate with the Executive before and after the each Arc meeting to 
+              pass on information (about grants etc); 
+           c) To liaise with Arc and the society’s Executive; 
+           d) To have a good working knowledge of Arc forms; 
+           e) To clear out the society’s pigeonhole in the Arc Resource Room at least every 
+              two weeks; 
+           f) To attend Arc clubs general meetings or get someone to stand in, or send advance 
+              apologies; and 
+           g) To ensure that grants are filed properly, in particular, within the time period 
+              specified by Arc. 
  
 # 4 WORKING GROUPS 
 
@@ -208,11 +208,11 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         5.1.4 Quorum for the Annual General Meeting shall be fifteen members or one half of the 
               society membership, whichever is the lesser. 
         5.1.5 At an Annual General Meeting: 
-            5.1.5.1 Reports shall be presented by at least the Co-Presidents and the Treasurer; 
-            5.1.5.2 Full financial reports shall be presented and adopted; 
-            5.1.5.3 Constitutional amendments and other motions on notice may be discussed and 
-                    voted upon; and 
-            5.1.5.4 Nominations for the Executive elections shall open, pursuant to section 8.1. 
+              5.1.5.1 Reports shall be presented by at least the Co-Presidents and the Treasurer; 
+              5.1.5.2 Full financial reports shall be presented and adopted; 
+              5.1.5.3 Constitutional amendments and other motions on notice may be discussed and 
+                      voted upon; and 
+              5.1.5.4 Nominations for the Executive elections shall open, pursuant to section 8.1. 
         5.1.6 Full minutes of this meeting, including a list of the new Executive, written financial 
               reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business 
               days of the Handover Meeting; and
@@ -234,8 +234,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         5.3.2 All members of the Executive are required to attend Executive Meetings. 
         5.3.3 Executive Meetings shall be held in confidence, except that the Executive may invite 
               members of the society or other guests to attend. These observers shall have no vote. 
-            5.3.3.1 Heads of working groups who are invited to Executive Meetings are required to 
-                    attend. 
+              5.3.3.1 Heads of working groups who are invited to Executive Meetings are required to 
+                      attend. 
         5.3.4 The secretary shall send the agenda for the meeting, to all those required to attend, no 
               later than two (2) days prior to the meeting, notwithstanding 5.5.1.7. 
     5.4 HANDOVER MEETING 
@@ -250,16 +250,16 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               elect assume their elected positions. 
     5.5 GENERAL MEETINGS 
         5.5.1 General meeting requirements for all meetings are as follows: 
-            5.5.1.1 All voting at meetings shall be with a simple majority required for a resolution to be passed; 
-            5.5.1.2 Notwithstanding sections 5.1.7 and 5.2.6 each member is entitled to one vote;
-            5.5.1.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-            5.5.1.4 In the case of equality of voting, the motion shall be defeated. 
-            5.5.1.5 Constitutional changes must be in the form of a motion on notice to an Annual or 
-                    Extraordinary General Meeting; and 
-            5.5.1.6 Constitutional changes passed at an Annual or Extraordinary General Meeting 
-                    will not take effect until ratified by Arc. 
-            5.5.1.7 The Secretary shall send the agenda for the meeting, to all those required to 
-                    attend, no later than two (2) business days prior to the meeting. 
+              5.5.1.1 All voting at meetings shall be with a simple majority required for a resolution to be passed; 
+              5.5.1.2 Notwithstanding sections 5.1.7 and 5.2.6 each member is entitled to one vote;
+              5.5.1.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
+              5.5.1.4 In the case of equality of voting, the motion shall be defeated. 
+              5.5.1.5 Constitutional changes must be in the form of a motion on notice to an Annual or 
+                      Extraordinary General Meeting; and 
+              5.5.1.6 Constitutional changes passed at an Annual or Extraordinary General Meeting 
+                      will not take effect until ratified by Arc. 
+              5.5.1.7 The Secretary shall send the agenda for the meeting, to all those required to 
+                      attend, no later than two (2) business days prior to the meeting. 
  
 # 6 FINANCE
 
