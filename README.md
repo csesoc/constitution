@@ -95,11 +95,11 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     3.4 The Executive is at all times bound by the decisions of all CSE Society Annual or 
         Extraordinary General Meetings. 
     3.5 Any member of the Executive shall have their position declared vacant if they: 
-        3.5.1 Submit a signed resignation letter to all the other members of the Executive. 
+        3.5.1 Submit a signed resignation letter to all the other members of the Executive; or 
         3.5.2 Cease to be a full member of the society; or 
-        3.5.3 Are removed from the Executive by a two thirds majority vote of the executive, following an 
-              absence from any three (3) Executive Meetings without prior leave or following a failure 
-              to abide by the Society's Constitution. 
+        3.5.3 Are removed from the Executive by a two thirds majority vote of the Executive that are not
+              subject to vacancy proceedings, following an absence from any three (3) Executive Meetings
+              without prior leave or following a failure to abide by the Society's Constitution.
     3.6 Any vacancy on the society Executive must be filled by a candidate selected by the 
         remaining Executive. 
         3.6.1 There must be a two thirds majority vote in favour of the selected candidate for the 
