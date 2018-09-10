@@ -304,7 +304,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
 # 8 ELECTIONS 
 
-    8.1 Nominations for the Executive positions shall open during Arc-affiliated club's election period.
+    8.1 Nominations for the Executive positions shall open during Arc-affiliated club's AGM period, or the week leading up to it.
     8.2 Nominations must remain open until the later of: 
         8.2.1 one calendar week after nominations open; or 
         8.2.2 there are at least two (2) nominees for Co-presidents and one (1) nominee for each 
