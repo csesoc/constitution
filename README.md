@@ -318,7 +318,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         8.4.1 Only elections run by the School of CSE shall be recognised. 
         8.4.2 The Exec may choose that the list be made publicly available during the nomination 
               period. If they choose to do so, it must be on the Society website. 
-        8.4.3 The election will run for at least one calendar week. 
+        8.4.3 The election will run for at least three academic days.
     8.5 If there is a tie for any Executive position between candidates, the outgoing executives shall 
         have a casting vote in the election. 
     8.6 Upon finalising of the election results, they must be pronounced to the membership within 
