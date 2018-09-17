@@ -5,7 +5,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
  
 # 1 INTRODUCTION 
 
-    1.1 The official name of the society shall be CSE Society.
+    1.1 The official name of the society shall be Computer Science and Engineering Society of UNSW.
         1.1.1 The acronym of the society shall be CSESoc.
     1.2 The society shall be affiliated to Arc. 
     1.3 The aims and objectives of the society are: 
@@ -23,9 +23,9 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         1.6.2  Arc shall mean Arc @ UNSW Limited; 
         1.6.3  Tharunka and Blitz shall mean the official publications of Arc; 
         1.6.4  Re-affiliation shall mean re-affiliation with Arc; 
-        1.6.5  Full members shall mean full members of the CSE Society; 
-        1.6.6  Associate members shall mean associate members of the CSE Society; 
-        1.6.7  The Executive shall mean the Executive of the CSE Society; 
+        1.6.5  Full members shall mean full members of the Computer Science and Engineering Society of UNSW; 
+        1.6.6  Associate members shall mean associate members of the Computer Science and Engineering Society of UNSW; 
+        1.6.7  The Executive shall mean the Executive of the Computer Science and Engineering Society of UNSW; 
         1.6.8  The Annual General Meeting shall mean the Annual General Meeting of the CSE 
                Society; 
         1.6.9  An academic day shall mean a day during the first or second session of the University’s 
@@ -40,7 +40,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
 # 2 MEMBERSHIP 
 
-    2.1 The list of full members of CSE Society is maintained by the school of CSE.
+    2.1 The list of full members of Computer Science and Engineering Society of UNSW is maintained by the school of CSE.
         All modifications to this list will remain with the Executive. Society lists are not to be given or sold to any other 
         third party; Arc and the Executive shall have sole access.
     2.2 The society will be a Constituent society since it has an agreed association with School of 
@@ -80,7 +80,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
 # 3 EXECUTIVE
 
-    3.1 The Executive of the CSE Society shall be elected from the online election as set out in 
+    3.1 The Executive of the Computer Science and Engineering Society of UNSW shall be elected from the online election as set out in 
         section 8 and shall consist of: 
         3.1.1 Two (2) Co-presidents; 
         3.1.2 One (1) Secretary; 
@@ -92,7 +92,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               being fulfilled; and 
         3.3.2 Maintaining the finances of the society; and 
         3.3.3 Communicating with the membership of the Society. 
-    3.4 The Executive is at all times bound by the decisions of all CSE Society Annual or 
+    3.4 The Executive is at all times bound by the decisions of all Computer Science and Engineering Society of UNSW Annual or 
         Extraordinary General Meetings. 
     3.5 Any member of the Executive shall have their position declared vacant if they: 
         3.5.1 Submit a signed resignation letter to all the other members of the Executive; or 
@@ -263,7 +263,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
  
 # 6 FINANCE
 
-    6.1 The CSE Society shall hold an account with a financial institution on University campus. 
+    6.1 The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution on University campus. 
     6.2 The Executive must approve all accounts for payment. 
     6.3 All financial transactions shall require two signatures, one of which must be that of the 
         society Treasurer. 
@@ -273,7 +273,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
  
 # 7 DISSOLUTION 
 
-    7.1 Dissolution of the CSE Society will occur after the following conditions have been met: 
+    7.1 Dissolution of the Computer Science and Engineering Society of UNSW will occur after the following conditions have been met: 
         7.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 4.11; 
         7.1.2 Procedures for notification as set out in 4.1.3 are followed, and the reasons for the 
               proposed dissolution are included with the notification to Arc; 
