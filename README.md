@@ -333,4 +333,6 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     8.9 Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
         8.9.1 Each candidate must reach the quota of votes as determined by the Droop quota for that position.
         8.9.2 When electing Co-presidents, all first and second preferences shall be counted as first preferences.
-
+    8.10 Candidates will be disqualified from the election if they:
+            8.10.1 Purchase advertisements in media publications or websites, including but not limited to Blitz,
+                   Tharunka, Facebook, Twitter and Instagram
