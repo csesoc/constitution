@@ -28,7 +28,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         1.6.7  The Executive shall mean the Executive of the Computer Science and Engineering Society of UNSW; 
         1.6.8  The Annual General Meeting shall mean the Annual General Meeting of the CSE 
                Society; 
-        1.6.9  An academic day shall mean a day during the first or second session of the University’s 
+        1.6.9  An academic day shall mean a day during the first, second or third term of the University’s 
                academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; 
         1.6.10 A business day shall mean a day which is not a Saturday, Sunday, Public Holiday, 
                University Holiday or within a University exam period. 
