@@ -91,7 +91,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         3.3.1 Ensuring that through the activities of the Society’s working groups, its aims are 
               being fulfilled; and 
         3.3.2 Maintaining the finances of the society; and 
-        3.3.3 Communicating with the membership of the Society. 
+        3.3.3 Communicating with the membership of the Society; and
+	3.3.4 The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
     3.4 The Executive is at all times bound by the decisions of all Computer Science and Engineering Society of UNSW Annual or 
         Extraordinary General Meetings. 
     3.5 Any member of the Executive shall have their position declared vacant if they: 
