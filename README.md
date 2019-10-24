@@ -250,6 +250,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
                       attend. 
         5.3.4 The secretary shall send the agenda for the meeting, to all those required to attend, no 
               later than two (2) days prior to the meeting, notwithstanding 5.5.1.7. 
+	5.3.5 In the event of a tie during a vote at the executive meeting, each of the Co-Presidents may cast
+	      an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
     5.4 HANDOVER MEETING 
         5.4.1 There shall be a Handover Meeting no more than a calendar month after the 
               pronouncement of election results. 
