@@ -87,7 +87,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         3.1.3 One (1) Treasurer;
         3.1.4 One (1) Arc Delegate; and
 	3.1.4 One (1) Grievance Officer.
-    3.2 A member is permitted to hold no more than one (1) Executive position, unless one of the positions is of the Grievance Officer. 
+    3.2 A member is permitted to hold no more than one (1) Executive position, unless one of the positions is of the Grievance Officer, in which case a member can hold two (2) Executive positions.
     3.3 The Executive shall be responsible for the following duties: 
         3.3.1 Ensuring that through the activities of the Society’s working groups, its aims are 
               being fulfilled;
