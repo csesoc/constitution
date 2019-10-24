@@ -322,7 +322,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         8.2.1 one calendar week after nominations open; or 
         8.2.2 there are at least two (2) nominees for Co-presidents and one (1) nominee for each 
               other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
-	8.2.3 In the case of no member being nominated for the position of Grievance Officer, the incoming exec will have a vote to appoint one of themselves as a Grievance Officer.
+	8.2.3 In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
     8.3 Nominations must be entered and seconded by two (2) full members, one of whom must be 
         the nominee. 
     8.4 The Co-Presidents shall maintain the official list of nominees during the nomination period,
