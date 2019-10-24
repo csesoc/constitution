@@ -82,16 +82,18 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 
     3.1 The Executive of the Computer Science and Engineering Society of UNSW shall be elected from the online election as set out in 
         section 8 and shall consist of: 
-        3.1.1 Two (2) Co-presidents; 
-        3.1.2 One (1) Secretary; 
-        3.1.3 One (1) Treasurer; and 
-        3.1.4 One (1) Arc Delegate; 
-    3.2 A member is permitted to hold no more than one (1) Executive position. 
+        3.1.1 Two (2) Co-presidents;
+        3.1.2 One (1) Secretary;
+        3.1.3 One (1) Treasurer;
+        3.1.4 One (1) Arc Delegate; and
+	3.1.5 One (1) Grievance Officer.
+    3.2 A member is permitted to hold no more than one (1) Executive position, unless one of the positions is of the Grievance Officer, in which case a member can hold two (2) Executive positions.
     3.3 The Executive shall be responsible for the following duties: 
         3.3.1 Ensuring that through the activities of the Society’s working groups, its aims are 
-              being fulfilled; and 
-        3.3.2 Maintaining the finances of the society; and 
-        3.3.3 Communicating with the membership of the Society. 
+              being fulfilled;
+        3.3.2 Maintaining the finances of the society;
+        3.3.3 Communicating with the membership of the Society; and
+	3.3.4 The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
     3.4 The Executive is at all times bound by the decisions of all Computer Science and Engineering Society of UNSW Annual or 
         Extraordinary General Meetings. 
     3.5 Any member of the Executive shall have their position declared vacant if they: 
@@ -104,7 +106,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 	    3.5.3.4. The Executive  member concerned is notified of the motion and reasons for termination in writing at 
             least five (5) academic days prior to the Extraordinary General Meeting;
 	    3.5.3.4. The Executive member concerned is given five (5) minutes to speak against the motion at the Extraordinary 
-            General Meeting;
+            General Meeting; and
 	    3.5.3.5. The motion is carried by the Extraordinary General Meeting.
     3.6. Any vacancy in the society Executive must be filled by following the election procedure under Section 8.
         3.6.1. If there is a tie for the vacant executive position, the current executive shall have a casting vote in the 
@@ -182,7 +184,12 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
            f) To attend Arc clubs general meetings or get someone to stand in, or send advance 
               apologies; and 
            g) To ensure that grants are filed properly, in particular, within the time period 
-              specified by Arc. 
+              specified by Arc.
+	3.7.5 DUTIES OF THE GRIEVANCE OFFICER
+	   a) To receive complaints and grievances relating to the Club;
+	   b) To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
+	   c) To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
+	   d) To notify those involved of the outcome of the grievance.	
  
 # 4 WORKING GROUPS 
 
@@ -314,7 +321,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     8.2 Nominations must remain open until the later of: 
         8.2.1 one calendar week after nominations open; or 
         8.2.2 there are at least two (2) nominees for Co-presidents and one (1) nominee for each 
-              other position, and at least five (5) unique nominees for the positions in total. 
+              other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
+	8.2.3 In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
     8.3 Nominations must be entered and seconded by two (2) full members, one of whom must be 
         the nominee. 
     8.4 The Co-Presidents shall maintain the official list of nominees during the nomination period,
