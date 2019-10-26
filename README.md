@@ -218,11 +218,11 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         5.1.4 Quorum for the Annual General Meeting shall be fifteen members or one half of the 
               society membership, whichever is the lesser. 
         5.1.5 At an Annual General Meeting: 
-              5.1.5.1 Reports shall be presented by at least the Co-Presidents and the Treasurer; 
-              5.1.5.2 Full financial reports shall be presented and adopted; 
-              5.1.5.3 Constitutional amendments and other motions on notice may be discussed and 
-                      voted upon; and 
-              5.1.5.4 Nominations for the Executive elections shall open, pursuant to section 8.1. 
+            5.1.5.1 Reports shall be presented by at least the Co-Presidents and the Treasurer; 
+            5.1.5.2 Full financial reports shall be presented and adopted; 
+            5.1.5.3 Constitutional amendments and other motions on notice may be discussed and 
+                    voted upon; and 
+            5.1.5.4 Nominations for the Executive elections shall open, pursuant to section 8.1. 
         5.1.6 Full minutes of this meeting, including a list of the new Executive, written financial 
               reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business 
               days of the Handover Meeting; and
@@ -244,8 +244,7 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
         5.3.2 All members of the Executive are required to attend Executive Meetings. 
         5.3.3 Executive Meetings shall be held in confidence, except that the Executive may invite 
               members of the society or other guests to attend. These observers shall have no vote. 
-              5.3.3.1 Heads of working groups who are invited to Executive Meetings are required to 
-                      attend. 
+            5.3.3.1 Heads of working groups who are invited to Executive Meetings are required to attend. 
         5.3.4 The secretary shall send the agenda for the meeting, to all those required to attend, no 
               later than two (2) days prior to the meeting, notwithstanding 5.5.1.7. 
         5.3.5 In the event of a tie during a vote at the executive meeting, each of the Co-Presidents may cast
@@ -262,16 +261,16 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
               elect assume their elected positions. 
     5.5 GENERAL MEETINGS 
         5.5.1 General meeting requirements for all meetings are as follows: 
-              5.5.1.1 All voting at meetings shall be with a simple majority required for a resolution to be passed; 
-              5.5.1.2 Notwithstanding sections 5.1.7 and 5.2.6 each member is entitled to one vote;
-              5.5.1.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-              5.5.1.4 In the case of equality of voting, the motion shall be defeated. 
-              5.5.1.5 Constitutional changes must be in the form of a motion on notice to an Annual or 
-                      Extraordinary General Meeting; and 
-              5.5.1.6 Constitutional changes passed at an Annual or Extraordinary General Meeting 
-                      will not take effect until ratified by Arc. 
-              5.5.1.7 The Secretary shall send the agenda for the meeting, to all those required to 
-                      attend, no later than two (2) business days prior to the meeting. 
+            5.5.1.1 All voting at meetings shall be with a simple majority required for a resolution to be passed; 
+            5.5.1.2 Notwithstanding sections 5.1.7 and 5.2.6 each member is entitled to one vote;
+            5.5.1.3 Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
+            5.5.1.4 In the case of equality of voting, the motion shall be defeated. 
+            5.5.1.5 Constitutional changes must be in the form of a motion on notice to an Annual or 
+                    Extraordinary General Meeting; and 
+            5.5.1.6 Constitutional changes passed at an Annual or Extraordinary General Meeting 
+                    will not take effect until ratified by Arc. 
+            5.5.1.7 The Secretary shall send the agenda for the meeting, to all those required to 
+                    attend, no later than two (2) business days prior to the meeting. 
  
 # 6 FINANCE
 
