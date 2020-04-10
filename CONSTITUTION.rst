@@ -1,6 +1,9 @@
 ###################
 CSESoc Constitution
 ###################
+
+Preliminaries
+=============
 .. sectnum::
 .. Contents::
 ..
@@ -87,7 +90,6 @@ Membership Generally
 --------------------
 
 #. There shall be two types of membership: *full member*, and *associated member*.
-
 #. Full membership shall be subject to the following conditions:
    #. A person shall be a full member of the society if:
       #. That person is a natural person.
@@ -97,7 +99,6 @@ Membership Generally
          #. A postgraduate program administered by CSE (research or coursework).
       #. Full membership shall not require any fee.
       #. Full membership shall cease when a person is no longer enrolled in one of the courses described in the previous sub-section.
-
 #. Associate membership shall be subject to the following conditions:
    #. A person shall be an associate member of the society if:
       #. They are currently enrolled in a course administered by the School of Computer Science and Engineering.
