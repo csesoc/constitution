@@ -1,12 +1,10 @@
 ###################
 CSESoc Constitution
 ###################
-
+.. sectnum::
 .. Contents::
 ..
 
-Notes
-=====
 Model constitution Under the Incorporation Act 2009
 
 About this model constitution
