@@ -35,11 +35,11 @@ Each section contains a small commment explaining where it originates from, and 
 before approval. On the approval of this document, except where explicitly provided for,
 those notes shall be removed.
 
-Membership
-==========
-
 Preliminaries
--------------
+=============
+
+The Society
+-----------
 
     CSESoc Constitution, Section 1
 
@@ -101,8 +101,8 @@ Definitions
 #. The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
 
 
-Part 2
-======
+Membership
+==========
 
     Part 2 of this Constitution is structured around Part 2 of the Model Constitution, with sections merged
     or added from the CSESoc Constitution.
@@ -126,6 +126,7 @@ Membership Generally
          #. A postgraduate program administered by CSE (research or coursework).
       #. Full membership shall not require any fee.
       #. Full membership shall cease when a person is no longer enrolled in one of the courses described in the previous sub-section.
+
 #. Associate membership shall be subject to the following conditions:
 
    #. A person shall be an associate member of the society if:
@@ -233,8 +234,8 @@ The Executive Generally
 #. The Executive of the Computer Science and Engineering Society of UNSW shall be elected from the online election as set out in the `Election of the Executive`_ section, and shall consist of:
 
    #. Two (2) Co-presidents;
-   #. One (1) Secretary;
    #. One (1) Treasurer;
+   #. One (1) Secretary;
    #. One (1) Arc Delegate; and
    #. One (1) Grievance Officer.
 
@@ -781,6 +782,17 @@ Funds - management
 #. Subject to any resolution passed by CSESoc in general meeting, the funds of CSESoc are to be used solely in pursuance of the objects of CSESoc in the manner that the Executive determines.
 #. All cheques, drafts, bills of exchange, promissory notes and other negotiable instruments must be signed by 2 authorised signatories.
 
+Finance
+-------
+
+    This is stuff we want to remove:
+    #. The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution on University campus. 
+    #. The Co-presidents and the Treasurer shall be the signatories to the society’s account(s). 
+
+#. The Executive must approve all accounts for payment. 
+#. All financial transactions shall require two signatures, one of which must be that of the society Treasurer. 
+   #. In the case of EFT, the required signatures shall be digital. 
+   
 Association is non-profit 
 ---------------
 
@@ -838,16 +850,18 @@ Custody of books etc
 Inspection of books etc
 ---------------
 
-    Copied from section 45 of the Model Constitution.
+    Copied from section 45 of the Model Constitution. Added section about Arc.
+    I do not want to have this section, but I do wonder if I'm obligated to have it:
 
 #. The following documents must be open to inspection, free of charge, by a member of CSESoc at any reasonable hour:
 
    #. records, books and other financial documents of CSESoc,
    #. this constitution,
-   #. minutes of all Executive meetings and general meetings of CSESoc.
+   #. minutes of all general meetings of CSESoc.
 
 #. A member of CSESoc may obtain a copy of any of the documents referred to in subclause (1) on payment of a fee of not more than $1 for each page copied.
 #. Despite clauses (1) and (2), the Executive may refuse to permit a member of CSESoc to inspect or obtain a copy of records of CSESoc that relate to confidential, personal, employment, commercial or legal matters or where to do so may be prejudicial to the interests of CSESoc.
+#. Notwithstanding the above, the records of the society shall be open for inspection by Arc at all times. 
 
 Service of notices
 ---------------
