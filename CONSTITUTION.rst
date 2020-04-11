@@ -16,8 +16,8 @@ About the Constitution
 The constitution of an incorporated association forms the structure within which the Association operates. 
 CSESoc has created this document as a combination of the following:
 
- - The Constitution of the Unincorporated Association that incorporated to form CSESoc (the "CSESoc Consitution")
- - The Model Consitution provided by NSW Fair Traiding (the "Model Constitution")
+- The Constitution of the Unincorporated Association that incorporated to form CSESoc (the "CSESoc Consitution")
+- The Model Consitution provided by NSW Fair Traiding (the "Model Constitution")
 
 To assist associations develop their constitution, NSW Fair Trading has prepared a model constitution, which covers the matters required by law. 
 Any changes made to the model constitution will automatically apply to all associations that have adopted the model constitution, where no changes have been made by CSESoc.
@@ -210,8 +210,7 @@ Impeachment of members
     This section is taken from Section 2.7 of the CSESoc Constitution.
     DISCUSS WITH ARC LEGAL -> Is there a requirement we let Arc mediate? What's the best way to do that.
 
-#. A member of the society may have their membership terminated after the following 
-procedure is followed:
+#. A member of the society may have their membership terminated after the following procedure is followed:
 
    #. A motion is carried by the Executive to instigate impeachment proceedings; or 
    #. The Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
@@ -385,6 +384,7 @@ The Grievance Officer
     Copied from CSESoc Constitution section 3.7.5.
     
 #. The duties of the Grievance Officer shall be:
+
    #. To receive complaints and grievances relating to the Club;
    #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
    #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
@@ -398,24 +398,34 @@ Election of the Executive
     These provisions will be changed in another PR, but first we need to reformat.
 
 #. Nominations for the Executive positions shall open during Arc-affiliated club's AGM period, or the week leading up to it.
+
    #. In the event of a vacant Executive position, nominations must be opened within ten (10) business days of the position becoming vacant.
-#. Nominations must remain open until the later of: 
+
+#. Nominations must remain open until the later of:
+
    #. one calendar week after nominations open; or 
    #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each 
               other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
    #. In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee. 
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
+
    #. Only elections run by the School of CSE shall be recognised. 
    #. The Executive may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website. 
    #. The election will run for at least three academic days.
+
 #. If there is a tie for any Executive position between candidates, the outgoing executives shall have a casting vote in the election. 
-#. Upon finalising of the election results, they must be pronounced to the membership within one (1) business day. 
+#. Upon finalising of the election results, they must be pronounced to the membership within one (1) business day.
+
    #. In order to be appointed to an executive position, winner(s) of the election must accept their role and the motion to appoint them has to pass at an Extraordinary General Meeting.
+
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
+
    #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate. If all of the above are running in the election the vote should be submitted to the Student Development Office. The executive member will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
+
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
+
    #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
    #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
 
@@ -455,8 +465,10 @@ Meetings of the Executive
 
 #. There shall be Executive Meetings as the Executive sees fit. 
 #. All members of the Executive are required to attend Executive Meetings. 
-#. Executive Meetings shall be held in confidence, except that the Executive may invite members of the society or other guests to attend. These observers shall have no vote. 
-   #. Members of Sub-Committees who are invited to Executive Meetings are required to attend. 
+#. Executive Meetings shall be held in confidence, except that the Executive may invite members of the society or other guests to attend. These observers shall have no vote.
+
+   #. Members of Sub-Committees who are invited to Executive Meetings are required to attend.
+
 #. The secretary shall send the agenda for the meeting, to all those required to attend, no later than two (2) days prior to the meeting.
 #. In the event of a tie during a vote at the executive meeting, each of the Co-Presidents may cast an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
 
@@ -523,6 +535,7 @@ Delegation by the Executive to Portfolio
 
    #. this power of delegation, and
    #. a function which is a duty imposed on the Executive by the Act or by any other law.
+
 #. A function the exercise of which has been delegated to a Portfolio under this clause may, while the delegation remains unrevoked, be exercised from time to time by the Portfolio in accordance with the terms of the delegation.
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
 
@@ -560,7 +573,8 @@ General meetings - requirements
     and we must allow/disallow them as a requirement of the act.
     The CSESoc Constitution allows them, so we do too.
 
-#. General meeting requirements for all general meetings are as follows: 
+#. General meeting requirements for all general meetings are as follows:
+
    #. All voting at general meetings shall be with a simple majority required for a resolution to be passed;
    #. Except where specified otherwise, each member (full, or associate) shall be allowed 1 vote.
    #. Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
@@ -576,7 +590,8 @@ Annual general meetings - holding of
     Arc Legal -> how do we deal with financial years?
 
 #. CSESoc must hold its first annual general meeting within 18 months after its registration under the Act.
-#. CSESoc must hold its annual general meetings: 
+#. CSESoc must hold its annual general meetings:
+
    #. within 6 months after the close of CSESoc’s financial year, or
    #. within any later time that may be allowed or prescribed under section 37 (2) (b) of the Act.
 
@@ -618,7 +633,8 @@ Extraordinary general meetings - calling of
 #. Extraordinary General Meetings must be held on an academic day.
 #. Each full member is entitled to one vote.
 #. The Executive must, on the requisition of at least 15 full members, convene a special general meeting of CSESoc.
-#. A requisition of members for a special general meeting: 
+#. A requisition of members for a special general meeting:
+
    #. must be in writing, and
    #. must state the purpose or purposes of the meeting, and
    #. must be signed by the members making the requisition, and
@@ -657,11 +673,14 @@ Quorum for general meetings
 
 #. No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
 #. Fifteen members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
+
    #. Should the society have less than 15 full members, half of the number of full members shall constitute a quorum.
+
 #. If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
 
    #. if convened on the requisition of members—is to be dissolved, and
    #. in any other case—is to stand adjourned to the same day in the following week at the same time and (unless another place is specified at the time of the adjournment by the person presiding at the meeting or communicated by written notice to members given before the day to which the meeting is adjourned) at the same place.
+
 
 #. If at the adjourned meeting a quorum is not present within half an hour after the time appointed for the commencement of the meeting, the members present (being at least 3) are to constitute a quorum. 
 
@@ -671,8 +690,10 @@ Presiding member
     Copied from section 30 of the Model Constitution, with slight modifications to be specific to CSESoc.
 
 #. One of the Co-Presidents is to preside as chairperson at each general meeting of CSESoc. Where they cannot decide who should be the chairperson, the Treasurer shall be the chairperson of that general meeting.
-(i) Should neither Co-President be able to preside as chairperson, they shall nominate another member of CSESoc to be preside as chairperson.
-(ii) Should the Co-Presidents be unable to decide who should preside as chairperson, and should the Treasuere be unable to preside as chairperson, the Treasuer shall nomiate another member of CSESoc to preside as chairperson.
+
+   #. Should neither Co-President be able to preside as chairperson, they shall nominate another member of CSESoc to be preside as chairperson.
+   #. Should the Co-Presidents be unable to decide who should preside as chairperson, and should the Treasuere be unable to preside as chairperson, the Treasuer shall nomiate another member of CSESoc to preside as chairperson.
+
 #. If the president and the vice-president are absent or unwilling to act, the members present must elect one of their number to preside as chairperson at the meeting.
 
 Adjournment
@@ -741,7 +762,7 @@ Insurance
 
     Copied from section 38 of the Model Constitution.
 
-CSESoc may effect and maintain insurance.
+#. CSESoc may effect and maintain insurance.
 
 Funds - source
 ---------------
@@ -765,7 +786,7 @@ Association is non-profit
 
     Copied from section 41 of the Model Constitution.
 
-Subject to the Act and the Regulation, CSESoc must apply its funds and assets solely in pursuance of the objects of CSESoc and must not conduct its affairs so as to provide a pecuniary gain for any of its members.
+#. Subject to the Act and the Regulation, CSESoc must apply its funds and assets solely in pursuance of the objects of CSESoc and must not conduct its affairs so as to provide a pecuniary gain for any of its members.
 
 Disolution of the society
 -------------------------
@@ -773,14 +794,16 @@ Disolution of the society
     TODO Arc Clubs: do we have to provide for this?
     This is copied from section 7 of the CSESoc constitution.
 
-#.  Dissolution of the Computer Science and Engineering Society of UNSW will occur after the following conditions have been met: 
+#.  Dissolution of the Computer Science and Engineering Society of UNSW will occur after the following conditions have been met:
+
    #. An Extraordinary General Meeting is petitioned in writing as set out in 4.11; 
    #. Procedures for notification as set out in 4.1.3 are followed, and the reasons for the proposed dissolution are included with the notification to Arc; 
    #. Quorum for the meeting to dissolve the society shall be twenty (20) members or three-quarters of the society membership, whichever is the lesser; 
    #. No other business may be conducted at the meeting to dissolve the society; 
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose; 
    #. A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the society; and 
-   #. If the motion to dissolve is carried, Arc must be notified within ten (10) academic days. 
+   #. If the motion to dissolve is carried, Arc must be notified within ten (10) academic days.
+
 #. Dissolution of the society will also occur if the society has been financially AND administratively inactive for a period of eighteen (18) months. Financial inactivity shall mean no recorded and official electronic or manual monetary transaction has occurred. Administrative inactivity shall mean no recorded and official publicity to the School of Computer Science and Engineering student body through methods/medium such as email, posters. 
 #. Arc must give twenty (20) academic days notice in Tharunka and/or Blitz and/or the Arc website, and in writing to the last known Co-Presidents before dissolving the society in this way. 
 #. On dissolution of the society, the society is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the society. If no other legitimate organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the society which it perceives would be useful to other Arc-affiliated clubs. 
@@ -800,14 +823,15 @@ Change of name, objects and constitution
 
     Copied from section 43 of the Model Constitution.
 
-An application for registration of a change in CSESoc’s name, objects or constitution in accordance with section 10 of the Act is to be made by the public officer or a member of the Executive.
+#. An application for registration of a change in CSESoc’s name, objects or constitution in accordance with section 10 of the Act is to be made by the public officer or a member of the Executive.
 
 Custody of books etc
 ---------------
 
     Copied from section 44 of the Model Constitution.
 
-Except as otherwise provided by this constitution, all records, books and other documents relating to CSESoc must be kept in New South Wales: 
+#. Except as otherwise provided by this constitution, all records, books and other documents relating to CSESoc must be kept in New South Wales:
+
    #. at the main premises of CSESoc, in the custody of the public officer or a member of CSESoc (as the Executive determines), or
    #. if CSESoc has no premises, at CSESoc’s official address, in the custody of the public officer. 
 
@@ -816,10 +840,12 @@ Inspection of books etc
 
     Copied from section 45 of the Model Constitution.
 
-#. The following documents must be open to inspection, free of charge, by a member of CSESoc at any reasonable hour: 
+#. The following documents must be open to inspection, free of charge, by a member of CSESoc at any reasonable hour:
+
    #. records, books and other financial documents of CSESoc,
    #. this constitution,
    #. minutes of all Executive meetings and general meetings of CSESoc.
+
 #. A member of CSESoc may obtain a copy of any of the documents referred to in subclause (1) on payment of a fee of not more than $1 for each page copied.
 #. Despite clauses (1) and (2), the Executive may refuse to permit a member of CSESoc to inspect or obtain a copy of records of CSESoc that relate to confidential, personal, employment, commercial or legal matters or where to do so may be prejudicial to the interests of CSESoc.
 
@@ -828,11 +854,14 @@ Service of notices
 
     Copied from section 46 of the Model Constitution.
 
-#. For the purpose of this constitution, a notice may be served on or given to a person: 
+#. For the purpose of this constitution, a notice may be served on or given to a person:
+
    #. by delivering it to the person personally, or
    #. by sending it by pre-paid post to the address of the person, or
    #. by sending it by facsimile transmission or some other form of electronic transmission to an address specified by the person for giving or serving the notice.
-#. For the purpose of this constitution, a notice is taken, unless the contrary is proved, to have been given or served: 
+
+#. For the purpose of this constitution, a notice is taken, unless the contrary is proved, to have been given or served:
+
    #. in the case of a notice given or served personally, on the date on which it is received by the addressee, and
    #. in the case of a notice sent by pre-paid post, on the date when it would have been delivered in the ordinary course of post, and
    #. in the case of a notice sent by facsimile transmission or some other form of electronic transmission, on the date it was sent or, if the machine from which the transmission was sent produces a report indicating that the notice was sent on a later date, on that date.
@@ -847,6 +876,7 @@ Financial year
     1. Schedule 1 to the Act provides that an association’s constitution is to address CSESoc’s financial year.
     2. Clause 19 of the Regulation contains a substitute clause 47 for certain associations incorporated under CSESocs Incorporation Act 1984.
 	
-#. The financial year of CSESoc is: 
+#. The financial year of CSESoc is:
+
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 31 December, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
