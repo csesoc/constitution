@@ -160,8 +160,6 @@ Membership entitlements not transferable
 Register of Members
 -------------------
 
-    This section has been taken from Section 7 of the Model Constitution.
-    DISCUSS WITH ARC LEGAL, HOW DOES THIS WORK -- I don't think we should make this available.
 
 #. The secretary must establish and maintain a register of members of CSESoc (whether in written or electronic form) specifying the name and postal, residential or email address of each person who is a member of CSESoc together with the date on which the person became a member.
 #. The register of members must be kept in New South Wales:
@@ -169,13 +167,7 @@ Register of Members
    #. at the main premises of CSESoc, or
    #. if CSESoc has no premises, at CSESoc’s official address.
 
-#. The register of members must be open for inspection, free of charge, by any member of CSESoc at any reasonable hour.
-#. A member of CSESoc may obtain a copy of any part of the register on payment of a fee of not more than $1 for each page copied.
-#. If a member requests that any information contained on the register about the member (other than the member’s name) not be available for inspection, that information must not be made available for inspection.
-#. A member must not use information about a person obtained from the register to contact or send material to the person, other than for:
-
-   #. the purposes of sending the person a newsletter, a notice in respect of a meeting or other event relating to CSESoc or other material relating to CSESoc, or
-   #. any other purpose necessary to comply with a requirement of the Act or the Regulation.
+#. The register of members shall only be available to the Executive of CSESoc.
 
 #. If the register of members is kept in electronic form:
 
@@ -211,14 +203,14 @@ Impeachment of members
     This section is taken from Section 2.7 of the CSESoc Constitution.
     DISCUSS WITH ARC LEGAL -> Is there a requirement we let Arc mediate? What's the best way to do that.
 
-#. A member of the society may have their membership terminated after the following procedure is followed:
+#. A member of the society may have their membership terminated (they shall be 'impeached') after the following procedure is followed:
 
    #. A motion is carried by the Executive to instigate impeachment proceedings; or 
    #. The Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
    #. The members of the society are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2; 
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least five (5) academic days prior to the meeting; 
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and 
-   #. The motion is carried by the Extraordinary General Meeting.
+   #. A motion of impeachment is carried by the Extraordinary General Meeting.
 
 #. Any member of the society who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 
@@ -432,10 +424,8 @@ Election of the Executive
 
 Casual Vacancies
 ----------------
-    Taken from section 18 of the Model Constitution
-    We need to talk to Arc Clubs: what happens when a casual vacancy arises
 
-#. In the event of a casual vacancy occurring in the membership of the Executive, the Executive may appoint a member of CSESoc to fill the vacancy and the member so appointed is to hold office, subject to this constitution, until the annual general meeting next following the date of the appointment.
+#. In the event of a casual vacancy occurring in the membership of the Executive, the Executive shall call a General Meeting within 30 days to elect a new officeholder.
 #. A casual vacancy in the office of a member of the Executive occurs if the member:
 
    #. dies, or
@@ -447,16 +437,6 @@ Casual Vacancies
    #. is absent without the consent of the Executive from 3 consecutive meetings of the Executive, or
    #. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months, or
    #. is prohibited from being a director of a company under Part 2D.6 (Disqualification from managing corporations) of the Corporations Act 2001 of the Commonwealth.
-
-Removal of Executive members
-----------------------------
-
-    Taken from section 19 of the Model Constitution
-    We need to talk to Arc Legal: do we need to have this provision, and how does it work?
-    I'd like to modify this if we do need it, to make the standard higher (notice requirement + supermajority)
-
-#. CSESoc in general meeting may by resolution remove any member of the Executive from the office of member before the expiration of the member’s term of office and may by resolution appoint another person to hold office until the expiration of the term of office of the member so removed.
-#. If a member of the Executive to whom a proposed resolution referred to in subclause (1) relates makes representations in writing to the secretary or president (not exceeding a reasonable length) and requests that the representations be notified to the members of CSESoc, the secretary or the president may send a copy of the representations to each member of CSESoc or, if the representations are not so sent, the member is entitled to require that the representations be read out at the meeting at which the resolution is considered.
 
 Meetings of the Executive
 -------------------------
@@ -473,20 +453,11 @@ Meetings of the Executive
 #. The secretary shall send the agenda for the meeting, to all those required to attend, no later than two (2) days prior to the meeting.
 #. In the event of a tie during a vote at the executive meeting, each of the Co-Presidents may cast an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
 
-    The appointment to fill quorum provision does not make sense when Exec meetings have no quorum, so Section 21 of
-    the Model Constituton has not been added.
-
-Quorum and Meetings
--------------------
-
-    This has been heavily modified from section 20 of the Model Constitution to make the requirements
-    less onerous, and more in line with those prior to incorporation.
-    The exec/portfolios has no requirement to meet frequently.
-    Both exec/portfolios can have official meetings, and quorum is now half the people who can vote at them,
-    or 3 people, whichever is fewer. Basically, any subcomm head can make a decision on their own, though
-    they have to let the Secretary know if they're doing something in a meeting.
+Quorum and Meetings of the Executive
+------------------------------------
 
 #. Meetings of the executive or portfolio may be convened by either of the co-presidents or by any member of the executive or portfolio.
+#. Meetings of the executive or portfolio may not make decisions that would require a General Meeting.
 #. Oral or written notice of a meeting of the executive or portfolio must be given by the secretary to anyone entitled to vote at that meeting at least 48 hours (or any other period that may be unanimously agreed on by those entitled to vote at the meeting) before the time appointed for the holding of the meeting.
 #. Notice of a meeting given under subclause (3) must specify the general nature of the business to be transacted at the meeting and no business other than that business is to be transacted at the meeting, except business which the executive or portfolio members present at the meeting unanimously agree to treat as urgent business.
 #. A quorum for the transaction of the business of a meeting of the executive or portfolio shall consist of whichever is fewer among:
@@ -547,7 +518,7 @@ Delegation by the Executive to Portfolio
 #. The Executive may, by instrument in writing, revoke wholly or in part any delegation under this clause.
 #. A Portfolio may meet and adjourn as it thinks proper.
 #. A Portfolio may, at the discretion of the Executive, be assigned a budget in order to carry out their delegated tasks.
-#. Working groups shall dissolve:
+#. Portfolios shall dissolve:
 
    #. Upon the election of a new Executive; 
    #. Otherwise at the discretion of the Executive.
@@ -590,7 +561,7 @@ Annual general meetings - holding of
     Copied from section 25 of the Model Constitution, with additions from section 5.1 of the CSESoc Constution.
     Arc Legal -> how do we deal with financial years?
 
-#. CSESoc must hold its first annual general meeting within 18 months after its registration under the Act.
+#. CSESoc must hold its first annual general meeting within 12 months after its registration under the Act.
 #. CSESoc must hold its annual general meetings:
 
    #. within 6 months after the close of CSESoc’s financial year, or
@@ -617,12 +588,14 @@ Annual general meetings - calling of and business at
 
     This requirement will change in another commit to be made.
       
-   #. Nominations for the Executive elections shall open, pursuant to section 8.1.
+   #. Nominations for the Executive elections shall open, pursuant to `Elections`.
 
    #. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business days of the Handover Meeting; and
 
 #.  Each full member is entitled to one vote at an annual general meeting.
+
    #. Should the society have less than 15 full members, half of the number of full members shall constitute a quorum.
+
 #. An annual general meeting must be specified as that type of meeting in the notice convening it.
 
 Extraordinary general meetings - calling of
@@ -695,7 +668,7 @@ Presiding member
    #. Should neither Co-President be able to preside as chairperson, they shall nominate another member of CSESoc to be preside as chairperson.
    #. Should the Co-Presidents be unable to decide who should preside as chairperson, and should the Treasuere be unable to preside as chairperson, the Treasuer shall nomiate another member of CSESoc to preside as chairperson.
 
-#. If the president and the vice-president are absent or unwilling to act, the members present must elect one of their number to preside as chairperson at the meeting.
+#. If the Co-Presidents or Treasurer are absent or unwilling to act as required under this section, the members present must elect one of their number to preside as chairperson at the meeting.
 
 Adjournment
 -----------
@@ -860,6 +833,7 @@ Inspection of books etc
    #. minutes of all general meetings of CSESoc.
 
 #. A member of CSESoc may obtain a copy of any of the documents referred to in subclause (1) on payment of a fee of not more than $1 for each page copied.
+#. A member of CSESoc may obtain a virtual copy of any of the documents referred to in subclause (1) without cost.
 #. Despite clauses (1) and (2), the Executive may refuse to permit a member of CSESoc to inspect or obtain a copy of records of CSESoc that relate to confidential, personal, employment, commercial or legal matters or where to do so may be prejudicial to the interests of CSESoc.
 #. Notwithstanding the above, the records of the society shall be open for inspection by Arc at all times. 
 
@@ -880,6 +854,8 @@ Service of notices
    #. in the case of a notice sent by pre-paid post, on the date when it would have been delivered in the ordinary course of post, and
    #. in the case of a notice sent by facsimile transmission or some other form of electronic transmission, on the date it was sent or, if the machine from which the transmission was sent produces a report indicating that the notice was sent on a later date, on that date.
 
+#. Notices made to the entire membership of CSESoc must be emailed to those members, in addition to any other form those notices take.
+
 Financial year
 ---------------
 
@@ -894,3 +870,4 @@ Financial year
 
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 31 December, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
+
