@@ -388,7 +388,6 @@ Election of the Executive
 
     Verbatim from CSESoc Constitution section 8.
     The Model Constitutions' wording has been ignored since it's not applicable here.
-    These provisions will be changed in another PR, but first we need to reformat.
 
 #. Nominations for the Executive positions shall open during Arc-affiliated club's AGM period, or the week leading up to it.
 
@@ -397,10 +396,10 @@ Election of the Executive
 #. Nominations must remain open until the later of:
 
    #. one calendar week after nominations open; or 
-   #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each 
-              other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
+   #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
    #. In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
-#. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee. 
+
+#. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
 
    #. Only elections run by the School of CSE shall be recognised. 
@@ -415,7 +414,7 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate. If all of the above are running in the election the vote should be submitted to the Student Development Office. The executive member will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the Grievance Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
 
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
 
@@ -448,50 +447,10 @@ Meetings of the Executive
 #. All members of the Executive are required to attend Executive Meetings. 
 #. Executive Meetings shall be held in confidence, except that the Executive may invite members of the society or other guests to attend. These observers shall have no vote.
 
-   #. Members of Sub-Committees who are invited to Executive Meetings are required to attend.
+   #. Members of Portfolios who are invited to Executive Meetings are required to attend.
 
 #. The secretary shall send the agenda for the meeting, to all those required to attend, no later than two (2) days prior to the meeting.
 #. In the event of a tie during a vote at the executive meeting, each of the Co-Presidents may cast an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
-
-Quorum and Meetings of the Executive
-------------------------------------
-
-#. Meetings of the executive or portfolio may be convened by either of the co-presidents or by any member of the executive or portfolio.
-#. Meetings of the executive or portfolio may not make decisions that would require a General Meeting.
-#. Oral or written notice of a meeting of the executive or portfolio must be given by the secretary to anyone entitled to vote at that meeting at least 48 hours (or any other period that may be unanimously agreed on by those entitled to vote at the meeting) before the time appointed for the holding of the meeting.
-#. Notice of a meeting given under subclause (3) must specify the general nature of the business to be transacted at the meeting and no business other than that business is to be transacted at the meeting, except business which the executive or portfolio members present at the meeting unanimously agree to treat as urgent business.
-#. A quorum for the transaction of the business of a meeting of the executive or portfolio shall consist of whichever is fewer among:
-
-   #. 3 people entitled to vote at that meeting.
-   #. half of the people entitled to vote at that meeting, rounded up.
-
-#. No business is to be transacted by the executive or portfolio unless a quorum is present and if, within half an hour of the time appointed for the meeting, a quorum is not present, the meeting is to stand adjourned to the same place and at the same hour of the same day in the following week.
-#. If at the adjourned meeting a quorum is not present within half an hour of the time appointed for the meeting, the meeting is to be dissolved.
-#. At a meeting of the executive or portfolio, those entitled to vote at the meeting shall choose one person to chair that meeting. Should they be unable to reach a consensus, the co-presidents may nominate someone to act as chair of that meeting. Should the co-presidents be unable to nominate someone to act as chair, the Treasuerer shall nominate someone.
-    
-Use of technology at Executive meetings
----------------------------------------
-
-    Taken from section 22 of the Model Constitution.
-
-#. A Executive meeting may be held at 2 or more venues using any technology approved by the Executive that gives each of the Executive’s members a reasonable opportunity to participate.
-#. A Executive member who participates in a Executive meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
-
-Voting and Decisions
---------------------
-
-    Taken from section 24 of the Model Constituion.
-    This section has been heavily altered to refer to Portfolios, and the conduct of their meetings.
-
-#. Questions arising at a meeting of the Executive or of any Portfolio appointed by the Executive are to be determined by a majority of the votes of member(s) of the Executive or Portfolio present at the meeting.
-#. Each member present at a meeting of the Executive or of any Portfolio appointed by the Executive (including the person presiding at the meeting) is entitled to one vote. Where there is an equality of votes:
-
-   #. Where the meeting is a meeting of a Portfolio, the Portfolio shall refer the decision to the Executive.
-   #. Where the meeting is a meeting of the Executive, each Co-President shall have an extra vote. Should that not resolve the equality, the Treasurer shall have an extra vote.
-   #. Subject to any requirements for Quorum, the Executive may act despite any vacancy on the Executive. 
-
-#. Any act or thing done or suffered, or purporting to have been done or suffered, by the Executive or by a Portfolio appointed by the Executive, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the Executive or Portfolio.
-
 
    
 Delegation by the Executive to Portfolio
@@ -507,6 +466,7 @@ Delegation by the Executive to Portfolio
 
    #. this power of delegation, and
    #. a function which is a duty imposed on the Executive by the Act or by any other law.
+   #. for the avoidence of doubt, any function that would require a General Meeting.
 
 #. A function the exercise of which has been delegated to a Portfolio under this clause may, while the delegation remains unrevoked, be exercised from time to time by the Portfolio in accordance with the terms of the delegation.
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
@@ -516,12 +476,52 @@ Delegation by the Executive to Portfolio
 #. Despite any delegation under this clause, the Executive may continue to exercise any function delegated.
 #. Any act or thing done or suffered by a Portfolio acting in the exercise of a delegation under this clause has the same force and effect as it would have if it had been done or suffered by the Executive.
 #. The Executive may, by instrument in writing, revoke wholly or in part any delegation under this clause.
-#. A Portfolio may meet and adjourn as it thinks proper.
+#. A Portfolio may meet and adjourn as it thinks proper, subject to the directions of the Executive.
 #. A Portfolio may, at the discretion of the Executive, be assigned a budget in order to carry out their delegated tasks.
 #. Portfolios shall dissolve:
 
    #. Upon the election of a new Executive; 
    #. Otherwise at the discretion of the Executive.
+
+
+Quorum and Meetings of the Executive or Portfolio
+-------------------------------------------------
+
+#. Meetings of the executive or portfolio may be convened by either of the co-presidents or by any member of the executive or portfolio.
+#. Meetings of the executive or portfolio may not make decisions that would require a General Meeting.
+#. Oral or written notice of a meeting of the executive or portfolio must be given by the secretary to anyone entitled to vote at that meeting at least 48 hours (or any other period that may be unanimously agreed on by those entitled to vote at the meeting) before the time appointed for the holding of the meeting.
+#. Notice of a meeting given under subclause (3) must specify the general nature of the business to be transacted at the meeting and no business other than that business is to be transacted at the meeting, except business which the executive or portfolio members present at the meeting unanimously agree to treat as urgent business.
+#. A quorum for the transaction of the business of a meeting of the executive or portfolio shall consist of whichever is fewer among:
+
+   #. 3 people entitled to vote at that meeting.
+   #. half of the people entitled to vote at that meeting, rounded up.
+
+#. No business is to be transacted by the executive or portfolio unless a quorum is present and if, within half an hour of the time appointed for the meeting, a quorum is not present, the meeting is to stand adjourned to the same place and at the same hour of the same day in the following week.
+#. If at the adjourned meeting a quorum is not present within half an hour of the time appointed for the meeting, the meeting is to be dissolved.
+#. At a meeting of the executive or portfolio, those entitled to vote at the meeting shall choose one person to chair that meeting. Should they be unable to reach a consensus, the co-presidents may nominate someone to act as chair of that meeting. Should the co-presidents be unable to nominate someone to act as chair, the Treasurer shall nominate someone.
+    
+Use of technology at Executive or Portfolio meetings
+----------------------------------------------------
+
+    Taken from section 22 of the Model Constitution.
+
+#. A Executive or Portfolio meeting may be held at 2 or more venues using any technology approved by the Executive or Portfolio that gives each of the Executive’s or Portfolio's members a reasonable opportunity to participate.
+#. A Executive or Portfolio member who participates in a Executive or Portfolio meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
+
+Voting and Decisions
+--------------------
+
+    Taken from section 24 of the Model Constituion.
+    This section has been heavily altered to refer to Portfolios, and the conduct of their meetings.
+
+#. Questions arising at a meeting of the Executive or of any Portfolio appointed by the Executive are to be determined by a majority of the votes of member(s) of the Executive or Portfolio present at the meeting.
+#. Each member present at a meeting of the Executive or of any Portfolio appointed by the Executive (including the person presiding at the meeting) is entitled to one vote. Where there is an equality of votes:
+
+   #. Where the meeting is a meeting of a Portfolio, the Portfolio shall refer the decision to the Executive.
+   #. Where the meeting is a meeting of the Executive, each Co-President shall have an extra vote. Should that not resolve the equality, the Treasurer shall have an extra vote.
+   #. Subject to any requirements for Quorum, the Executive may act despite any vacancy on the Executive. 
+
+#. Any act or thing done or suffered, or purporting to have been done or suffered, by the Executive or by a Portfolio appointed by the Executive, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the Executive or Portfolio.
 
 
 Handover Meeting
@@ -637,7 +637,7 @@ Notice
 
    #. Note that a special resolution must be passed in accordance with section 39 of the Act.
 
-#. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under clause 26 (2).
+#. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under the clause governing `Annual General Meetings`.
 #. A member desiring to bring any business before a general meeting may give notice in writing of that business to the secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 
 Quorum for general meetings
@@ -697,6 +697,7 @@ Special resolutions
 -------------------
 
     Copied from section 33 of the Model Constitution.
+    See `https://www.fairtrading.nsw.gov.au/associations-and-co-operatives/associations/running-an-association/resolutions` for more info.
 
 #. A special resolution may only be passed by CSESoc in accordance with section 39 of the Act.
 
@@ -809,6 +810,7 @@ Change of name, objects and constitution
     Copied from section 43 of the Model Constitution.
 
 #. An application for registration of a change in CSESoc’s name, objects or constitution in accordance with section 10 of the Act is to be made by the public officer or a member of the Executive.
+#. Change to CSESoc's name, objects or constitution may only be made by Special Resolution.
 
 Custody of books etc
 ---------------
@@ -824,7 +826,6 @@ Inspection of books etc
 ---------------
 
     Copied from section 45 of the Model Constitution. Added section about Arc.
-    I do not want to have this section, but I do wonder if I'm obligated to have it:
 
 #. The following documents must be open to inspection, free of charge, by a member of CSESoc at any reasonable hour:
 
@@ -860,7 +861,7 @@ Financial year
 ---------------
 
     Copied from section 47 of the Model Constitution.
-    TODO: Arc Legal -> how to make this work given we need to meet 6 months AFTER EOFY
+    TODO: Arc Legal -> how to make this work given we need to meet 6 months after EOFY
 
     Notes from the Model Constitution:
     1. Schedule 1 to the Act provides that an association’s constitution is to address CSESoc’s financial year.
