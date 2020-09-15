@@ -84,6 +84,7 @@ Definitions
 #. *Full members* shall mean full members of the Computer Science and Engineering Society of UNSW; 
 #. *Associate members* shall mean associate members of the Computer Science and Engineering Society of UNSW; 
 #. *The Executive* shall mean the Executive of the Computer Science and Engineering Society of UNSW; 
+#. *A Portfolio* shall mean a group of members of the society, selected by The Executive to perform a particular task or tasks, as delegated to by The Executive.
 #. *The Annual General Meeting* shall mean the Annual General Meeting of the CSE Society; 
 #. An *academic day* shall mean a day during the first, second or third term of the University’s 
    cademic year which is not a Saturday, Sunday, Public Holiday or University Holiday; 
@@ -260,7 +261,7 @@ The Executive Generally
    #. Any vacancy in the society Executive must be filled by following the election procedure under Section 8.
 
       #. If there is a tie for the vacant executive position, the current executive shall have a casting vote in the election.
-      #. The candidate must accept the offer of Executive position at an Extraordinary General Meeting before they may fill the position.
+      #. The candidate must accept the offer of Executive position at that meeting, or alternatively at an Extraordinary General Meeting before they may fill the position.
 
 
 Duties of the Executive
@@ -388,12 +389,13 @@ Election of the Executive
 
     Verbatim from CSESoc Constitution section 8.
     The Model Constitutions' wording has been ignored since it's not applicable here.
+    *NOTE*: We change the constitution to allow accepting a nomination at the AGM.
 
-#. Nominations for the Executive positions shall open during Arc-affiliated club's AGM period, or the week leading up to it.
+#. Nominations for the Executive positions shall open during Arc-affiliated club's AGM period, or the week leading up to it. The Executive may choose when these nominations open, subject to the requirements of this section.
 
    #. In the event of a vacant Executive position, nominations must be opened within ten (10) business days of the position becoming vacant.
 
-#. Nominations must remain open until the later of:
+#. Nominations must remain open until at least the later of:
 
    #. one calendar week after nominations open; or 
    #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
@@ -409,7 +411,7 @@ Election of the Executive
 #. If there is a tie for any Executive position between candidates, the outgoing executives shall have a casting vote in the election. 
 #. Upon finalising of the election results, they must be pronounced to the membership within one (1) business day.
 
-   #. In order to be appointed to an executive position, winner(s) of the election must accept their role and the motion to appoint them has to pass at an Extraordinary General Meeting.
+   #. In order to be appointed to an executive position, winner(s) of the election must accept their role and the motion to appoint them has to pass at the Annual General Meeting meeting, or at an Extraordinary General Meeting.
 
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
@@ -759,9 +761,8 @@ Funds - management
 Finance
 -------
 
-    This is stuff we want to remove:
-    #. The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution on University campus. 
-    #. The Co-presidents and the Treasurer shall be the signatories to the society’s account(s). 
+#. The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution on University campus. 
+#. The Executive shall vote on three members of the Executive to be signatories to the account, one of whom must be the Treasurer.
 
 #. The Executive must approve all accounts for payment. 
 #. All financial transactions shall require two signatures, one of which must be that of the society Treasurer. 
@@ -777,7 +778,6 @@ Association is non-profit
 Disolution of the society
 -------------------------
 
-    TODO Arc Clubs: do we have to provide for this?
     This is copied from section 7 of the CSESoc constitution.
 
 #.  Dissolution of the Computer Science and Engineering Society of UNSW will occur after the following conditions have been met:
@@ -859,9 +859,6 @@ Service of notices
 
 Financial year
 ---------------
-
-    Copied from section 47 of the Model Constitution.
-    TODO: Arc Legal -> how to make this work given we need to meet 6 months after EOFY
 
     Notes from the Model Constitution:
     1. Schedule 1 to the Act provides that an association’s constitution is to address CSESoc’s financial year.
