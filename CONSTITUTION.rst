@@ -202,7 +202,6 @@ Impeachment of members
 ----------------------
 
     This section is taken from Section 2.7 of the CSESoc Constitution.
-    DISCUSS WITH ARC LEGAL -> Is there a requirement we let Arc mediate? What's the best way to do that.
 
 #. A member of the society may have their membership terminated (they shall be 'impeached') after the following procedure is followed:
 
@@ -317,11 +316,6 @@ The Secretary
       #. all appointments of office-bearers and members of the Executive, and
       #. the names of members of the Executive present at a Executive meeting or a general meeting, and
       #. all proceedings at Executive meetings and general meetings.
-
-    DISCUSS WITH ARC LEGAL --> The below requirements from the Model Constitution would be a change, and cumbersome,
-    so I'd like to strike them, unless it's a legal requirement.
-
-#. The secretary of CSESoc must, as soon as practicable after being appointed as secretary, lodge notice with CSESoc of his or her address.
 
 #. Minutes of proceedings at a meeting must be signed by the chairperson of the meeting or by the chairperson of the next succeeding meeting.
 
@@ -865,4 +859,4 @@ Financial year
 
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 31 December, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
-
+t
