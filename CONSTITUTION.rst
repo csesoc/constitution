@@ -47,7 +47,7 @@ The Society
 
    1. The acronym of the society shall be CSESoc.
 
-2. The society shall be affiliated to Arc.
+2. The society shall be affiliated to Arc @ UNSW Limited.
 3. The aims and objectives of the society are:
 
    1. To fulfil the specific social needs of CSE students; 
@@ -301,7 +301,6 @@ The Co-Presidents
 The Secretary
 """""""""""""
 
-    The way membership lists work needs to be discussed with Arc Legal.
     This section has had section 16 of the Model Constitution added.
 
 #. The duties of the Secretary shall be:
@@ -461,8 +460,7 @@ Delegation by the Executive to Portfolio
     Taken from section 23 of the Model Constitution, with sections modified to refer to 'Portfolio'.
     The requirements of sections 4.1-4.5 have been stricken, as the instrument of delegation may itself
     specify those requirements. The Constiution still specifies explicitly the lifetime of those Portfolios,
-    and the fact they may be assigned a budged. This constitution contains an addendum with a sample delegation
-    of powers. *TODO: We need to write this delegation, and discuss with Arc Legal what it needs to say.*
+    and the fact they may be assigned a budget. 
 
 #. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CSESoc that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
 
@@ -561,7 +559,6 @@ Annual general meetings - holding of
 ------------------------------------
 
     Copied from section 25 of the Model Constitution, with additions from section 5.1 of the CSESoc Constution.
-    Arc Legal -> how do we deal with financial years?
 
 #. CSESoc must hold its first annual general meeting within 12 months after its registration under the Act.
 #. CSESoc must hold its annual general meetings:
