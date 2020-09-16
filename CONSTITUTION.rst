@@ -16,8 +16,8 @@ About the Constitution
 The constitution of an incorporated association forms the structure within which the Association operates. 
 CSESoc has created this document as a combination of the following:
 
-- The Constitution of the Unincorporated Association that incorporated to form CSESoc (the "CSESoc Consitution")
-- The Model Consitution provided by NSW Fair Traiding (the "Model Constitution")
+- The Constitution of the Unincorporated Association that incorporated to form CSESoc (the "CSESoc Constitution")
+- The Model Constitution provided by NSW Fair Trading (the "Model Constitution")
 
 To assist associations develop their constitution, NSW Fair Trading has prepared a model constitution, which covers the matters required by law. 
 Any changes made to the model constitution will automatically apply to all associations that have adopted the model constitution, where no changes have been made by CSESoc.
@@ -25,13 +25,13 @@ Any changes made to the model constitution will automatically apply to all assoc
 The model constitution is © State of New South Wales through NSW Fair Trading, 2016. It has been modified by CSESoc.
 
 For any other use of this information, please refer to NSW Fair Trading’s copyright policy at
-www.fairtrading.nsw.gov.au/ftw/copyright.page or email publications@finance.nsw.gov.au 
+www.fairtrading.nsw.gov.au/ftw/copyright.page or email publications@finance.nsw.gov.au.
 
 Notes on the Pre-Approval Document
 ----------------------------------
 
 This constitution has been written by Tom Kunc.
-Each section contains a small commment explaining where it originates from, and any notes
+Each section contains a small comment explaining where it originates from, and any notes
 before approval. On the approval of this document, except where explicitly provided for,
 those notes shall be removed.
 
@@ -51,7 +51,7 @@ The Society
 3. The aims and objectives of the society are:
 
    1. To fulfil the specific social needs of CSE students; 
-   #. To promote computing through technical and nontechnical oriented events to all students of UNSW; and 
+   #. To promote computing through technical and non-technical oriented events to all students of UNSW; and 
    #. To establish rapport with external organisations/groups that are enthusiastic about computing.
 
 4. During the course of affiliation, the society shall comply with any requirements of Arc.
@@ -63,7 +63,7 @@ The Society
 Definitions
 -----------
 
-    CSESoc Consitution, Section 1
+    CSESoc Constitution, Section 1
     Model Constitution, Section 1
 
 1. In this constitution:
@@ -87,11 +87,11 @@ Definitions
 #. *A Portfolio* shall mean a group of members of the society, selected by The Executive to perform a particular task or tasks, as delegated to by The Executive.
 #. *The Annual General Meeting* shall mean the Annual General Meeting of the CSE Society; 
 #. An *academic day* shall mean a day during the first, second or third term of the University’s 
-   cademic year which is not a Saturday, Sunday, Public Holiday or University Holiday; 
+   academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; 
 #. A *business* day shall mean a day which is not a Saturday, Sunday, Public Holiday, 
-   niversity Holiday or within a University exam period; 
+   university Holiday or within a University exam period; 
 #. The *School of CSE* or any references to the acronym *CSE* shall mean Computer 
-   cience and Engineering; and 
+   Science and Engineering; and 
 #. *Subjects* shall mean units of study offered by the University in progression to the 
    ward of a degree. 
 #. In this constitution:
@@ -133,7 +133,7 @@ Membership Generally
    #. A person shall be an associate member of the society if:
 
       #. They are currently enrolled in a course administered by the School of Computer Science and Engineering.
-   #. An associate member whose membership is by virtue of enrollment in a course shall cease to be a member of CSESoc at the beginning of the term after the term of the course they enrolled in, unless they would otherwise retain that membership.
+   #. An associate member whose membership is by virtue of enrolment in a course shall cease to be a member of CSESoc at the beginning of the term after the term of the course they enrolled in, unless they would otherwise retain that membership.
    #. The executive shall have the power to reasonably interpret which term constitutes the "term after the term of the course they enrolled in".
    #. A person shall also be an associate member of the society if:
 
@@ -151,7 +151,7 @@ Membership Generally
 Membership entitlements not transferable
 ----------------------------------------
 
-    This section has been taken from Section 5 of the Model Consitution.
+    This section has been taken from Section 5 of the Model Constitution.
 
 #. A right, privilege or obligation which a person has by reason of being a member of CSESoc:
 
@@ -409,7 +409,7 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the Grievance Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the Grievance Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
 
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
 
@@ -434,7 +434,7 @@ Casual Vacancies
 
 Meetings of the Executive
 -------------------------
-    Taken from section 5.3 of the CSESoc Consitution
+    Taken from section 5.3 of the CSESoc Constitution
     Removed "notwithstanding 5.1.1.7" from the notice requirement, since it's not useful?
 
 
@@ -453,19 +453,19 @@ Delegation by the Executive to Portfolio
 
     Taken from section 23 of the Model Constitution, with sections modified to refer to 'Portfolio'.
     The requirements of sections 4.1-4.5 have been stricken, as the instrument of delegation may itself
-    specify those requirements. The Constiution still specifies explicitly the lifetime of those Portfolios,
+    specify those requirements. The Constitution still specifies explicitly the lifetime of those Portfolios,
     and the fact they may be assigned a budget. 
 
 #. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CSESoc that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
 
    #. this power of delegation, and
    #. a function which is a duty imposed on the Executive by the Act or by any other law.
-   #. for the avoidence of doubt, any function that would require a General Meeting.
+   #. for the avoidance of doubt, any function that would require a General Meeting.
 
 #. A function the exercise of which has been delegated to a Portfolio under this clause may, while the delegation remains unrevoked, be exercised from time to time by the Portfolio in accordance with the terms of the delegation.
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
 
-   #. This may specify decisions may only be made or voted upon by certain persons speficied by the delegation.
+   #. This may specify decisions may only be made or voted upon by certain persons specified by the delegation.
 
 #. Despite any delegation under this clause, the Executive may continue to exercise any function delegated.
 #. Any act or thing done or suffered by a Portfolio acting in the exercise of a delegation under this clause has the same force and effect as it would have if it had been done or suffered by the Executive.
@@ -505,7 +505,7 @@ Use of technology at Executive or Portfolio meetings
 Voting and Decisions
 --------------------
 
-    Taken from section 24 of the Model Constituion.
+    Taken from section 24 of the Model Constitution.
     This section has been heavily altered to refer to Portfolios, and the conduct of their meetings.
 
 #. Questions arising at a meeting of the Executive or of any Portfolio appointed by the Executive are to be determined by a majority of the votes of member(s) of the Executive or Portfolio present at the meeting.
@@ -552,7 +552,7 @@ General meetings - requirements
 Annual general meetings - holding of
 ------------------------------------
 
-    Copied from section 25 of the Model Constitution, with additions from section 5.1 of the CSESoc Constution.
+    Copied from section 25 of the Model Constitution, with additions from section 5.1 of the CSESoc Constitution.
 
 #. CSESoc must hold its first annual general meeting within 12 months after its registration under the Act.
 #. CSESoc must hold its annual general meetings:
@@ -567,9 +567,9 @@ Annual general meetings - holding of
 Annual general meetings - calling of and business at
 ----------------------------------------------------
 
-    Copied from section 26 of the Model Constitution, and section 5.1 of the CSESoc constituion.
+    Copied from section 26 of the Model Constitution, and section 5.1 of the CSESoc constitution.
 
-#. The annual general meeting of CSESoc is, subject to the Act and to the requirements of this consitution, to be convened on the date and at the place and time that the Executive thinks fit.
+#. The annual general meeting of CSESoc is, subject to the Act and to the requirements of this constitution, to be convened on the date and at the place and time that the Executive thinks fit.
 #. In addition to any other business which may be transacted at an annual general meeting, the business of an annual general meeting is to include the following:
 
    #. Full financial reports shall be presented and adopted; 
@@ -659,7 +659,7 @@ Presiding member
 #. One of the Co-Presidents is to preside as chairperson at each general meeting of CSESoc. Where they cannot decide who should be the chairperson, the Treasurer shall be the chairperson of that general meeting.
 
    #. Should neither Co-President be able to preside as chairperson, they shall nominate another member of CSESoc to be preside as chairperson.
-   #. Should the Co-Presidents be unable to decide who should preside as chairperson, and should the Treasuere be unable to preside as chairperson, the Treasuer shall nomiate another member of CSESoc to preside as chairperson.
+   #. Should the Co-Presidents be unable to decide who should preside as chairperson, and should the Treasurer be unable to preside as chairperson, the Treasurer shall nominate another member of CSESoc to preside as chairperson.
 
 #. If the Co-Presidents or Treasurer are absent or unwilling to act as required under this section, the members present must elect one of their number to preside as chairperson at the meeting.
 
@@ -766,7 +766,7 @@ Association is non-profit
 
 #. Subject to the Act and the Regulation, CSESoc must apply its funds and assets solely in pursuance of the objects of CSESoc and must not conduct its affairs so as to provide a pecuniary gain for any of its members.
 
-Disolution of the society
+Dissolution of the society
 -------------------------
 
     This is copied from section 7 of the CSESoc constitution.
@@ -789,7 +789,7 @@ Distribution of property on winding up of association
 ---------------
 
     Copied from section 42 of the Model Constitution.
-    Note from the model constituion:
+    Note from the model constitution:
     Section 65 of the Act provides for distribution of surplus property on the winding up of an association.
 
 #. Subject to the Act and the Regulations, in a winding up of CSESoc, any surplus property of CSESoc is to be transferred to another organisation affiliated with Arc, with similar objects and which is not carried on for the profit or gain of its individual members.
