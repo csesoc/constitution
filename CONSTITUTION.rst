@@ -188,7 +188,7 @@ Resolution of disputes
 
     DISCUSS WITH ARC LEGAL -> DO I NEED TO SAY 1 or 4 or 5
 
-#. The society shall publically maintain a Grievance Resolution Policy and Procedure.
+#. The society shall publicly maintain a Grievance Resolution Policy and Procedure.
 
    #. This Policy and Procedure shall initially be the Grievance Resolution Policy and Procedure of the Unincorporated Association which incorporates under this constitution.
    #. This Policy and Procedure may be modified by a vote of the Executive.
