@@ -93,7 +93,7 @@ Definitions
 #. The *School of CSE* or any references to the acronym *CSE* shall mean Computer 
    Science and Engineering; and 
 #. *Subjects* shall mean units of study offered by the University in progression to the 
-   ward of a degree. 
+   award of a degree. 
 #. In this constitution:
 
    #. a reference to a function includes a reference to a power, authority and duty, and
