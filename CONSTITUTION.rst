@@ -309,8 +309,8 @@ The Secretary
       #. Should the secretary be unwilling or unable to fulfil the requirements of the Public Officer, they shall appoint another member of the executive as public officer.
    #. To keep records of:
 
-      #. all appointments of office-bearers and members of the Executive, and
-      #. all relevant details required by the Associations Incorporation Act (2009), and
+      #. all appointments of office-bearers and members of the Executive (including start date, end date, and position), and
+      #. all relevant details required by the Act, and
       #. the names of members of the Executive present at a Executive meeting or a general meeting, and
       #. all proceedings at Executive meetings and general meetings.
 
@@ -318,7 +318,7 @@ The Secretary
 
    #. The signature of the chairperson may be transmitted by electronic means for the purposes of this clause.
 
-    NOTE: The Associations Incorporation Act, Section 29, Subsection 2 requires:
+    NOTE: The Act, Section 29, Subsection 2 requires:
     (2) The register must contain the following particulars in relation to each committee member--
 
         (a) the committee member's name, date of birth and residential address, 
@@ -552,7 +552,7 @@ General meetings - requirements
    #. Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
    #. In the case of equality of voting, the motion shall be defeated. 
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting; and 
-   #. Constitutional changes passed at an Annual or Extraordinary General Meeting will not take effect until ratified by Arc. 
+   #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for CSESoc to remain affiliated with Arc. 
    #. The Secretary shall send the agenda for the meeting, to all those required to attend, no later than two (2) business days prior to the meeting. 
 
 Annual general meetings - holding of
@@ -777,12 +777,12 @@ Dissolution of the society
 
 #.  Dissolution of the Computer Science and Engineering Society of UNSW will occur after the following conditions have been met:
 
-   #. An Extraordinary General Meeting is petitioned in writing as set out in 4.11; 
-   #. Procedures for notification as set out in 4.1.3 are followed, and the reasons for the proposed dissolution are included with the notification to Arc; 
+   #. An Extraordinary General Meeting is petitioned in writing, in accordance with the relevant constituional requirements for a Special Resolution.
+   #. Procedures for notification as set out in this constituion are followed, and the reasons for the proposed dissolution are included with the notification to Arc; 
    #. Quorum for the meeting to dissolve the society shall be twenty (20) members or three-quarters of the society membership, whichever is the lesser; 
    #. No other business may be conducted at the meeting to dissolve the society; 
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose; 
-   #. A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the society; and 
+   #. A vote is taken and the motion to dissolve lapses if opposed by more than 25% of votes cast by members of the society eligible to vote.
    #. If the motion to dissolve is carried, Arc must be notified within ten (10) academic days.
 
 #. Dissolution of the society will also occur if the society has been financially AND administratively inactive for a period of eighteen (18) months. Financial inactivity shall mean no recorded and official electronic or manual monetary transaction has occurred. Administrative inactivity shall mean no recorded and official publicity to the School of Computer Science and Engineering student body through methods/medium such as email, posters. 
