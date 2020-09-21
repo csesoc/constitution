@@ -649,8 +649,6 @@ Quorum for general meetings
    #. in any other case—is to stand adjourned to the same day in the following week at the same time and (unless another place is specified at the time of the adjournment by the person presiding at the meeting or communicated by written notice to members given before the day to which the meeting is adjourned) at the same place.
 
 
-#. If at the adjourned meeting a quorum is not present within half an hour after the time appointed for the commencement of the meeting, the members present (being at least 3) are to constitute a quorum. 
-
 Presiding member
 ---------------
 
