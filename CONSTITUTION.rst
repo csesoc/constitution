@@ -860,4 +860,4 @@ Financial year
 #. The financial year of CSESoc is:
 
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 31 December, and
-   #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
+   #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 January and ending on the following 31 December.
