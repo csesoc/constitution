@@ -569,7 +569,7 @@ Annual general meetings - holding of
 
 #. There shall be one Annual General meeting every calendar year. 
 #. The Annual General Meeting shall be held on an academic day. 
-#. Notice in the form of an agenda for the Annual General Meeting shall be no less than five (5) academic days, and is to be given in writing, through the CSE email system, to all society members, or upon approval by Arc, displayed in a way that will guarantee an acceptable level of exposure among society members. 
+#. Notice in the form of an agenda for the Annual General Meeting shall be given no less than five (5) academic days before and at least seven (7) days, and is to be given in writing, through the CSE email system, to all society members, or upon approval by Arc, displayed in a way that will guarantee an acceptable level of exposure among society members. 
 
 Annual general meetings - calling of and business at
 ----------------------------------------------------
@@ -632,7 +632,7 @@ Notice
 
     Copied from section 28 of the Model Constitution.
 
-#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 7 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
+#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 7 days and 5 academic days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 #. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
 
    #. Note that a special resolution must be passed in accordance with section 39 of the Act.
