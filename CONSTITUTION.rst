@@ -146,7 +146,7 @@ Membership Generally
 
    #. dies, or
    #. notifies the Executive in writing to request their membership be terminated, or
-   #. is removed from the Executive under the provisions described in `Disciplining of Members`_.
+   #. is removed from the Executive under the provisions described in `Impeachment of Members`_.
 
 Membership entitlements not transferable
 ----------------------------------------
