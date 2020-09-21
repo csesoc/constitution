@@ -607,7 +607,7 @@ Extraordinary general meetings - calling of
    #. must be signed by the members making the requisition, and
    #. must be lodged with the secretary, and
    #. may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
-   #. Such a requisitioned meeting must be held within twenty-one (21) academic days, but no 
+   #. Such a requisitioned meeting must be held within twenty-eight (28) academic days, but no 
               sooner than five (5) academic days.
    #. If the Executive fails to convene a special general meeting to be held within 1 month after the date on which a requisition of members for the meeting is lodged with the secretary, any one or more of the members who made the requisition may convene a special general meeting to be held not later than 3 months after that date.
 
@@ -625,7 +625,7 @@ Notice
 
     Copied from section 28 of the Model Constitution.
 
-#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 14 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
+#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 7 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 #. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
 
    #. Note that a special resolution must be passed in accordance with section 39 of the Act.
