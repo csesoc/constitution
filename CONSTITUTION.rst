@@ -56,7 +56,8 @@ The Society
 
 4. During the course of affiliation, the society shall comply with any requirements of Arc.
 5. The society will be a Constituent society since it has an agreed association with School of 
-   Computer Science and Engineering, which is ratified by Arc. 
+   Computer Science and Engineering, which is ratified by Arc.
+6. The society will comply with Anti-Discrimination legislation in all its activities and procedures, including the granting of society membership .
 
 
 
@@ -136,10 +137,10 @@ Membership Generally
    #. The executive shall have the power to reasonably interpret which term constitutes the "term after the term of the course they enrolled in".
    #. A person shall also be an associate member of the society if:
 
-      #. They have applied to a member of the club Executive of CSESoc to become an associate member, and
+      #. They have applied to a member of the society Executive of CSESoc to become an associate member, and
       #. They would not cause a violation of the affiliation requirements of Arc, and
-      #. They pay a membership fee, as set by the club Executive, and
-      #. They complete a membership form prepared by the club Executive.
+      #. They pay a membership fee, as set by the society Executive, and
+      #. They complete a membership form prepared by the society Executive.
    #. An associate member whose membership is by application to the Executive shall cease to be a member of CSESoc at the end of the calendar year, unless they would otherwise retain that membership.
 #. Notwithstanding other provisions of this section, a person ceases to be a member of CSESoc if the person:
 
@@ -232,7 +233,7 @@ The Executive Generally
    #. Ensure that through the activities of the Society’s working groups, its aims are being fulfilled;
    #. Maintain the finances of the society;
    #. Communicate with the membership of the Society; and
-   #. Maintain and review policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
+   #. Maintain and review policies & procedures of the Society, including its Grievance Resolution Policy & Procedure.
    #. Control and manage the affairs of CSESoc, and
    #. Exercise all the functions that may be exercised by CSESoc, other than those functions that are required by this constitution to be exercised by a general meeting of members of CSESoc, and
    #. Have power to perform all the acts and do all things that appear to the Executive to be necessary or desirable for the proper management of the affairs of CSESoc.
@@ -377,9 +378,9 @@ The Grievance Officer
     
 #. The duties of the Grievance Officer shall be:
 
-   #. To receive complaints and grievances relating to the Club;
-   #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
-   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
+   #. To receive complaints and grievances relating to the Society;
+   #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Society Executive on the resolution of grievances;
+   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Society Executives if they cannot act impartially; and
    #. To notify those involved of the outcome of the grievance.
 
 Election of the Executive
