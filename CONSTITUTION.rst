@@ -787,7 +787,6 @@ Dissolution of the society
 
 #. Dissolution of the society will also occur if the society has been financially AND administratively inactive for a period of eighteen (18) months. Financial inactivity shall mean no recorded and official electronic or manual monetary transaction has occurred. Administrative inactivity shall mean no recorded and official publicity to the School of Computer Science and Engineering student body through methods/medium such as email, posters. 
 #. Arc must give twenty (20) academic days notice in Tharunka and/or Blitz and/or the Arc website, and in writing to the last known Co-Presidents before dissolving the society in this way. 
-#. On dissolution of the society, the society is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the society. If no other legitimate organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the society which it perceives would be useful to other Arc-affiliated clubs. 
         
 Distribution of property on winding up of association 
 ---------------
@@ -796,7 +795,7 @@ Distribution of property on winding up of association
     Note from the model constitution:
     Section 65 of the Act provides for distribution of surplus property on the winding up of an association.
 
-#. Subject to the Act and the Regulations, in a winding up of CSESoc, any surplus property of CSESoc is to be transferred to another organisation affiliated with Arc, with similar objects and which is not carried on for the profit or gain of its individual members.
+#. On dissolution of the society, the society is not to distribute assets to members. All surplus assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the society. If no other legitimate organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the society which it perceives would be useful to other Arc-affiliated clubs. 
 #. In this clause, a reference to the surplus property of an association is a reference to that property of CSESoc remaining after satisfaction of the debts and liabilities of CSESoc and the costs, charges and expenses of the winding up of CSESoc.
 
 Change of name, objects and constitution
