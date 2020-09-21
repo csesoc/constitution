@@ -67,7 +67,6 @@ Definitions
     Model Constitution, Section 1
 
 1. In this constitution:
-
    #. *secretary* means:
 
       #. the person holding office under this constitution as secretary of CSESoc, or
@@ -186,17 +185,13 @@ Members’ liabilities
 Resolution of disputes
 ----------------------
 
-    DISCUSS WITH ARC LEGAL -> DO I NEED TO SAY 1 or 4 or 5
-
 #. The society shall publicly maintain a Grievance Resolution Policy and Procedure.
 
    #. This Policy and Procedure shall initially be the Grievance Resolution Policy and Procedure of the Unincorporated Association which incorporates under this constitution.
    #. This Policy and Procedure may be modified by a vote of the Executive.
 
 #. A dispute between a member and another member (in their capacity as members) of the association shall be referred to the CSESoc Grievance officer; who shall act in accordance with the Grievance Resolution Policy and Procedure.
-#. A dispute between a member or members and CSESoc, is to be referred to a Community Justice Centre for mediation under the Community Justice Centres Act 1983.
-#. If a dispute is not resolved by mediation within 3 months of the referral to a Community Justice Centre, the dispute is to be referred to arbitration.
-#. The Commercial Arbitration Act 2010 applies to a dispute referred to arbitration.
+#. A dispute between a member or members and CSESoc, is to be referred to Arc for mediation. Arc shall be the final arbiter of any decision between CSESoc and members.
 
 Impeachment of members
 ----------------------
@@ -257,11 +252,10 @@ The Executive Generally
       #. The Executive member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and
       #. The motion is carried by the Extraordinary General Meeting.
 
-   #. Any vacancy in the society Executive must be filled by following the election procedure under Section 8.
+   #. Any vacancy in the society Executive must be filled by following the election procedure under `Election of the Executive`_.
 
       #. If there is a tie for the vacant executive position, the current executive shall have a casting vote in the election.
       #. The candidate must accept the offer of Executive position at that meeting, or alternatively at an Extraordinary General Meeting before they may fill the position.
-
 
 Duties of the Executive
 -----------------------
@@ -311,15 +305,26 @@ The Secretary
    #. To keep relevant society papers in order; 
    #. To coordinate elections; and 
    #. To maintain up-to-date membership lists.
+   #. To be public officer of CSESoc, and attend to all requirements of that office under this constituion and under the law.
+      #. Should the secretary be unwilling or unable to fulfil the requirements of the Public Officer, they shall appoint another member of the executive as public officer.
    #. To keep records of:
 
       #. all appointments of office-bearers and members of the Executive, and
+      #. all relevant details required by the Associations Incorporation Act (2009), and
       #. the names of members of the Executive present at a Executive meeting or a general meeting, and
       #. all proceedings at Executive meetings and general meetings.
 
 #. Minutes of proceedings at a meeting must be signed by the chairperson of the meeting or by the chairperson of the next succeeding meeting.
 
    #. The signature of the chairperson may be transmitted by electronic means for the purposes of this clause.
+
+    NOTE: The Associations Incorporation Act, Section 29, Subsection 2 requires:
+    (2) The register must contain the following particulars in relation to each committee member--
+
+        (a) the committee member's name, date of birth and residential address, 
+        (b) the date on which the committee member takes office, 
+        (c) the date on which the committee member vacates office, 
+        (d) such other particulars as may be prescribed by the regulations. 
 
 The Treasurer
 """""""""""""
@@ -392,7 +397,6 @@ Election of the Executive
 
    #. one calendar week after nominations open; or 
    #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
-   #. In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
@@ -416,10 +420,12 @@ Election of the Executive
    #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
    #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
 
+#. In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
+
 Casual Vacancies
 ----------------
 
-#. In the event of a casual vacancy occurring in the membership of the Executive, the Executive shall call a General Meeting within 30 days to elect a new officeholder.
+#. In the event of a casual vacancy occurring in the membership of the Executive, the Executive shall call a General Meeting within 28 days to elect a new officeholder.
 #. A casual vacancy in the office of a member of the Executive occurs if the member:
 
    #. dies, or
@@ -454,7 +460,7 @@ Delegation by the Executive to Portfolio
     Taken from section 23 of the Model Constitution, with sections modified to refer to 'Portfolio'.
     The requirements of sections 4.1-4.5 have been stricken, as the instrument of delegation may itself
     specify those requirements. The Constitution still specifies explicitly the lifetime of those Portfolios,
-    and the fact they may be assigned a budget. 
+    and the fact they may be assigned a budget.
 
 #. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CSESoc that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
 
@@ -818,7 +824,6 @@ Inspection of books etc
 
 #. The following documents must be open to inspection, free of charge, by a member of CSESoc at any reasonable hour:
 
-   #. records, books and other financial documents of CSESoc,
    #. this constitution,
    #. minutes of all general meetings of CSESoc.
 
