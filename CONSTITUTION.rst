@@ -114,7 +114,7 @@ Membership Generally
     This section has been entirely taken from sections 2.1 to 2.5 of the CSESoc Constitution.
     It has been reformatted, but no substantive additions have been made.
 
-#. There shall be two types of membership: *full member*, and *associated member*.
+#. There shall be two types of membership: *full member*, and *associate member*.
 #. Full membership shall be subject to the following conditions:
 
    #. A person shall be a full member of the society if:
@@ -238,7 +238,8 @@ The Executive Generally
    #. Exercise all the functions that may be exercised by CSESoc, other than those functions that are required by this constitution to be exercised by a general meeting of members of CSESoc, and
    #. Have power to perform all the acts and do all things that appear to the Executive to be necessary or desirable for the proper management of the affairs of CSESoc.
 
-#. There is no maximum number of consecutive terms for which a Executive member may hold office. 
+#. There is no maximum number of consecutive terms for which an Executive member may hold office.
+#. Subject to this constitution, Members of the executive hold their office until the executive is dissolved by `Handover Meeting`_.
 #. The Executive is at all times bound by the decisions of all Computer Science and Engineering Society of UNSW Annual or Extraordinary General Meetings. 
 #. Any member of the Executive shall have their position declared vacant if they:
 
@@ -860,5 +861,5 @@ Financial year
 	
 #. The financial year of CSESoc is:
 
-   #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 31 December, and
-   #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 January and ending on the following 31 December.
+   #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 31 June, and
+   #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 31 June.
