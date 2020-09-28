@@ -549,8 +549,8 @@ General meetings - requirements
 
 #. General meeting requirements for all general meetings are as follows:
 
-   #. All voting at general meetings shall be with a simple majority required for a resolution to be passed;
-   #. Except where specified otherwise, each member (full, or associate) shall be allowed 1 vote.
+   #. All voting at general meetings, except as otherwise provided by this constitution, shall be with a simple majority required for a resolution to be passed;
+   #. Except where specified otherwise, each full member shall be allowed 1 vote.
    #. Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
    #. In the case of equality of voting, the motion shall be defeated. 
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting; and 
@@ -605,10 +605,10 @@ Extraordinary general meetings - calling of
     Copied from section 27 of the Model Constitution, but with extra stuff from Section 5 of the CSESoc constitution.
 
 #. The Executive may, whenever it thinks fit, convene a special general meeting of CSESoc.
-#. Extraordinary General Meetings must be held on an academic day.
+#. Extraordinary general meetings must be held on an academic day.
 #. Each full member is entitled to one vote.
 #. The Executive must, on the requisition of at least 15 full members, convene a special general meeting of CSESoc.
-#. A requisition of members for a special general meeting:
+#. A requisition of members for a extraordinary general meeting:
 
    #. must be in writing, and
    #. must state the purpose or purposes of the meeting, and
@@ -617,9 +617,9 @@ Extraordinary general meetings - calling of
    #. may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
    #. Such a requisitioned meeting must be held within twenty-eight (28) academic days, but no 
               sooner than five (5) academic days.
-   #. If the Executive fails to convene a special general meeting to be held within 1 month after the date on which a requisition of members for the meeting is lodged with the secretary, any one or more of the members who made the requisition may convene a special general meeting to be held not later than 3 months after that date.
+   #. If the Executive fails to convene a extraordinary general meeting to be held within 1 month after the date on which a requisition of members for the meeting is lodged with the secretary, any one or more of the members who made the requisition may convene a extraordinary general meeting to be held not later than 3 months after that date.
 
-   #. A special general meeting convened by a member or members as referred to in this clause must be convened as nearly as is practicable in the same manner as general meetings are convened by the Executive.
+   #. A extraordinary general meeting convened by a member or members as referred to in this clause must be convened as nearly as is practicable in the same manner as general meetings are convened by the Executive.
 
 #. For the purposes of subclause (3):
 
