@@ -27,21 +27,16 @@ The model constitution is © State of New South Wales through NSW Fair Trading, 
 For any other use of this information, please refer to NSW Fair Trading’s copyright policy at
 www.fairtrading.nsw.gov.au/ftw/copyright.page or email publications@finance.nsw.gov.au.
 
-Notes on the Pre-Approval Document
-----------------------------------
-
-This constitution has been written by Tom Kunc.
-Each section contains a small comment explaining where it originates from, and any notes
-before approval. On the approval of this document, except where explicitly provided for,
-those notes shall be removed.
+This constitution was prepared by Tom Kunc (tom@tfpk.dev) with thanks
+to the rest of the 2020 Executive Team (Tammy, Shane, Teresa, Jeremy and Sam);
+to Siddhant, Karl and Shrey for their review work; to Arc Clubs for their
+advice.
 
 Preliminaries
 =============
 
 The Society
 -----------
-
-    CSESoc Constitution, Section 1
 
 1. The official name of the society shall be Computer Science and Engineering Society of UNSW.
 
@@ -64,8 +59,6 @@ The Society
 Definitions
 -----------
 
-    CSESoc Constitution, Section 1
-    Model Constitution, Section 1
 
 1. In this constitution:
    #. *secretary* means:
@@ -105,14 +98,8 @@ Definitions
 Membership
 ==========
 
-    Part 2 of this Constitution is structured around Part 2 of the Model Constitution, with sections merged
-    or added from the CSESoc Constitution.
-
 Membership Generally
 --------------------
-
-    This section has been entirely taken from sections 2.1 to 2.5 of the CSESoc Constitution.
-    It has been reformatted, but no substantive additions have been made.
 
 #. There shall be two types of membership: *full member*, and *associate member*.
 #. Full membership shall be subject to the following conditions:
@@ -151,8 +138,6 @@ Membership Generally
 Membership entitlements not transferable
 ----------------------------------------
 
-    This section has been taken from Section 5 of the Model Constitution.
-
 #. A right, privilege or obligation which a person has by reason of being a member of CSESoc:
 
    #. is not capable of being transferred or transmitted to another person, and
@@ -178,9 +163,6 @@ Register of Members
 Members’ liabilities
 --------------------
 
-    This section has been taken from Section 9 of the Model Constitution. Note, Section 8 was stricken,
-    since its dealt with in other sections that make having fees unconstitutional.
-
 #. The liability of a member of CSESoc to contribute towards the payment of the debts and liabilities of CSESoc or the costs, charges and expenses of the winding up of CSESoc is limited to the amount, if any, unpaid by the member in respect of membership of CSESoc as required by the `Membership`_ section.
 
 Resolution of disputes
@@ -196,8 +178,6 @@ Resolution of disputes
 
 Impeachment of members
 ----------------------
-
-    This section is taken from Section 2.7 of the CSESoc Constitution.
 
 #. A member of the society may have their membership terminated (they shall be 'impeached') after the following procedure is followed:
 
@@ -216,8 +196,6 @@ The Executive
 
 The Executive Generally
 -----------------------
-
-    This section is taken from Sections 3.1 - 3.6 of the CSESoc Constitution; and section 13 of the Model Constitution.
 
 #. The Executive of the Computer Science and Engineering Society of UNSW shall be elected from the online election as set out in the `Election of the Executive`_ section, and shall consist of:
 
@@ -296,8 +274,6 @@ The Co-Presidents
 The Secretary
 """""""""""""
 
-    This section has had section 16 of the Model Constitution added.
-
 #. The duties of the Secretary shall be:
 
    #. To be responsible for receiving and replying to all correspondence on behalf of 
@@ -331,10 +307,6 @@ The Secretary
 The Treasurer
 """""""""""""
 
-    Copied from CSESoc Constitution section 3.7.3.
-    The provisions of section 17 of the Model Constitution were stricken since they are encapsulated
-    by section 3.7.3.
-
 #. The duties of the Treasurer shall be:
 
    #. To keep and maintain all society financial records; 
@@ -360,8 +332,6 @@ The Treasurer
 The Arc Delegate
 """"""""""""""""
 
-    Copied from CSESoc Constitution section 3.7.4.
-
 #. The duties of the Arc Delegate shall be:
 
    #. To be aware of Arc rules and regulations, in particular its funding system and the possibilities for the society;
@@ -375,8 +345,6 @@ The Arc Delegate
 The Grievance Officer
 """""""""""""""""""""
 
-    Copied from CSESoc Constitution section 3.7.5.
-    
 #. The duties of the Grievance Officer shall be:
 
    #. To receive complaints and grievances relating to the Society;
@@ -386,10 +354,6 @@ The Grievance Officer
 
 Election of the Executive
 -------------------------
-
-    Verbatim from CSESoc Constitution section 8.
-    The Model Constitutions' wording has been ignored since it's not applicable here.
-    *NOTE*: We change the constitution to allow accepting a nomination at the AGM.
 
 #. Nominations for the Executive positions shall open during Arc-affiliated club's AGM period, or the week leading up to it. The Executive may choose when these nominations open, subject to the requirements of this section.
 
@@ -442,8 +406,6 @@ Casual Vacancies
 
 Meetings of the Executive
 -------------------------
-    Taken from section 5.3 of the CSESoc Constitution
-    Removed "notwithstanding 5.1.1.7" from the notice requirement, since it's not useful?
 
 
 #. There shall be Executive Meetings as the Executive sees fit. 
@@ -458,11 +420,6 @@ Meetings of the Executive
    
 Delegation by the Executive to Portfolio
 -----------------------------------------
-
-    Taken from section 23 of the Model Constitution, with sections modified to refer to 'Portfolio'.
-    The requirements of sections 4.1-4.5 have been stricken, as the instrument of delegation may itself
-    specify those requirements. The Constitution still specifies explicitly the lifetime of those Portfolios,
-    and the fact they may be assigned a budget.
 
 #. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CSESoc that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
 
@@ -505,16 +462,11 @@ Quorum and Meetings of the Executive or Portfolio
 Use of technology at Executive or Portfolio meetings
 ----------------------------------------------------
 
-    Taken from section 22 of the Model Constitution.
-
 #. A Executive or Portfolio meeting may be held at 2 or more venues using any technology approved by the Executive or Portfolio that gives each of the Executive’s or Portfolio's members a reasonable opportunity to participate.
 #. A Executive or Portfolio member who participates in a Executive or Portfolio meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
 
 Voting and Decisions
 --------------------
-
-    Taken from section 24 of the Model Constitution.
-    This section has been heavily altered to refer to Portfolios, and the conduct of their meetings.
 
 #. Questions arising at a meeting of the Executive or of any Portfolio appointed by the Executive are to be determined by a majority of the votes of member(s) of the Executive or Portfolio present at the meeting.
 #. Each member present at a meeting of the Executive or of any Portfolio appointed by the Executive (including the person presiding at the meeting) is entitled to one vote. Where there is an equality of votes:
@@ -542,11 +494,6 @@ General Meetings
 General meetings - requirements
 -------------------------------
 
-    Taken from section 5 of the CSESoc Constitution.
-    Proxies were discussed in section 35 of the Model Constitution,
-    and we must allow/disallow them as a requirement of the act.
-    The CSESoc Constitution allows them, so we do too.
-
 #. General meeting requirements for all general meetings are as follows:
 
    #. All voting at general meetings, except as otherwise provided by this constitution, shall be with a simple majority required for a resolution to be passed;
@@ -560,7 +507,6 @@ General meetings - requirements
 Annual general meetings - holding of
 ------------------------------------
 
-    Copied from section 25 of the Model Constitution, with additions from section 5.1 of the CSESoc Constitution.
 
 #. CSESoc must hold its first annual general meeting within 12 months after its registration under the Act.
 #. CSESoc must hold its annual general meetings:
@@ -574,8 +520,6 @@ Annual general meetings - holding of
 
 Annual general meetings - calling of and business at
 ----------------------------------------------------
-
-    Copied from section 26 of the Model Constitution, and section 5.1 of the CSESoc constitution.
 
 #. The annual general meeting of CSESoc is, subject to the Act and to the requirements of this constitution, to be convened on the date and at the place and time that the Executive thinks fit.
 #. In addition to any other business which may be transacted at an annual general meeting, the business of an annual general meeting is to include the following:
@@ -601,8 +545,6 @@ Annual general meetings - calling of and business at
 
 Extraordinary general meetings - calling of
 -------------------------------------
-
-    Copied from section 27 of the Model Constitution, but with extra stuff from Section 5 of the CSESoc constitution.
 
 #. The Executive may, whenever it thinks fit, convene a special general meeting of CSESoc.
 #. Extraordinary general meetings must be held on an academic day.
@@ -631,8 +573,6 @@ Extraordinary general meetings - calling of
 Notice
 ------
 
-    Copied from section 28 of the Model Constitution.
-
 #. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 7 days and 5 academic days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 #. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
 
@@ -643,8 +583,6 @@ Notice
 
 Quorum for general meetings
 ---------------
-
-    Copied from section 29 of the Model Constitution. We require 15 members because Arc.
 
 #. No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
 #. Fifteen members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
@@ -660,8 +598,6 @@ Quorum for general meetings
 Presiding member
 ---------------
 
-    Copied from section 30 of the Model Constitution, with slight modifications to be specific to CSESoc.
-
 #. One of the Co-Presidents is to preside as chairperson at each general meeting of CSESoc. Where they cannot decide who should be the chairperson, the Treasurer shall be the chairperson of that general meeting.
 
    #. Should neither Co-President be able to preside as chairperson, they shall nominate another member of CSESoc to be preside as chairperson.
@@ -672,16 +608,12 @@ Presiding member
 Adjournment
 -----------
 
-    Copied from section 31 of the Model Constitution.
-
 #. The chairperson of a general meeting at which a quorum is present may, with the consent of the majority of members present at the meeting, adjourn the meeting from time to time and place to place, but no business is to be transacted at an adjourned meeting other than the business left unfinished at the meeting at which the adjournment took place.
 #. If a general meeting is adjourned for 14 days or more, the secretary must give written or oral notice of the adjourned meeting to each member of CSESoc stating the place, date and time of the meeting and the nature of the business to be transacted at the meeting.
 #. Except as provided in subclauses (1) and (2), notice of an adjournment of a general meeting or of the business to be transacted at an adjourned meeting is not required to be given.
 
 Making of decisions
 -------------------
-
-    Copied from section 32 of the Model Constitution.
 
 #. A question arising at a general meeting of CSESoc is to be determined by:
 
@@ -695,15 +627,11 @@ Making of decisions
 Special resolutions
 -------------------
 
-    Copied from section 33 of the Model Constitution.
-    See `https://www.fairtrading.nsw.gov.au/associations-and-co-operatives/associations/running-an-association/resolutions` for more info.
 
 #. A special resolution may only be passed by CSESoc in accordance with section 39 of the Act.
 
 Voting
 ------
-
-    Copied from section 34 of the Model Constitution.
 
 #. On any question arising at a general meeting of CSESoc a full member has one vote only.
 #. In the case of an equality of votes on a question at a general meeting, the chairperson of the meeting is entitled to exercise a second or casting vote.
@@ -714,15 +642,11 @@ Voting
 Postal or electronic ballots
 ----------------------------
 
-    Copied from section 36 of the Model Constitution.
-
 #. CSESoc may hold a postal or electronic ballot (as the Executive determines) to determine any issue or proposal (other than an appeal under clause 12).
 #. A postal or electronic ballot is to be conducted in accordance with Schedule 3 to the Regulation.
 
 Use of technology at general meetings
 -------------------------------------
-
-    Copied from section 37 of the Model Constitution.
 
 #. A general meeting may be held at 2 or more venues using any technology approved by the Executive that gives each of CSESoc’s members a reasonable opportunity to participate.
 #. A member of an association who participates in a general meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
@@ -734,14 +658,10 @@ Miscellaneous
 Insurance
 ---------------
 
-    Copied from section 38 of the Model Constitution.
-
 #. CSESoc may effect and maintain insurance.
 
 Funds - source
 ---------------
-
-    Copied from section 39 of the Model Constitution.
 
 #. The funds of CSESoc are to be derived from donations, sponsorships of CSESoc, grants or other entitlements from Arc, or any other source of funding determined by the executive.
 #. All money received by CSESoc must be deposited as soon as practicable and without deduction to the credit of CSESoc’s bank or other authorised deposit-taking institution account.
@@ -749,8 +669,6 @@ Funds - source
 
 Funds - management
 ---------------
-
-    Copied from section 40 of the Model Constitution.
 
 #. Subject to any resolution passed by CSESoc in general meeting, the funds of CSESoc are to be used solely in pursuance of the objects of CSESoc in the manner that the Executive determines.
 #. All cheques, drafts, bills of exchange, promissory notes and other negotiable instruments must be signed by 2 authorised signatories.
@@ -767,8 +685,6 @@ Finance
    
 Association is non-profit 
 ---------------
-
-    Copied from section 41 of the Model Constitution.
 
 #. Subject to the Act and the Regulation, CSESoc must apply its funds and assets solely in pursuance of the objects of CSESoc and must not conduct its affairs so as to provide a pecuniary gain for any of its members.
 
@@ -793,25 +709,17 @@ Dissolution of the society
 Distribution of property on winding up of association 
 ---------------
 
-    Copied from section 42 of the Model Constitution.
-    Note from the model constitution:
-    Section 65 of the Act provides for distribution of surplus property on the winding up of an association.
-
 #. On dissolution of the society, the society is not to distribute assets to members. All surplus assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the society. If no other legitimate organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the society which it perceives would be useful to other Arc-affiliated clubs. 
 #. In this clause, a reference to the surplus property of an association is a reference to that property of CSESoc remaining after satisfaction of the debts and liabilities of CSESoc and the costs, charges and expenses of the winding up of CSESoc.
 
 Change of name, objects and constitution
 ---------------
 
-    Copied from section 43 of the Model Constitution.
-
 #. An application for registration of a change in CSESoc’s name, objects or constitution in accordance with section 10 of the Act is to be made by the public officer or a member of the Executive.
 #. Change to CSESoc's name, objects or constitution may only be made by Special Resolution.
 
 Custody of books etc
 ---------------
-
-    Copied from section 44 of the Model Constitution.
 
 #. Except as otherwise provided by this constitution, all records, books and other documents relating to CSESoc must be kept in New South Wales:
 
@@ -820,8 +728,6 @@ Custody of books etc
 
 Inspection of books etc
 ---------------
-
-    Copied from section 45 of the Model Constitution. Added section about Arc.
 
 #. The following documents must be open to inspection, free of charge, by a member of CSESoc at any reasonable hour:
 
@@ -835,8 +741,6 @@ Inspection of books etc
 
 Service of notices
 ---------------
-
-    Copied from section 46 of the Model Constitution.
 
 #. For the purpose of this constitution, a notice may be served on or given to a person:
 
@@ -855,10 +759,6 @@ Service of notices
 Financial year
 ---------------
 
-    Notes from the Model Constitution:
-    1. Schedule 1 to the Act provides that an association’s constitution is to address CSESoc’s financial year.
-    2. Clause 19 of the Regulation contains a substitute clause 47 for certain associations incorporated under CSESocs Incorporation Act 1984.
-	
 #. The financial year of CSESoc is:
 
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 30 June, and
