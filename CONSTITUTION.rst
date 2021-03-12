@@ -67,7 +67,7 @@ Definitions
     CSESoc Constitution, Section 1
     Model Constitution, Section 1
 
-1. In this constitution:
+#. In this constitution:
    #. *secretary* means:
 
       #. the person holding office under this constitution as secretary of CSESoc, or
@@ -123,7 +123,7 @@ Membership Generally
       #. That person is currently listed as enrolled in:
 
          #. A Computer Science specialisation; or
-         #. A Computer Engineering, Software Engineering or Bioinformatics Engineering specialization; or
+         #. A Computer Engineering, Software Engineering or Bioinformatics Engineering specialisation; or
          #. A postgraduate program administered by CSE (research or coursework).
       #. Full membership shall not require any fee.
       #. Full membership shall cease when a person is no longer enrolled in one of the courses described in the previous sub-section.
@@ -179,7 +179,7 @@ Members’ liabilities
 --------------------
 
     This section has been taken from Section 9 of the Model Constitution. Note, Section 8 was stricken,
-    since its dealt with in other sections that make having fees unconstitutional.
+    since it is dealt within other sections that make having fees unconstitutional.
 
 #. The liability of a member of CSESoc to contribute towards the payment of the debts and liabilities of CSESoc or the costs, charges and expenses of the winding up of CSESoc is limited to the amount, if any, unpaid by the member in respect of membership of CSESoc as required by the `Membership`_ section.
 
@@ -203,7 +203,7 @@ Impeachment of members
 
    #. A motion is carried by the Executive to instigate impeachment proceedings; or 
    #. The Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-   #. The members of the society are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2; 
+   #. The members of the society are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.4; 
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least five (5) academic days prior to the meeting; 
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and 
    #. A motion of impeachment is carried by the Extraordinary General Meeting.
@@ -249,7 +249,7 @@ The Executive Generally
 
       #. A motion is carried by a two thirds majority vote of the Executive that are not subject to vacancy proceedings to instigate impeachment proceedings; or
       #. The Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-      #. The members of the society are formally notified of the motion upon notice of an Extraordinary General Meeting under Section 4.2;
+      #. The members of the society are formally notified of the motion upon notice of an Extraordinary General Meeting under Section 4.4;
       #. The Executive  member concerned is notified of the motion and reasons for termination in writing at least five (5) academic days prior to the Extraordinary General Meeting;
       #. The Executive member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and
       #. The motion is carried by the Extraordinary General Meeting.
@@ -280,8 +280,7 @@ The Co-Presidents
    #. To act as official spokesperson for the society; 
    #. To arrive at an associate membership fee; 
    #. To liaise with fellow office bearers; 
-   #. To acquaint each Executive member with their function, responsibility, duties and 
-      maintain personal contact with them; 
+   #. To acquaint each Executive member with their function, responsibility, duties and maintain personal contact with them; 
    #. To liaise with Arc where necessary; 
    #. To ensure that an “Application for Affiliation” form accompanied by the minutes 
       of the most recent Annual General Meeting and an updated membership list is 
@@ -346,15 +345,12 @@ The Treasurer
    #. To not put the society in debt that cannot be repaid, but endeavour to match costs and income as closely as possible; 
    #. To always insist on a receipt or docket to validate any expenditure by the society;
    #. To pay all accounts by cheque or EFT;
-   #. To always enter the payee's name, the amount and a brief explanation of the 
-      payment on the cheque butt or EFT transaction description; 
+   #. To always enter the payee's name, the amount and a brief explanation of the payment on the cheque butt or EFT transaction description; 
    #. To always provide a receipt to a person who gives money to the society upon the person's request immediately; 
    #. To ensure petty cash is banked within three (3) business days once it exceeds $500; 
-   #. To ensure you have at least two and not more than three signatories who are 
-      Executive members to the cheque account; 
+   #. To ensure you have at least two and not more than three signatories who are Executive members to the cheque account; 
    #. To ensure that society funds are not misused at any time; and 
-   #. To ensure that when smaller amounts of money are spent, (petty cash) a receipt 
-      or docket must be obtained. *Under no circumstances are any expenses to be met without documentation.*
+   #. To ensure that when smaller amounts of money are spent, (petty cash) a receipt or docket must be obtained. *Under no circumstances are any expenses to be met without documentation.*
 
 
 The Arc Delegate
@@ -365,7 +361,7 @@ The Arc Delegate
 #. The duties of the Arc Delegate shall be:
 
    #. To be aware of Arc rules and regulations, in particular its funding system and the possibilities for the society;
-   #. To communicate with the Executive before and after the each Arc meeting to pass on information (about grants etc); 
+   #. To communicate with the Executive before and after each Arc meeting to pass on information (about grants etc); 
    #. To liaise with Arc and the society’s Executive; 
    #. To have a good working knowledge of Arc forms; 
    #. To clear out the society’s pigeonhole in the Arc Resource Room at least every two weeks; 
@@ -432,9 +428,9 @@ Casual Vacancies
 
    #. dies, or
    #. ceases to be a member of CSESoc, or
-   #. is or becomes an insolvent under administration within the meaning of the Corporations Act 2001 of the Commonwealth, or
+   #. is or becomes insolvent under administration within the meaning of the Corporations Act 2001 of the Commonwealth, or
    #. resigns office by notice in writing given to the secretary, or
-   #. is removed from office under clause 19, or
+   #. is removed from office under Section 3.1 Clause 7.3, or
    #. becomes a mentally incapacitated person, or
    #. is absent without the consent of the Executive from 3 consecutive meetings of the Executive, or
    #. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months, or
@@ -550,11 +546,11 @@ General meetings - requirements
 #. General meeting requirements for all general meetings are as follows:
 
    #. All voting at general meetings, except as otherwise provided by this constitution, shall be with a simple majority required for a resolution to be passed;
-   #. Except where specified otherwise, each full member shall be allowed 1 vote.
+   #. Except where specified otherwise, each full member shall be allowed 1 vote;
    #. Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-   #. In the case of equality of voting, the motion shall be defeated. 
-   #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting; and 
-   #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for CSESoc to remain affiliated with Arc. 
+   #. In the case of equality of voting, the motion shall be defeated;
+   #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting; 
+   #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for CSESoc to remain affiliated with Arc; and
    #. The Secretary shall send the agenda for the meeting, to all those required to attend, no later than two (2) business days prior to the meeting. 
 
 Annual general meetings - holding of
@@ -615,10 +611,8 @@ Extraordinary general meetings - calling of
    #. must be signed by the members making the requisition, and
    #. must be lodged with the secretary, and
    #. may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
-   #. Such a requisitioned meeting must be held within twenty-eight (28) academic days, but no 
-              sooner than five (5) academic days.
+   #. Such a requisitioned meeting must be held within twenty-eight (28) academic days, but no sooner than five (5) academic days.
    #. If the Executive fails to convene a extraordinary general meeting to be held within 1 month after the date on which a requisition of members for the meeting is lodged with the secretary, any one or more of the members who made the requisition may convene a extraordinary general meeting to be held not later than 3 months after that date.
-
    #. A extraordinary general meeting convened by a member or members as referred to in this clause must be convened as nearly as is practicable in the same manner as general meetings are convened by the Executive.
 
 #. For the purposes of subclause (3):
@@ -777,18 +771,17 @@ Dissolution of the society
 
     This is copied from section 7 of the CSESoc constitution.
 
-#.  Dissolution of the Computer Science and Engineering Society of UNSW will occur after the following conditions have been met:
+#. Dissolution of the Computer Science and Engineering Society of UNSW will occur after the following conditions have been met:
 
-   #. An Extraordinary General Meeting is petitioned in writing, in accordance with the relevant constituional requirements for a Special Resolution.
+   #. An Extraordinary General Meeting is petitioned in writing, in accordance with the relevant constituional requirements for a Special Resolution;
    #. Procedures for notification as set out in this constituion are followed, and the reasons for the proposed dissolution are included with the notification to Arc; 
    #. Quorum for the meeting to dissolve the society shall be twenty (20) members or three-quarters of the society membership, whichever is the lesser; 
    #. No other business may be conducted at the meeting to dissolve the society; 
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose; 
-   #. A vote is taken and the motion to dissolve lapses if opposed by more than 25% of votes cast by members of the society eligible to vote.
+   #. A vote is taken and the motion to dissolve lapses if opposed by more than 25% of votes cast by members of the society eligible to vote;
    #. If the motion to dissolve is carried, Arc must be notified within ten (10) academic days.
 
 #. Dissolution of the society will also occur if the society has been financially AND administratively inactive for a period of eighteen (18) months. Financial inactivity shall mean no recorded and official electronic or manual monetary transaction has occurred. Administrative inactivity shall mean no recorded and official publicity to the School of Computer Science and Engineering student body through methods/medium such as email, posters. 
-#. Arc must give twenty (20) academic days notice in Tharunka and/or Blitz and/or the Arc website, and in writing to the last known Co-Presidents before dissolving the society in this way. 
         
 Distribution of property on winding up of association 
 ---------------
