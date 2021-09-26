@@ -649,6 +649,12 @@ Use of technology at general meetings
 Miscellaneous
 =============
 
+CSE Student Representatives
+---------------------------
+
+#. *Stureps* shall mean the CSE Student Representatives.
+#. CSESoc must endeavour to retain a Memorandum of Understanding with the Stureps outlining an approach to student engagment.
+
 Insurance
 ---------------
 
