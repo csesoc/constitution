@@ -364,6 +364,7 @@ Election of the Executive
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
 
    #. Only elections run by the School of CSE shall be recognised. 
+   #. The School of CSE may nominate a person they think is fit and proper to manage the election. If they do so, that person should setup the election and calculate the votes, then transmit them to the School of CSE.
    #. The Executive may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website. 
    #. The election will run for at least three academic days.
 
