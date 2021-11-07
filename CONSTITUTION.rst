@@ -173,7 +173,7 @@ Resolution of disputes
    #. This Policy and Procedure shall initially be the Grievance Resolution Policy and Procedure of the Unincorporated Association which incorporates under this constitution.
    #. This Policy and Procedure may be modified by a vote of the Executive.
 
-#. A dispute between a member and another member (in their capacity as members) of the association shall be referred to the CSESoc GEDI officer; who shall act in accordance with the Grievance Resolution Policy and Procedure.
+#. A dispute between a member and another member (in their capacity as members) of the association shall be referred to the CSESoc GEDI Officer; who shall act in accordance with the Grievance Resolution Policy and Procedure.
 #. A dispute between a member or members and CSESoc, is to be referred to Arc for mediation. Arc shall be the final arbiter of any decision between CSESoc and members.
 
 Impeachment of members
@@ -371,7 +371,8 @@ Election of the Executive
    #. one calendar week after nominations open; or 
    #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position. 
 
-#. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
+#. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee. 
+#. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.   
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
 
    #. Only elections run by the School of CSE shall be recognised. 
@@ -389,10 +390,29 @@ Election of the Executive
 
    #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
 
-#. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
+#. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
-   #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
-   #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
+   #. For each vacancy, within each position:
+      #. Count the votes for that position according to the standard "single transferable vote" algorithm, treating anyone who was already elected to that position, or who preferenced that position lower than one they were elected to, as if they had not run. The candidate who reaches the quota of votes as determined by the Droop quota for that position is elected to that position.
+      #. Should there not be anyone eligible to hold that position, the position shall be declared vacant.
+   #. Each person should then be declared elected to the position which they preferenced highest. All other positions to which they were elected should be declared vacant. 
+   #. Continue the above steps until they result in a stable allocation.
+
+::
+
+   Explanatory Note: This process is unfortunately complex, due to two difficult factors:
+    - Two co-presidents are elected, and
+    - People can run for multiple positions.
+    
+    These two factors together can cause annoying side-effects.
+    
+   To make this simple, basically:
+    - You run two co-president elections -- the first time you just elect someone, the second time you re-run the election, but pretend the winning co-pres didn't run. 
+    - People get their highest preference of position. If someone moves around, due to their preferences, there can be a "chain-effect" of people moving.
+    
+   This might result in a sub-optimal ordering. Unfortunately, the only alternative is to contact people before the election to make a deal, but this can result in some really weird edge cases (You might end up in a situation where someone's choice of position turns out to be a choice between two other people being elected, or where choices are weirdly dependent). It seems better to ensure everyone is maximally happy with their position, and re-run other elections in an EGM (sorry).
+   
+   All the best for your elections, ~tfpk
 
 Casual Vacancies
 ----------------
