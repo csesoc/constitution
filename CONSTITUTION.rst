@@ -659,13 +659,6 @@ Use of technology at general meetings
 Miscellaneous
 =============
 
-CompClub
---------
-
-#. CompClub will be affiliated with CSESoc.
-#. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, less than $5000.
-#. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
-
 Insurance
 ---------------
 
@@ -773,3 +766,17 @@ Financial year
 
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 30 June, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
+
+CompClub
+--------
+
+#. CompClub will be affiliated with CSESoc.
+#. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, less than $5000.
+#. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
+
+
+CSE Student Representatives
+---------------------------
+
+#. *Stureps* shall mean the CSE Student Representatives.
+#. CSESoc must endeavour to retain a Memorandum of Understanding with the Stureps outlining an approach to student engagment.
