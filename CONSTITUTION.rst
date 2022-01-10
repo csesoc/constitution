@@ -173,7 +173,7 @@ Resolution of disputes
    #. This Policy and Procedure shall initially be the Grievance Resolution Policy and Procedure of the Unincorporated Association which incorporates under this constitution.
    #. This Policy and Procedure may be modified by a vote of the Executive.
 
-#. A dispute between a member and another member (in their capacity as members) of the association shall be referred to the CSESoc Grievance officer; who shall act in accordance with the Grievance Resolution Policy and Procedure.
+#. A dispute between a member and another member (in their capacity as members) of the association shall be referred to the CSESoc GEDI Officer; who shall act in accordance with the Grievance Resolution Policy and Procedure.
 #. A dispute between a member or members and CSESoc, is to be referred to Arc for mediation. Arc shall be the final arbiter of any decision between CSESoc and members.
 
 Impeachment of members
@@ -203,9 +203,10 @@ The Executive Generally
    #. One (1) Treasurer;
    #. One (1) Secretary;
    #. One (1) Arc Delegate; and
-   #. One (1) Grievance Officer.
+   #. One (1) Grievance, Equity, Diversity and Inclusion Officer.
 
-#. A member is permitted to hold no more than one (1) Executive position, unless one of the positions is of the Grievance Officer, in which case a member can hold two (2) Executive positions.
+#. *GEDI Officer* shall mean Grievance, Equity, Diversity and Inclusion Officer.
+#. A member is permitted to hold no more than one (1) Executive position.
 #. Subject to the Act, the Regulation, this constitution and any resolution passed by CSESoc in general meeting, the Executive shall:
 
    #. Ensure that through the activities of the Society’s working groups, its aims are being fulfilled;
@@ -338,15 +339,25 @@ The Arc Delegate
    #. To attend Arc clubs general meetings or get someone to stand in, or send advance apologies; and 
    #. To ensure that grants are filed properly, in particular, within the time period specified by Arc.
 
-The Grievance Officer
+The GEDI Officer
 """""""""""""""""""""
 
-#. The duties of the Grievance Officer shall be:
+#. The duties of the GEDI Officer shall be:
 
    #. To receive complaints and grievances relating to the Society;
    #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Society Executive on the resolution of grievances;
    #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Society Executives if they cannot act impartially; and
    #. To notify those involved of the outcome of the grievance.
+   #. Fostering an inclusive culture within the Club;
+   #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
+   #. Engaging & representing student members of non-majority demographics of the Club;
+   #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+   #. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+   #. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
+   #. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+   #. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
+   #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
+   #. Other relevant duties as required.
 
 Election of the Executive
 -------------------------
@@ -358,12 +369,14 @@ Election of the Executive
 #. Nominations must remain open until at least the later of:
 
    #. one calendar week after nominations open; or 
-   #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
+   #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position. 
 
-#. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
+#. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee. 
+#. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.   
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
 
    #. Only elections run by the School of CSE shall be recognised. 
+   #. The School of CSE may nominate a person they think is fit and proper to manage the election. If they do so, that person should setup the election and calculate the votes, then transmit them to the School of CSE.
    #. The Executive may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website. 
    #. The election will run for at least three academic days.
 
@@ -375,14 +388,31 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the Grievance Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
 
-#. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
+#. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
-   #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
-   #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
+   #. For each vacancy, within each position:
+      #. Count the votes for that position according to the standard "single transferable vote" algorithm, treating anyone who was already elected to that position, or who preferenced that position lower than one they were elected to, as if they had not run. The candidate who reaches the quota of votes as determined by the Droop quota for that position is elected to that position.
+      #. Should there not be anyone eligible to hold that position, the position shall be declared vacant.
+   #. Each person should then be declared elected to the position which they preferenced highest. All other positions to which they were elected should be declared vacant. 
+   #. Continue the above steps until they result in a stable allocation.
 
-#. In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
+::
+
+   Explanatory Note: This process is unfortunately complex, due to two difficult factors:
+    - Two co-presidents are elected, and
+    - People can run for multiple positions.
+    
+    These two factors together can cause annoying side-effects.
+    
+   To make this simple, basically:
+    - You run two co-president elections -- the first time you just elect someone, the second time you re-run the election, but pretend the winning co-pres didn't run. 
+    - People get their highest preference of position. If someone moves around, due to their preferences, there can be a "chain-effect" of people moving.
+    
+   This might result in a sub-optimal ordering. Unfortunately, the only alternative is to contact people before the election to make a deal, but this can result in some really weird edge cases (You might end up in a situation where someone's choice of position turns out to be a choice between two other people being elected, or where choices are weirdly dependent). It seems better to ensure everyone is maximally happy with their position, and re-run other elections in an EGM (sorry).
+   
+   All the best for your elections, ~tfpk
 
 Casual Vacancies
 ----------------
@@ -649,16 +679,6 @@ Use of technology at general meetings
 Miscellaneous
 =============
 
-CSESoc CompClub
---------
-
-#. CSESoc CompClub (CompClub) will be affiliated with CSESoc.
-#. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, than $5000.
-   #. In order to request any amount of funding CompClub must abide by the UNSW Student Code of Conduct.
-   #. Arc may, at any time, audit use of CompClub funding. 
-#. In order to act on behalf of the Society, CompClub must abide by the UNSW Student Code of Conduct, and have been granted explicit power of delegation.
-#. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
-
 Insurance
 ---------------
 
@@ -766,3 +786,19 @@ Financial year
 
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 30 June, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
+
+CSESoc CompClub
+--------
+
+#. CSESoc CompClub (CompClub) will be affiliated with CSESoc.
+#. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, than $5000.
+   #. In order to request any amount of funding CompClub must abide by the UNSW Student Code of Conduct.
+   #. Arc may, at any time, audit use of CompClub funding. 
+#. In order to act on behalf of the Society, CompClub must abide by the UNSW Student Code of Conduct, and have been granted explicit power of delegation.
+#. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
+
+CSE Student Representatives
+---------------------------
+
+#. *Stureps* shall mean the CSE Student Representatives.
+#. CSESoc must endeavour to retain a Memorandum of Understanding with the Stureps outlining an approach to student engagment.
