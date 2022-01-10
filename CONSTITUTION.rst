@@ -792,6 +792,7 @@ CSESoc CompClub
 
 #. CSESoc CompClub (CompClub) will be affiliated with CSESoc.
 #. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, than $5000.
+   
    #. In order to request any amount of funding CompClub must abide by the UNSW Student Code of Conduct.
    #. Arc may, at any time, audit use of CompClub funding. 
 #. In order to act on behalf of the Society, CompClub must abide by the UNSW Student Code of Conduct, and have been granted explicit power of delegation.
