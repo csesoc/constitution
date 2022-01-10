@@ -787,13 +787,15 @@ Financial year
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 30 June, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
 
-CompClub
+CSESoc CompClub
 --------
 
-#. CompClub will be affiliated with CSESoc.
-#. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, less than $5000.
+#. CSESoc CompClub (CompClub) will be affiliated with CSESoc.
+#. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, than $5000.
+   #. In order to request any amount of funding CompClub must abide by the UNSW Student Code of Conduct.
+   #. Arc may, at any time, audit use of CompClub funding. 
+#. In order to act on behalf of the Society, CompClub must abide by the UNSW Student Code of Conduct, and have been granted explicit power of delegation.
 #. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
-
 
 CSE Student Representatives
 ---------------------------
