@@ -202,8 +202,10 @@ The Executive Generally
    #. Two (2) Co-presidents;
    #. One (1) Treasurer;
    #. One (1) Secretary;
-   #. One (1) Arc Delegate; and
-   #. One (1) Grievance, Equity, Diversity and Inclusion Officer.
+   #. One (1) Arc Delegate;
+   #. One (1) Grievance, Equity, Diversity and Inclusion Officer;
+   #. One (1) Vice President (External); and
+   #. One (1) Vice President (Internal)
 
 #. *GEDI Officer* shall mean Grievance, Equity, Diversity and Inclusion Officer.
 #. A member is permitted to hold no more than one (1) Executive position.
@@ -359,6 +361,24 @@ The GEDI Officer
    #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
    #. Other relevant duties as required.
 
+Vice President (External)
+"""""""""""""""""""""
+
+#. The duties of the Vice President (External) shall be:
+
+   #. Supervise the external facing aspects of the society, especially the Careers and Events portfolios.
+   #. Sustain and build external relationships and sponsors for CSESoc.
+   #. Facilitate culture and team relations within the society.
+   #. Other relevant duties as required.
+
+Vice President (Internal)
+"""""""""""""""""""""
+
+#. The duties of the Vice President (Internal) shall be:
+   #. Supervise the internal facing operations of the society, especially the Content and Development portfolios.
+   #. Facilitate culture and team relations within the society.
+   #. Other relevant duties as required.
+
 Election of the Executive
 -------------------------
 
@@ -388,7 +408,7 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal). If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
 
 #. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
