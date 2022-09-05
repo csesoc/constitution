@@ -205,7 +205,7 @@ The Executive Generally
    #. One (1) Arc Delegate;
    #. One (1) Grievance, Equity, Diversity and Inclusion Officer;
    #. One (1) Vice President (External); and
-   #. One (1) Vice President (Internal)
+   #. One (1) Vice President (Internal).
 
 #. *GEDI Officer* shall mean Grievance, Equity, Diversity and Inclusion Officer.
 #. A member is permitted to hold no more than one (1) Executive position.
