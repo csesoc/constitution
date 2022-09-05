@@ -375,6 +375,7 @@ Vice President (Internal)
 """""""""""""""""""""
 
 #. The duties of the Vice President (Internal) shall be:
+
    #. Supervise the internal facing operations of the society, especially the Content and Development portfolios.
    #. Facilitate culture and team relations within the society.
    #. Other relevant duties as required.
