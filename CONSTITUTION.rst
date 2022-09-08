@@ -369,9 +369,12 @@ Vice President (External)
 
 #. The duties of the Vice President (External) shall be:
 
-   #. Supervise the external facing aspects of the society, including career and social events.
+   #. Supervise the external facing aspects of the society, including career-related and social events.
    #. Sustain and build external relationships and sponsors for CSESoc.
+   #. Oversee the planning of the society's social events.
    #. Facilitate culture and team relations within the society.
+   #. Pass on their knowledge to their successor.
+   #. Assist the Co-Presidents in their duties wherever practical.
    #. Other relevant duties as required.
 
 Vice President (Internal)
@@ -380,7 +383,10 @@ Vice President (Internal)
 #. The duties of the Vice President (Internal) shall be:
 
    #. Supervise the internal facing operations of the society, such as internal collaborations between teams.
+   #. Oversee the society's social media presence and branding.
    #. Facilitate culture and team relations within the society.
+   #. Pass on their knowledge to their successor.
+   #. Assist the Co-Presidents in their duties wherever practical.
    #. Other relevant duties as required.
 
 Vice President (Development)
@@ -389,9 +395,11 @@ Vice President (Development)
 #. The duties of the Vice President (Development) shall be:
 
    #. Coordinate the recruitment of project teams.
-   #. Manage existing project teams and timelines, and coordinate product features, user interface decisions and design philosophies.
-   #. Oversee the management of CSESoc's technical infrastructure.
+   #. Manage existing project teams and timelines, and oversee new product features, user interface decisions and design philosophies.
+   #. Supervise the management of CSESoc's technical infrastructure.
    #. Facilitate culture and team relations within the society.
+   #. Pass on their knowledge to their successor.
+   #. Assist the Co-Presidents in their duties wherever practical.
    #. Other relevant duties as required.
 
 Election of the Executive
