@@ -397,6 +397,7 @@ Vice President (Development)
    #. Coordinate the recruitment of project teams.
    #. Manage existing project teams and timelines, and oversee new product features, user interface decisions and design philosophies.
    #. Supervise the management of CSESoc's technical infrastructure.
+   #. Improve the development culture in CSESoc and facilitate opportunities for open source development.
    #. Facilitate culture and team relations within the society.
    #. Pass on their knowledge to their successor.
    #. Assist the Co-Presidents in their duties wherever practical.
