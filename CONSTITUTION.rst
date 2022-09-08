@@ -207,7 +207,7 @@ The Executive Generally
    #. One (1) Grievance, Equity, Diversity and Inclusion Officer;
    #. One (1) Vice President (External);
    #. One (1) Vice President (Internal); and
-   #. Two (2) Vice President (Development).
+   #. Two (2) Vice Presidents (Development).
 
 #. *GEDI Officer* shall mean Grievance, Equity, Diversity and Inclusion Officer.
 #. A member is permitted to hold no more than one (1) Executive position.
