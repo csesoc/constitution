@@ -61,6 +61,7 @@ Definitions
 
 
 #. In this constitution:
+
    #. *secretary* means:
 
       #. the person holding office under this constitution as secretary of CSESoc, or
@@ -287,6 +288,7 @@ The Secretary
    #. To coordinate elections; and 
    #. To maintain up-to-date membership lists.
    #. To be public officer of CSESoc, and attend to all requirements of that office under this constituion and under the law.
+
       #. Should the secretary be unwilling or unable to fulfil the requirements of the Public Officer, they shall appoint another member of the executive as public officer.
    #. To keep records of:
 
@@ -426,6 +428,7 @@ Election of the Executive
 #. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
    #. For each vacancy, within each position:
+
       #. Count the votes for that position according to the standard "single transferable vote" algorithm, treating anyone who was already elected to that position, or who preferenced that position lower than one they were elected to, as if they had not run. The candidate who reaches the quota of votes as determined by the Droop quota for that position is elected to that position.
       #. Should there not be anyone eligible to hold that position, the position shall be declared vacant.
    #. Each person should then be declared elected to the position which they preferenced highest. All other positions to which they were elected should be declared vacant. 
@@ -738,6 +741,7 @@ Finance
 
 #. The Executive must approve all accounts for payment. 
 #. All financial transactions shall require two signatures, one of which must be that of the society Treasurer. 
+
    #. In the case of EFT, the required signatures shall be digital. 
    
 Association is non-profit 
