@@ -61,6 +61,7 @@ Definitions
 
 
 #. In this constitution:
+
    #. *secretary* means:
 
       #. the person holding office under this constitution as secretary of CSESoc, or
@@ -202,8 +203,11 @@ The Executive Generally
    #. Two (2) Co-presidents;
    #. One (1) Treasurer;
    #. One (1) Secretary;
-   #. One (1) Arc Delegate; and
-   #. One (1) Grievance, Equity, Diversity and Inclusion Officer.
+   #. One (1) Arc Delegate;
+   #. One (1) Grievance, Equity, Diversity and Inclusion Officer;
+   #. One (1) Vice President (External);
+   #. One (1) Vice President (Internal); and
+   #. Two (2) Vice Presidents (Development).
 
 #. *GEDI Officer* shall mean Grievance, Equity, Diversity and Inclusion Officer.
 #. A member is permitted to hold no more than one (1) Executive position.
@@ -284,6 +288,7 @@ The Secretary
    #. To coordinate elections; and 
    #. To maintain up-to-date membership lists.
    #. To be public officer of CSESoc, and attend to all requirements of that office under this constituion and under the law.
+
       #. Should the secretary be unwilling or unable to fulfil the requirements of the Public Officer, they shall appoint another member of the executive as public officer.
    #. To keep records of:
 
@@ -359,6 +364,45 @@ The GEDI Officer
    #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
    #. Other relevant duties as required.
 
+Vice President (External)
+"""""""""""""""""""""
+
+#. The duties of the Vice President (External) shall be:
+
+   #. Supervise the external facing aspects of the society, including career-related and social events.
+   #. Sustain and build external relationships and sponsors for CSESoc.
+   #. Oversee the planning of the society's social events.
+   #. Facilitate culture and team relations within the society.
+   #. Pass on their knowledge to their successor.
+   #. Assist the Co-Presidents in their duties wherever practical.
+   #. Other relevant duties as required.
+
+Vice President (Internal)
+"""""""""""""""""""""
+
+#. The duties of the Vice President (Internal) shall be:
+
+   #. Supervise the internal facing operations of the society, such as internal collaborations between teams.
+   #. Oversee the society's social media presence and branding.
+   #. Facilitate culture and team relations within the society.
+   #. Pass on their knowledge to their successor.
+   #. Assist the Co-Presidents in their duties wherever practical.
+   #. Other relevant duties as required.
+
+Vice President (Development)
+"""""""""""""""""""""
+
+#. The duties of the Vice President (Development) shall be:
+
+   #. Coordinate the recruitment of project teams.
+   #. Manage existing project teams and timelines, and oversee new product features, user interface decisions and design philosophies.
+   #. Supervise the management of CSESoc's technical infrastructure.
+   #. Improve the development culture in CSESoc and facilitate opportunities for open source development.
+   #. Facilitate culture and team relations within the society.
+   #. Pass on their knowledge to their successor.
+   #. Assist the Co-Presidents in their duties wherever practical.
+   #. Other relevant duties as required.
+
 Election of the Executive
 -------------------------
 
@@ -388,11 +432,12 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer. If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice Presidents (Development). If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
 
 #. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
    #. For each vacancy, within each position:
+
       #. Count the votes for that position according to the standard "single transferable vote" algorithm, treating anyone who was already elected to that position, or who preferenced that position lower than one they were elected to, as if they had not run. The candidate who reaches the quota of votes as determined by the Droop quota for that position is elected to that position.
       #. Should there not be anyone eligible to hold that position, the position shall be declared vacant.
    #. Each person should then be declared elected to the position which they preferenced highest. All other positions to which they were elected should be declared vacant. 
@@ -705,6 +750,7 @@ Finance
 
 #. The Executive must approve all accounts for payment. 
 #. All financial transactions shall require two signatures, one of which must be that of the society Treasurer. 
+
    #. In the case of EFT, the required signatures shall be digital. 
    
 Association is non-profit 
