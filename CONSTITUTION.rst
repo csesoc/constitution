@@ -207,7 +207,7 @@ The Executive Generally
    #. One (1) Grievance, Equity, Diversity and Inclusion Officer;
    #. One (1) Vice President (External);
    #. One (1) Vice President (Internal); and
-   #. Two (2) Vice Presidents (Development).
+   #. One (1) Vice President (Technical).
 
 #. *GEDI Officer* shall mean Grievance, Equity, Diversity and Inclusion Officer.
 #. A member is permitted to hold no more than one (1) Executive position.
@@ -389,15 +389,14 @@ Vice President (Internal)
    #. Assist the Co-Presidents in their duties wherever practical.
    #. Other relevant duties as required.
 
-Vice President (Development)
+Vice President (Technical)
 """""""""""""""""""""
 
-#. The duties of the Vice President (Development) shall be:
+#. The duties of the Vice President (Technical) shall be:
 
-   #. Coordinate the recruitment of project teams.
-   #. Manage existing project teams and timelines, and oversee new product features, user interface decisions and design philosophies.
+   #. Supervise the technical aspects of the society, including internal projects and technical events.
+   #. Manage internal project teams and timelines, such as the website team, and oversee new product features.
    #. Supervise the management of CSESoc's technical infrastructure.
-   #. Improve the development culture in CSESoc and facilitate opportunities for open source development.
    #. Facilitate culture and team relations within the society.
    #. Pass on their knowledge to their successor.
    #. Assist the Co-Presidents in their duties wherever practical.
@@ -432,7 +431,7 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice Presidents (Development). If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice President (Technical). If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
 
 #. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
@@ -843,6 +842,15 @@ CSESoc CompClub
    #. Arc may, at any time, audit use of CompClub funding. 
 #. In order to act on behalf of the Society, CompClub must abide by the UNSW Student Code of Conduct, and have been granted explicit power of delegation.
 #. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
+
+CSESoc Development
+---------
+#. CSESoc Development (Devsoc) [name pending] will be affilated with CSESoc.
+#. CSESoc is responsible for providing Devsoc with reasonable financial funding annually. This is to be negotiated between the Society's treasurer and the treasurer or equivalent position of Devsoc. Unless there are exceptional circumstances, Devsoc may request an amount of funding not greater, in any year, than 15% of CSESoc's gross income.
+   #. This percentage value
+#. Devsoc is to assist CSESoc in the obtaining of the funding pool, such as by collaborating on the sponsorship prospectus or by .
+#. Devsoc will not act on behalf of the Society unless they have been granted explicit power of delegation.
+#. CSESoc must endeavour to retain a Memorandum of Understanding with Devsoc outlining an approach to further funding, sponsorship and activities.
 
 CSE Student Representatives
 ---------------------------
