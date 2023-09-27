@@ -843,14 +843,13 @@ CSESoc CompClub
 #. In order to act on behalf of the Society, CompClub must abide by the UNSW Student Code of Conduct, and have been granted explicit power of delegation.
 #. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
 
-CSESoc Development
+UNSW Software Development Society (DevSoc)
 ---------
-#. CSESoc Development (Devsoc) [name pending] will be affilated with CSESoc.
-#. CSESoc is responsible for providing Devsoc with reasonable financial funding annually. This is to be negotiated between the Society's treasurer and the treasurer or equivalent position of Devsoc. Unless there are exceptional circumstances, Devsoc may request an amount of funding not greater, in any year, than 15% of CSESoc's gross income.
-   #. This percentage value
-#. Devsoc is to assist CSESoc in the obtaining of the funding pool, such as by collaborating on the sponsorship prospectus or by .
-#. Devsoc will not act on behalf of the Society unless they have been granted explicit power of delegation.
-#. CSESoc must endeavour to retain a Memorandum of Understanding with Devsoc outlining an approach to further funding, sponsorship and activities.
+#. DevSoc will be affiliated with CSESoc.
+#. CSESoc is responsible for providing DevSoc with reasonable financial funding annually. This is to be negotiated between the Society's Treasurer and the Treasurer or equivalent position of DevSoc and approved by the executive team of both societies. Unless there are exceptional circumstances, DevSoc may request an amount of funding not greater, in any year, than 15% of CSESoc's gross income.
+   #. It is expected that DevSoc is to assist CSESoc in the obtaining of this funding pool, such as by collaborating on the sponsorship prospectus. Funding is contingent on reasonable assistance being provided.
+#. DevSoc will not act on behalf of the Society unless they have been granted explicit power of delegation.
+#. CSESoc must endeavour to retain a Memorandum of Understanding with DevSoc outlining an approach to further funding, sponsorship, technical infrastructure, and activities.
 
 CSE Student Representatives
 ---------------------------
