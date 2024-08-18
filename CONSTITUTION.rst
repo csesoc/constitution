@@ -95,6 +95,11 @@ Definitions
 
 #. The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
 
+Non-for-Profit Status
+---------------------
+
+#. Subject to the Act and the Regulation, the assets and income of CSESoc shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
+
 
 Membership
 ==========
@@ -751,11 +756,6 @@ Finance
 #. All financial transactions shall require two signatures, one of which must be that of the society Treasurer. 
 
    #. In the case of EFT, the required signatures shall be digital. 
-   
-Association is non-profit 
----------------
-
-#. Subject to the Act and the Regulation, CSESoc must apply its funds and assets solely in pursuance of the objects of CSESoc and must not conduct its affairs so as to provide a pecuniary gain for any of its members.
 
 Dissolution of the society
 -------------------------
