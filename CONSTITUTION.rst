@@ -624,7 +624,7 @@ Annual general meetings - holding of
 
 #. There shall be one Annual General meeting every calendar year. 
 #. The Annual General Meeting shall be held on an academic day. 
-#. Notice in the form of an agenda for the Annual General Meeting shall be given no less than five (5) academic days before and at least seven (7) days, and is to be given in writing, through the CSE email system, to all society members, or upon approval by Arc, displayed in a way that will guarantee an acceptable level of exposure among society members. 
+#. Notice in the form of an agenda for the Annual General Meeting shall be given no less than ten (10) academic days before and at least fourteen (14) days, and is to be given in writing, through the CSE email system, to all society members, or upon approval by Arc, displayed in a way that will guarantee an acceptable level of exposure among society members. 
 
 Annual general meetings - calling of and business at
 ----------------------------------------------------
@@ -679,7 +679,7 @@ Extraordinary general meetings - calling of
 Notice
 ------
 
-#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 7 days and 5 academic days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
+#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least fourteen (14) days and at least ten (10) academic days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 #. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
 
    #. Note that a special resolution must be passed in accordance with section 39 of the Act.
@@ -691,9 +691,10 @@ Quorum for general meetings
 ---------------
 
 #. No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
-#. Fifteen members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
+#. Fifteen (15) members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
 
-   #. Should the society have less than 15 full members, half of the number of full members shall constitute a quorum.
+   #. Should the society have less than fifteen (15) full members, half of the number of full members shall constitute a quorum.
+   #. Members of the Executive are not to count towards reaching quorum
 
 #. If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
 
