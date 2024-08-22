@@ -421,7 +421,7 @@ Election of the Executive
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee. 
 #. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.   
-#. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
+#. The Returning Officers shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
 
    #. Only elections run by the School of CSE shall be recognised. 
    #. The School of CSE may nominate a person they think is fit and proper to manage the election. If they do so, that person should setup the election and calculate the votes, then transmit them to the School of CSE.
@@ -578,6 +578,19 @@ General meetings - requirements
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting; 
    #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for CSESoc to remain affiliated with Arc; and
    #. The Secretary shall send the agenda for the meeting, to all those required to attend, no later than two (2) business days prior to the meeting. 
+
+#. General meetings at which an election will take place must have two (2) Returning Officers
+   
+   #. Returning Officers must be appointed at least fourteen (14) days before the election is to take place;
+   #. Returning Officers are to be the first two Executive members not running for re-election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice President (Technical);
+   #. In the case that all Executive members are running for re-election, the Returning Officers shall be the School Manager and Deputy School Manager;
+   #. The duties of the Returning Officer shall be:
+
+      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management;
+      #. Subject to the Constitution and Arc Clubs Policy and Procedure, ensure that all elections are run fairly
+      #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place
+      #. Provide all members with access to an email address that is designated for use by the Returning Officers over the course of their duties
+      #. Subject to rules set out in Section 3.3 - `Election of the Executive`_, accept all nominations and treat any defective or late nominations in the manner prescribed;
 
 Annual general meetings - holding of
 ------------------------------------
