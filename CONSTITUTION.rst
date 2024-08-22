@@ -188,13 +188,33 @@ Impeachment of members
 #. A member of the society may have their membership terminated (they shall be 'impeached') after the following procedure is followed:
 
    #. A motion is carried by the Executive to instigate impeachment proceedings; or 
-   #. The Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
+   #. The Executive is petitioned by twenty (20) members to instigate impeachment proceedings;
    #. The members of the society are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.4; 
-   #. The member concerned is notified in writing of the procedures and reasons for proceedings at least five (5) academic days prior to the meeting; 
+   #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting; 
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and 
    #. A motion of impeachment is carried by the Extraordinary General Meeting.
 
-#. Any member of the society who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
+#. Notwithstanding clause 2.6.1, a member of the society may have their membership terminated if the following occurs:
+   
+   #. The member in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Society's membership; and/or,
+   #. The member in question has instigated instances of bullying, harassment, assault and/or gendered violence to one or multiple individuals.
+   #. The Society has liaised with Arc about the member in question and Arc has determined the issue is of a serious nature.
+   #. That the Society has, in consultation with Arc, determined that a public Extraordinary General Meeting to remove the individual would cause undue harm to those that have been victimised or harmed. 
+   #. Notice of a General Meeting must then be presented via the email to the member(s) in question, and the Executive, at least seven (7) days prior to the meeting.
+
+      #. This meeting is to be held in confidence and the only people permitted to attend the meeting are:
+         
+         #. The Executive;
+         #. The member(s) in question;
+         #. A support person for each of the member(s) in question, as required;
+         #. Any member of Arc Clubs Management, as required;
+   #. The member(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion
+   #. A motion of impeachment is carried by the General Meeting.
+
+
+#. Any member of the society who believes they have been wrongly expelled may appeal to Arc Clubs Tribunal, who will arrive at the final resolution of the matter.
+
+   #. Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal.  
 
 
 The Executive
@@ -590,7 +610,7 @@ General meetings - requirements
       #. Subject to the Constitution and Arc Clubs Policy and Procedure, ensure that all elections are run fairly
       #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place
       #. Provide all members with access to an email address that is designated for use by the Returning Officers over the course of their duties
-      #. Subject to rules set out in Section 3.3 - `Election of the Executive`_, accept all nominations and treat any defective or late nominations in the manner prescribed;
+      #. Subject to the provisions in Section 3.3 - `Election of the Executive`_, accept all nominations and treat any defective or late nominations in the manner prescribed;
 
 Annual general meetings - holding of
 ------------------------------------
