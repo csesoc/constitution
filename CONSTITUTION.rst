@@ -310,9 +310,9 @@ The Secretary
    #. To organise meetings, agendas (with consultation with the Co-Presidents), and 
       minutes; 
    #. To keep relevant society papers in order; 
-   #. To coordinate elections; and 
-   #. To maintain up-to-date membership lists.
-   #. To be public officer of CSESoc, and attend to all requirements of that office under this constituion and under the law.
+   #. To coordinate elections; 
+   #. To maintain up-to-date membership lists;
+   #. To be public officer of CSESoc, and attend to all requirements of that office under this constituion and under the law;
 
       #. Should the secretary be unwilling or unable to fulfil the requirements of the Public Officer, they shall appoint another member of the executive as public officer.
    #. To keep records of:
@@ -321,6 +321,9 @@ The Secretary
       #. all relevant details required by the Act, and
       #. the names of members of the Executive present at a Executive meeting or a general meeting, and
       #. all proceedings at Executive meetings and general meetings.
+   #. To maintain the Society's Australian Business Number details;
+   #. To ensure their successor is recorded as the Society's primary contact with the Australian Business Register; and
+   #. Subject to the Society's entity type, lodge the annual Non-for-Profit (NFP) Self-Review Return to the Australian Taxation Office, in accordance with the law;
 
 #. Minutes of proceedings at a meeting must be signed by the chairperson of the meeting or by the chairperson of the next succeeding meeting.
 

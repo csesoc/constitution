@@ -2,4 +2,4 @@
 
 Read [CONSTITUTION.rst](CONSTITUTION.rst) to see the CSESoc Constitution.
 
-Check the 'Pull requests' tab for proposed constitutional changes.
+Check the 'Pull requests' tab to see proposed constitutional changes.
