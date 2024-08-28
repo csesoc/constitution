@@ -379,9 +379,12 @@ The GEDI Officer
 
    #. To receive complaints and grievances relating to the Society;
    #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Society Executive on the resolution of grievances;
-   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Society Executives if they cannot act impartially; and
+   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Society Executives if they cannot act impartially;
+   #. Ensure that Club events will not result in poor wellbeing outcomes and will not lead to grievances from Society members and/or Executives;
+   #. To not act as counsellor during any grievances, but to ensure that anyone experiencing distress is provided with adequate resources on who to speak to or where to go to seek professional advice or help; and
    #. To notify those involved of the outcome of the grievance.
    #. Fostering an inclusive culture within the Club;
+   #. To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;
    #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
    #. Engaging & representing student members of non-majority demographics of the Club;
    #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
@@ -390,6 +393,7 @@ The GEDI Officer
    #. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
    #. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
    #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
+   #. Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club; and,
    #. Other relevant duties as required.
 
 Vice President (External)
@@ -459,7 +463,7 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice President (Technical). If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the Returning Officers.
 
 #. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
@@ -610,9 +614,10 @@ General meetings - requirements
    #. The duties of the Returning Officer shall be:
 
       #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management;
-      #. Subject to the Constitution and Arc Clubs Policy and Procedure, ensure that all elections are run fairly
-      #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place
-      #. Provide all members with access to an email address that is designated for use by the Returning Officers over the course of their duties
+      #. Ensure that all nominees are given equal opportunity to present themselves;
+      #. Subject to the Constitution and Arc Clubs Policy and Procedure, ensure that all elections are run fairly;
+      #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place;
+      #. Provide all members with access to an email address that is designated for use by the Returning Officers over the course of their duties;
       #. Subject to the provisions in Section 3.3 - `Election of the Executive`_, accept all nominations and treat any defective or late nominations in the manner prescribed;
 
 Annual general meetings - holding of
