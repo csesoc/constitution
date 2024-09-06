@@ -500,7 +500,7 @@ Casual Vacancies
    #. ceases to be a member of CSESoc, or
    #. is or becomes insolvent under administration within the meaning of the Corporations Act 2001 of the Commonwealth, or
    #. resigns office by notice in writing given to the secretary, or
-   #. is removed from office under Section 3.1 Clause 7.3, or
+   #. is removed from office under Section 3.1 Clause 8.3, or
    #. becomes a mentally incapacitated person, or
    #. is absent without the consent of the Executive from 3 consecutive meetings of the Executive, or
    #. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months, or
@@ -646,11 +646,7 @@ Annual general meetings - calling of and business at
    #. to receive from the Executive reports on the activities of CSESoc during the last preceding financial year;
    #. to elect members of the Executive;
    #. to receive and consider any financial statement or report required to be submitted to members under the Act.
-
-    This requirement will change in another commit to be made.
-      
-   #. Nominations for the Executive elections shall open, pursuant to `Elections`.
-
+   #. Nominations for the Executive elections shall open, pursuant to Section 3.3 `Election of the Executive`_.
    #. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business days of the Handover Meeting; and
 
 #.  Each full member is entitled to one vote at an annual general meeting.
@@ -791,7 +787,7 @@ Funds - management
 Finance
 -------
 
-#. The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution on University campus. 
+#. The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution approved by Arc. 
 #. The Executive shall vote on three members of the Executive to be signatories to the account, one of whom must be the Treasurer.
 
 #. The Executive must approve all accounts for payment. 
