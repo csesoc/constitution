@@ -870,7 +870,7 @@ Financial year
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 30 June, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
 
-UNSW Software Development Society (DevSoc)
+Software Development Society (DevSoc)
 ---------
 #. DevSoc will be affiliated with CSESoc.
 #. CSESoc is responsible for providing DevSoc with reasonable financial funding annually. This is to be negotiated between the Society's Treasurer and the Treasurer or equivalent position of DevSoc and approved by the executive team of both societies. Unless there are exceptional circumstances, DevSoc may request an amount of funding not greater, in any year, than 15% of CSESoc's gross income.
