@@ -98,7 +98,7 @@ Definitions
 Non-for-Profit Status
 ---------------------
 
-#. Subject to the Act and the Regulation, the assets and income of CSESoc shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
+#. The assets and income of CSESoc shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
 
 
 Membership
@@ -321,9 +321,7 @@ The Secretary
       #. all relevant details required by the Act, and
       #. the names of members of the Executive present at a Executive meeting or a general meeting, and
       #. all proceedings at Executive meetings and general meetings.
-   #. To maintain the Society's Australian Business Number details;
-   #. To ensure their successor is recorded as the Society's primary contact with the Australian Business Register; and
-   #. Subject to the Society's entity type, lodge the annual Non-for-Profit (NFP) Self-Review Return to the Australian Taxation Office, in accordance with the law;
+   #. To maintain the Society's Australian Business Register record.
 
 #. Minutes of proceedings at a meeting must be signed by the chairperson of the meeting or by the chairperson of the next succeeding meeting.
 
@@ -609,16 +607,17 @@ General meetings - requirements
 #. General meetings at which an election will take place must have two (2) Returning Officers
    
    #. Returning Officers must be appointed at least fourteen (14) days before the election is to take place;
-   #. Returning Officers are to be the first two Executive members not running for re-election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice President (Technical);
+   #. Returning Officers are to be the first two Executive members not running for re-election in the following list: the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice President (Technical);
    #. In the case that all Executive members are running for re-election, the Returning Officers shall be the School Manager and Deputy School Manager;
    #. The duties of the Returning Officer shall be:
 
       #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management;
       #. Ensure that all nominees are given equal opportunity to present themselves;
       #. Subject to the Constitution and Arc Clubs Policy and Procedure, ensure that all elections are run fairly;
-      #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place;
+      #. Prepare notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place;
       #. Provide all members with access to an email address that is designated for use by the Returning Officers over the course of their duties;
       #. Subject to the provisions in Section 3.3 - `Election of the Executive`_, accept all nominations and treat any defective or late nominations in the manner prescribed;
+      #. To present a report announcing all successful candidates following the conclusion of the voting process.
 
 Annual general meetings - holding of
 ------------------------------------
@@ -698,7 +697,7 @@ Quorum for general meetings
 #. Fifteen (15) members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
 
    #. Should the society have less than fifteen (15) full members, half of the number of full members shall constitute a quorum.
-   #. Members of the Executive are not to count towards reaching quorum
+   #. Members of the Executive that served in the current year are not to count towards constituting quorum
 
 #. If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
 
