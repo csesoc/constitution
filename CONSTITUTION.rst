@@ -202,7 +202,7 @@ Impeachment of members
    #. That the Society has, in consultation with Arc, determined that a public Extraordinary General Meeting to remove the individual would cause undue harm to those that have been victimised or harmed. 
    #. Notice of a General Meeting must then be presented via the email to the member(s) in question, and the Executive, at least seven (7) days prior to the meeting.
 
-      #. This meeting is to be held in confidence and the only people permitted to attend the meeting are:
+      #. This meeting is to be held in camera and the only people permitted to attend the meeting are:
          
          #. The Executive;
          #. The member(s) in question;
