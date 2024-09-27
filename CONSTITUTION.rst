@@ -115,8 +115,7 @@ Membership Generally
       #. That person is a natural person.
       #. That person is currently listed as enrolled in:
 
-         #. A Computer Science specialisation; or
-         #. A Computer Engineering, Software Engineering or Bioinformatics Engineering specialisation; or
+         #. An undergraduate program administered by CSE.
          #. A postgraduate program administered by CSE (research or coursework).
       #. Full membership shall not require any fee.
       #. Full membership shall cease when a person is no longer enrolled in one of the courses described in the previous sub-section.
