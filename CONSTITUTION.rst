@@ -95,6 +95,11 @@ Definitions
 
 #. The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
 
+Non-for-Profit Status
+---------------------
+
+#. The assets and income of CSESoc shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
+
 
 Membership
 ==========
@@ -110,8 +115,7 @@ Membership Generally
       #. That person is a natural person.
       #. That person is currently listed as enrolled in:
 
-         #. A Computer Science specialisation; or
-         #. A Computer Engineering, Software Engineering or Bioinformatics Engineering specialisation; or
+         #. An undergraduate program administered by CSE.
          #. A postgraduate program administered by CSE (research or coursework).
       #. Full membership shall not require any fee.
       #. Full membership shall cease when a person is no longer enrolled in one of the courses described in the previous sub-section.
@@ -183,13 +187,33 @@ Impeachment of members
 #. A member of the society may have their membership terminated (they shall be 'impeached') after the following procedure is followed:
 
    #. A motion is carried by the Executive to instigate impeachment proceedings; or 
-   #. The Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
+   #. The Executive is petitioned by twenty (20) members to instigate impeachment proceedings;
    #. The members of the society are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.4; 
-   #. The member concerned is notified in writing of the procedures and reasons for proceedings at least five (5) academic days prior to the meeting; 
+   #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting; 
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting; and 
    #. A motion of impeachment is carried by the Extraordinary General Meeting.
 
-#. Any member of the society who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
+#. Notwithstanding clause 2.6.1, a member of the society may have their membership terminated if the following occurs:
+   
+   #. The member in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Society's membership; and/or,
+   #. The member in question has instigated instances of bullying, harassment, assault and/or gendered violence to one or multiple individuals.
+   #. The Society has liaised with Arc about the member in question and Arc has determined the issue is of a serious nature.
+   #. That the Society has, in consultation with Arc, determined that a public Extraordinary General Meeting to remove the individual would cause undue harm to those that have been victimised or harmed. 
+   #. Notice of a General Meeting must then be presented via the email to the member(s) in question, and the Executive, at least seven (7) days prior to the meeting.
+
+      #. This meeting is to be held in camera and the only people permitted to attend the meeting are:
+         
+         #. The Executive;
+         #. The member(s) in question;
+         #. A support person for each of the member(s) in question, as required;
+         #. Any member of Arc Clubs Management, as required;
+   #. The member(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion
+   #. A motion of impeachment is carried by the General Meeting.
+
+
+#. Any member of the society who believes they have been wrongly expelled may appeal to Arc Clubs Tribunal, who will arrive at the final resolution of the matter.
+
+   #. Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal.  
 
 
 The Executive
@@ -285,9 +309,9 @@ The Secretary
    #. To organise meetings, agendas (with consultation with the Co-Presidents), and 
       minutes; 
    #. To keep relevant society papers in order; 
-   #. To coordinate elections; and 
-   #. To maintain up-to-date membership lists.
-   #. To be public officer of CSESoc, and attend to all requirements of that office under this constituion and under the law.
+   #. To coordinate elections; 
+   #. To maintain up-to-date membership lists;
+   #. To be public officer of CSESoc, and attend to all requirements of that office under this constituion and under the law;
 
       #. Should the secretary be unwilling or unable to fulfil the requirements of the Public Officer, they shall appoint another member of the executive as public officer.
    #. To keep records of:
@@ -296,6 +320,7 @@ The Secretary
       #. all relevant details required by the Act, and
       #. the names of members of the Executive present at a Executive meeting or a general meeting, and
       #. all proceedings at Executive meetings and general meetings.
+   #. To maintain the Society's Australian Business Register record.
 
 #. Minutes of proceedings at a meeting must be signed by the chairperson of the meeting or by the chairperson of the next succeeding meeting.
 
@@ -351,9 +376,12 @@ The GEDI Officer
 
    #. To receive complaints and grievances relating to the Society;
    #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Society Executive on the resolution of grievances;
-   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Society Executives if they cannot act impartially; and
+   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Society Executives if they cannot act impartially;
+   #. Ensure that Club events will not result in poor wellbeing outcomes and will not lead to grievances from Society members and/or Executives;
+   #. To not act as counsellor during any grievances, but to ensure that anyone experiencing distress is provided with adequate resources on who to speak to or where to go to seek professional advice or help; and
    #. To notify those involved of the outcome of the grievance.
    #. Fostering an inclusive culture within the Club;
+   #. To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;
    #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
    #. Engaging & representing student members of non-majority demographics of the Club;
    #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
@@ -362,6 +390,7 @@ The GEDI Officer
    #. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
    #. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
    #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
+   #. Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club; and,
    #. Other relevant duties as required.
 
 Vice President (External)
@@ -416,7 +445,7 @@ Election of the Executive
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee. 
 #. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.   
-#. The Co-Presidents shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
+#. The Returning Officers shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
 
    #. Only elections run by the School of CSE shall be recognised. 
    #. The School of CSE may nominate a person they think is fit and proper to manage the election. If they do so, that person should setup the election and calculate the votes, then transmit them to the School of CSE.
@@ -431,7 +460,7 @@ Election of the Executive
 #. Only full members are entitled to vote for the Executive. 
 #. Voting is to be confidential and anonymous with the exception of,
 
-   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice President (Technical). If all of the above are running in the election the vote should be submitted to the School Manager. The executive member (or School Manager) will then submit the anonymised vote to the member in charge of maintaining the list of nominees.
+   #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the Returning Officers.
 
 #. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
 
@@ -468,7 +497,7 @@ Casual Vacancies
    #. ceases to be a member of CSESoc, or
    #. is or becomes insolvent under administration within the meaning of the Corporations Act 2001 of the Commonwealth, or
    #. resigns office by notice in writing given to the secretary, or
-   #. is removed from office under Section 3.1 Clause 7.3, or
+   #. is removed from office under Section 3.1 Clause 8.3, or
    #. becomes a mentally incapacitated person, or
    #. is absent without the consent of the Executive from 3 consecutive meetings of the Executive, or
    #. is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months, or
@@ -574,6 +603,21 @@ General meetings - requirements
    #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for CSESoc to remain affiliated with Arc; and
    #. The Secretary shall send the agenda for the meeting, to all those required to attend, no later than two (2) business days prior to the meeting. 
 
+#. General meetings at which an election will take place must have two (2) Returning Officers
+   
+   #. Returning Officers must be appointed at least fourteen (14) days before the election is to take place;
+   #. Returning Officers are to be the first two Executive members not running for re-election in the following list: the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate, the GEDI Officer, the Vice President (External), the Vice President (Internal), the Vice President (Technical);
+   #. In the case that all Executive members are running for re-election, the Returning Officers shall be the School Manager and Deputy School Manager;
+   #. The duties of the Returning Officer shall be:
+
+      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management;
+      #. Ensure that all nominees are given equal opportunity to present themselves;
+      #. Subject to the Constitution and Arc Clubs Policy and Procedure, ensure that all elections are run fairly;
+      #. Prepare notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place;
+      #. Provide all members with access to an email address that is designated for use by the Returning Officers over the course of their duties;
+      #. Subject to the provisions in Section 3.3 - `Election of the Executive`_, accept all nominations and treat any defective or late nominations in the manner prescribed;
+      #. To present a report announcing all successful candidates following the conclusion of the voting process.
+
 Annual general meetings - holding of
 ------------------------------------
 
@@ -586,7 +630,7 @@ Annual general meetings - holding of
 
 #. There shall be one Annual General meeting every calendar year. 
 #. The Annual General Meeting shall be held on an academic day. 
-#. Notice in the form of an agenda for the Annual General Meeting shall be given no less than five (5) academic days before and at least seven (7) days, and is to be given in writing, through the CSE email system, to all society members, or upon approval by Arc, displayed in a way that will guarantee an acceptable level of exposure among society members. 
+#. Notice in the form of an agenda for the Annual General Meeting shall be given no less than ten (10) academic days before and at least fourteen (14) days, and is to be given in writing, through the CSE email system, to all society members, or upon approval by Arc, displayed in a way that will guarantee an acceptable level of exposure among society members. 
 
 Annual general meetings - calling of and business at
 ----------------------------------------------------
@@ -600,11 +644,7 @@ Annual general meetings - calling of and business at
    #. to receive from the Executive reports on the activities of CSESoc during the last preceding financial year;
    #. to elect members of the Executive;
    #. to receive and consider any financial statement or report required to be submitted to members under the Act.
-
-    This requirement will change in another commit to be made.
-      
-   #. Nominations for the Executive elections shall open, pursuant to `Elections`.
-
+   #. Nominations for the Executive elections shall open, pursuant to Section 3.3 `Election of the Executive`_.
    #. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within ten (10) business days of the Handover Meeting; and
 
 #.  Each full member is entitled to one vote at an annual general meeting.
@@ -641,7 +681,7 @@ Extraordinary general meetings - calling of
 Notice
 ------
 
-#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 7 days and 5 academic days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
+#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least fourteen (14) days and at least ten (10) academic days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 #. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of CSESoc, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
 
    #. Note that a special resolution must be passed in accordance with section 39 of the Act.
@@ -653,9 +693,10 @@ Quorum for general meetings
 ---------------
 
 #. No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
-#. Fifteen members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
+#. Fifteen (15) members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
 
-   #. Should the society have less than 15 full members, half of the number of full members shall constitute a quorum.
+   #. Should the society have less than fifteen (15) full members, half of the number of full members shall constitute a quorum.
+   #. Members of the Executive that served in the current year are not to count towards constituting quorum
 
 #. If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
 
@@ -744,18 +785,13 @@ Funds - management
 Finance
 -------
 
-#. The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution on University campus. 
+#. The Computer Science and Engineering Society of UNSW shall hold an account with a financial institution approved by Arc. 
 #. The Executive shall vote on three members of the Executive to be signatories to the account, one of whom must be the Treasurer.
 
 #. The Executive must approve all accounts for payment. 
 #. All financial transactions shall require two signatures, one of which must be that of the society Treasurer. 
 
    #. In the case of EFT, the required signatures shall be digital. 
-   
-Association is non-profit 
----------------
-
-#. Subject to the Act and the Regulation, CSESoc must apply its funds and assets solely in pursuance of the objects of CSESoc and must not conduct its affairs so as to provide a pecuniary gain for any of its members.
 
 Dissolution of the society
 -------------------------
@@ -832,22 +868,13 @@ Financial year
    #. the period of time commencing on the date of incorporation of CSESoc and ending on the following 30 June, and
    #. each period of 12 months after the expiration of the previous financial year of CSESoc, commencing on 1 July and ending on the following 30 June.
 
-CSESoc CompClub
---------
-
-#. CSESoc CompClub (CompClub) will be affiliated with CSESoc.
-#. CSESoc is responsible for providing the CompClub with reasonable financial funding annually. Unless there are exceptional circumstances, CompClub may request an amount of funding not greater, in any year, than $5000.
-   
-   #. In order to request any amount of funding CompClub must abide by the UNSW Student Code of Conduct.
-   #. Arc may, at any time, audit use of CompClub funding. 
-#. In order to act on behalf of the Society, CompClub must abide by the UNSW Student Code of Conduct, and have been granted explicit power of delegation.
-#. CSESoc must endeavour to retain a Memorandum of Understanding with CompClub outlining an approach to further funding, sponsorship and activities.
-
-UNSW Software Development Society (DevSoc)
+Software Development Society (DevSoc)
 ---------
 #. DevSoc will be affiliated with CSESoc.
 #. CSESoc is responsible for providing DevSoc with reasonable financial funding annually. This is to be negotiated between the Society's Treasurer and the Treasurer or equivalent position of DevSoc and approved by the executive team of both societies. Unless there are exceptional circumstances, DevSoc may request an amount of funding not greater, in any year, than 15% of CSESoc's gross income.
+
    #. It is expected that DevSoc is to assist CSESoc in the obtaining of this funding pool, such as by collaborating on the sponsorship prospectus. Funding is contingent on reasonable assistance being provided.
+
 #. DevSoc will not act on behalf of the Society unless they have been granted explicit power of delegation.
 #. CSESoc must endeavour to retain a Memorandum of Understanding with DevSoc outlining an approach to further funding, sponsorship, technical infrastructure, and activities.
 
