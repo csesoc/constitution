@@ -117,6 +117,8 @@ Membership Generally
 
          #. An undergraduate program administered by CSE.
          #. A postgraduate program administered by CSE (research or coursework).
+
+      #. That person is a valid member of CSESoc on Rubric UNSW
       #. Full membership shall not require any fee.
       #. Full membership shall cease when a person is no longer enrolled in one of the courses described in the previous sub-section.
 
@@ -133,13 +135,18 @@ Membership Generally
       #. They would not cause a violation of the affiliation requirements of Arc, and
       #. They pay a membership fee, as set by the society Executive, and
       #. They complete a membership form prepared by the society Executive.
+      #. They have a valid membership for CSESoc on Rubric UNSW
    #. An associate member whose membership is by application to the Executive shall cease to be a member of CSESoc at the end of the calendar year, unless they would otherwise retain that membership.
 #. Notwithstanding other provisions of this section, a person ceases to be a member of CSESoc if the person:
 
    #. dies, or
    #. notifies the Executive in writing to request their membership be terminated, or
-   #. is removed from the Executive under the provisions described in `Impeachment of Members`_.
+   #. is removed from the Executive under the provisions described in `Impeachment of Members`_ or
+   #. their membership with CSESoc on Rubric UNSW is no longer valid
 
+#. Signing up for a CSESoc membership can be done via the official Rubric UNSW Website (https://campus.hellorubric.com/?s=12504)
+   #. The membership commences on the date they purchase membership and remains valid until the end of Week Three of Term One of the following calendar year."
+ 
 Membership entitlements not transferable
 ----------------------------------------
 
@@ -206,7 +213,7 @@ Impeachment of members
          #. The Executive;
          #. The member(s) in question;
          #. A support person for each of the member(s) in question, as required;
-         #. Any member of Arc Clubs Management, as required;
+         #. Any member of Arc, as required; 
    #. The member(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion
    #. A motion of impeachment is carried by the General Meeting.
 
@@ -444,10 +451,9 @@ Election of the Executive
    #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position. 
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee. 
-#. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.   
-#. The Returning Officers shall maintain the official list of nominees during the nomination period, and upon its closure, forward the list to the School of CSE, who shall run the official election. The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary on this same day.
+#. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.  
+#. The Returning Officers shall maintain the official list of nominees during the nomination period, and upon its closure. 
 
-   #. Only elections run by the School of CSE shall be recognised. 
    #. The School of CSE may nominate a person they think is fit and proper to manage the election. If they do so, that person should setup the election and calculate the votes, then transmit them to the School of CSE.
    #. The Executive may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website. 
    #. The election will run for at least three academic days.
@@ -462,7 +468,7 @@ Election of the Executive
 
    #. In the event of a full member being prevented by the School of CSE from accessing the voting site, votes shall be submitted to the Returning Officers.
 
-#. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
+#. Votes will be counted using a modified version of the Single Transferable Vote (STV) electoral system, a variant of the Instant Runoff Voting (IRV) system. 
 
    #. For each vacancy, within each position:
 
@@ -610,7 +616,7 @@ General meetings - requirements
    #. In the case that all Executive members are running for re-election, the Returning Officers shall be the School Manager and Deputy School Manager;
    #. The duties of the Returning Officer shall be:
 
-      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management;
+      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc;
       #. Ensure that all nominees are given equal opportunity to present themselves;
       #. Subject to the Constitution and Arc Clubs Policy and Procedure, ensure that all elections are run fairly;
       #. Prepare notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place;
